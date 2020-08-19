@@ -1,7 +1,4 @@
-# AboutCuraSetting
-큐라 셋팅을 찾기 위한 것
-
- material_break_preparation_temperature="200" 
+material_break_preparation_temperature="200" 
  jerk_wall_x="10" 
  jerk_prime_tower="15" 
  machine_heated_bed="True" 
@@ -89,7 +86,7 @@
  machine_max_jerk_e="5.0" 
  support_tree_angle="40" 
  raft_base_thickness="0.6839999999999999" 
- time="18:14:19" 
+ time="18:17:55" 
  mesh_position_x="0" 
  skin_material_flow="100" 
  magic_fuzzy_skin_point_dist="0.8" 
@@ -812,7 +809,7 @@
  material_break_preparation_retracted_position="-16" 
  support_top_distance="1.12" 
  fill_perimeter_gaps="everywhere" 
- top_bottom_pattern_0="lines" 
+ top_bottom_pattern_0="zigzag" 
  support_line_width="13.1" 
  mold_angle="40" 
  skin_overlap_mm="1.345" 
@@ -1524,4 +1521,3 @@
  travel_avoid_distance="3" 
  roofing_layer_count="0" -g -e0 -l "0" 
  extruder_nr="0"
-
