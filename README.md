@@ -1,4 +1,4 @@
-2020-08-20 12:32:59,192 - DEBUG - [Thread-17] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 12:35:28,272 - DEBUG - [Thread-20] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="100" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="12:32:58" 
+ time="12:35:27" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -892,7 +892,7 @@
  min_infill_area="0" 
  skin_preshrink="93.7" 
  raft_smoothing="5" 
- wall_min_flow="0" 
+ wall_min_flow="2" 
  wipe_hop_enable="True" 
  infill_line_distance="204.0" 
  coasting_speed="90" 
