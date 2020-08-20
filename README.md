@@ -1,4 +1,4 @@
-2020-08-20 14:26:58,162 - DEBUG - [Thread-74] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 14:28:16,993 - DEBUG - [Thread-77] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="100" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="14:26:57" 
+ time="14:28:16" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -629,7 +629,7 @@
  jerk_prime_tower="15" 
  jerk_skirt_brim="5" 
  mold_angle="40" 
- skin_overlap_mm="1.345" 
+ skin_overlap_mm="1.4794999999999998" 
  resolution="0" 
  wipe_hop_speed="100" 
  infill_pattern="triangles" 
@@ -837,7 +837,7 @@
  machine_filament_park_distance="16" 
  max_extrusion_before_wipe="10" 
  cross_infill_density_image="" 
- skin_overlap="10" 
+ skin_overlap="11" 
  infill_material_flow="100" 
  support_bottom_distance="0.56" 
  machine_extruder_start_code="" 
