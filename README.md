@@ -1,4 +1,4 @@
-2020-08-20 14:23:46,153 - DEBUG - [Thread-68] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 14:25:23,481 - DEBUG - [Thread-71] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="100" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="14:23:45" 
+ time="14:25:22" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -634,7 +634,7 @@
  wipe_hop_speed="100" 
  infill_pattern="triangles" 
  cooling="0" 
- acceleration_ironing="500" 
+ acceleration_ironing="501" 
  extruder_prime_pos_z="2" 
  support_connect_zigzags="True" 
  retraction_extrusion_window="1" 
