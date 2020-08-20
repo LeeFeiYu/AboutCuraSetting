@@ -1,4 +1,4 @@
-2020-08-20 16:01:24,481 - DEBUG - [Thread-176] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 16:04:02,938 - DEBUG - [Thread-179] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="16:01:23" 
+ time="16:04:02" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -767,7 +767,7 @@
  speed_wall_x="30" 
  wall_x_material_flow="96" 
  skirt_brim_minimal_length="250" 
- skin_material_flow="99" 
+ skin_material_flow="95" 
  wall_0_inset="0.3" 
  material_maximum_park_duration="300" 
  support_bottom_density="100" 
@@ -945,7 +945,7 @@
  raft_base_jerk="25" 
  material_break_temperature="60" 
  optimize_wall_printing_order="True" 
- roofing_material_flow="99" 
+ roofing_material_flow="95" 
  bridge_wall_speed="10.0" 
  wall_line_width_x="13.4" 
  acceleration_support_infill="2000" 
