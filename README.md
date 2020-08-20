@@ -1,4 +1,4 @@
-2020-08-20 13:53:30,809 - DEBUG - [Thread-41] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 13:55:18,907 - DEBUG - [Thread-44] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="100" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="13:53:29" 
+ time="13:55:18" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -642,7 +642,7 @@
  raft_interface_jerk="25" 
  skin_line_width="13.5" 
  speed_print="70" 
- skin_no_small_gaps_heuristic="False" 
+ skin_no_small_gaps_heuristic="True" 
  raft_base_thickness="0.6839999999999999" 
  bridge_skin_density_3="80" 
  speed_wall_0="20" 
