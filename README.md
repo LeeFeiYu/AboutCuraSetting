@@ -1,4 +1,4 @@
-2020-08-20 14:28:16,993 - DEBUG - [Thread-77] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 14:30:37,119 - DEBUG - [Thread-80] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="100" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="14:28:16" 
+ time="14:30:36" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -629,7 +629,7 @@
  jerk_prime_tower="15" 
  jerk_skirt_brim="5" 
  mold_angle="40" 
- skin_overlap_mm="1.4794999999999998" 
+ skin_overlap_mm="0.1" 
  resolution="0" 
  wipe_hop_speed="100" 
  infill_pattern="triangles" 
