@@ -1,4 +1,4 @@
-2020-08-20 12:18:27,693 - DEBUG - [Thread-23] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 12:21:50,016 - DEBUG - [Thread-26] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  material_break_preparation_temperature="200" 
  jerk_wall_x="10" 
  jerk_prime_tower="15" 
@@ -87,7 +87,7 @@
  machine_max_jerk_e="5.0" 
  support_tree_angle="40" 
  raft_base_thickness="0.6839999999999999" 
- time="12:18:26" 
+ time="12:21:49" 
  mesh_position_x="0" 
  skin_material_flow="100" 
  magic_fuzzy_skin_point_dist="0.8" 
@@ -805,7 +805,7 @@
  gradual_infill_step_height="1.5" 
  machine_nozzle_temp_enabled="True" 
  gradual_support_infill_step_height="1" 
- alternate_extra_perimeter="False" 
+ alternate_extra_perimeter="True" 
  xy_offset="0" 
  material_break_preparation_retracted_position="-16" 
  support_top_distance="1.12" 
