@@ -1,4 +1,4 @@
-2020-08-20 15:36:47,943 - DEBUG - [Thread-158] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 15:39:04,282 - DEBUG - [Thread-161] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="100" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="15:36:47" 
+ time="15:39:03" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -665,7 +665,7 @@
  support_skip_zag_per_mm="20" 
  spaghetti_max_infill_angle="10" 
  jerk_travel_layer_0="10.0" 
- min_skin_width_for_expansion="6.858022075225179e-17" 
+ min_skin_width_for_expansion="0.09798730314903485" 
  infill_support_angle="41" 
  acceleration_topbottom="500" 
  machine_steps_per_mm_x="50" 
@@ -981,7 +981,7 @@
  material_shrinkage_percentage="0" 
  minimum_interface_area="1.0" 
  material_end_of_filament_purge_length="20" 
- max_skin_angle_for_expansion="90" 
+ max_skin_angle_for_expansion="85" 
  speed_support_infill="20" 
  retract_at_layer_change="False" 
  ironing_enabled="True" 
