@@ -1,4 +1,4 @@
-2020-08-20 13:58:49,073 - DEBUG - [Thread-50] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 14:01:53,765 - DEBUG - [Thread-53] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="100" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="13:58:48" 
+ time="14:01:52" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -742,7 +742,7 @@
  support_zag_skip_count="0" 
  material_print_temperature="200" 
  magic_mesh_surface_mode="normal" 
- ironing_only_highest_layer="False" 
+ ironing_only_highest_layer="True" 
  meshfix="0" 
  infill_offset_x="0" 
  support_infill_rate="15" 
