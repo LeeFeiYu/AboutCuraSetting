@@ -1,4 +1,4 @@
-2020-08-20 16:24:28,507 - DEBUG - [Thread-197] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-20 16:26:04,107 - DEBUG - [Thread-200] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="16:24:27" 
+ time="16:26:03" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -923,7 +923,7 @@
  prime_tower_min_volume="6" 
  raft_surface_layers="2" 
  xy_offset_layer_0="0.01" 
- retraction_enable="False" 
+ retraction_enable="True" 
  skin_outline_count="2" 
  z_seam_y="240" 
  top_bottom_pattern="lines" 
@@ -983,7 +983,7 @@
  material_end_of_filament_purge_length="20" 
  max_skin_angle_for_expansion="85" 
  speed_support_infill="20" 
- retract_at_layer_change="False" 
+ retract_at_layer_change="True" 
  ironing_enabled="True" 
  xy_offset="0.01" 
  material_break_preparation_retracted_position="-16" 
