@@ -1,4 +1,4 @@
-2020-08-21 15:22:01,787 - DEBUG - [Thread-365] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 15:23:39,791 - DEBUG - [Thread-368] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="15:22:00" 
+ time="15:23:38" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -848,7 +848,7 @@
  small_hole_max_size="0" 
  connect_skin_polygons="False" 
  support_bottom_stair_step_height="0.3" 
- retraction_combing_max_distance="0" 
+ retraction_combing_max_distance="1" 
  brim_line_count="3" 
  acceleration_support="1500" 
  wall_line_count="7" 
