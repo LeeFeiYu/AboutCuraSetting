@@ -1,4 +1,4 @@
-2020-08-21 13:37:12,480 - DEBUG - [Thread-269] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 13:40:27,816 - DEBUG - [Thread-272] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="13:37:11" 
+ time="13:40:26" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -988,7 +988,7 @@
  xy_offset="0.01" 
  material_break_preparation_retracted_position="-16" 
  platform_adhesion="0" 
- speed_print_layer_0="22" 
+ speed_print_layer_0="21" 
  machine_endstop_positive_direction_x="False" 
  raft_interface_acceleration="4000" 
  retraction_amount="6.4" 
