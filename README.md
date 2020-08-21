@@ -1,4 +1,4 @@
-2020-08-21 16:01:50,074 - DEBUG - [Thread-401] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 16:04:23,717 - DEBUG - [Thread-404] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="16:01:49" 
+ time="16:04:22" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -773,7 +773,7 @@
  support_bottom_density="100" 
  material_break_preparation_speed="2" 
  meshfix_extensive_stitching="False" 
- meshfix_union_all="True" 
+ meshfix_union_all="False" 
  raft_surface_acceleration="3000" 
  infill_wall_line_count="1" 
  shell="0" 
