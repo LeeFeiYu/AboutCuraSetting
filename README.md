@@ -1,4 +1,4 @@
-2020-08-21 15:05:39,464 - DEBUG - [Thread-350] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 15:10:03,590 - DEBUG - [Thread-353] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="15:05:38" 
+ time="15:10:02" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -588,7 +588,7 @@
  machine_head_polygon="[[-1, 1], [-1, -1], [1, -1], [1, 1]]" 
  material_no_load_move_factor="0.940860215" -e0 
  jerk_wall="12" 
- jerk_travel="50" 
+ jerk_travel="49" 
  support_bottom_material_flow="99" 
  meshfix_maximum_resolution="0.8666666666666667" 
  speed_support_bottom="30" 
@@ -664,7 +664,7 @@
  mesh_position_x="0" 
  support_skip_zag_per_mm="20" 
  spaghetti_max_infill_angle="10" 
- jerk_travel_layer_0="15.384615384615385" 
+ jerk_travel_layer_0="15.076923076923077" 
  min_skin_width_for_expansion="0.1" 
  infill_support_angle="41" 
  acceleration_topbottom="371" 
