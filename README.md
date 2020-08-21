@@ -1,4 +1,4 @@
-2020-08-21 15:50:53,438 - DEBUG - [Thread-383] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 15:54:18,579 - DEBUG - [Thread-386] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="15:50:52" 
+ time="15:54:17" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -833,7 +833,7 @@
  cool_min_speed="7" 
  material_initial_print_temperature="190" 
  support_bottom_angles="[ ]" 
- layer_start_y="228.0" 
+ layer_start_y="228.1" 
  machine_filament_park_distance="16" 
  max_extrusion_before_wipe="10" 
  cross_infill_density_image="" 
