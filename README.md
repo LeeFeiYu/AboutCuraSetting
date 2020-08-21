@@ -1,4 +1,4 @@
-2020-08-21 15:55:48,212 - DEBUG - [Thread-389] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 15:57:17,702 - DEBUG - [Thread-392] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="15:55:47" 
+ time="15:57:16" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -683,7 +683,7 @@
  extruder_nr="0" 
  switch_extruder_retraction_speed="22" 
  magic_fuzzy_skin_point_dist="0.8" 
- retraction_hop_only_when_collides="True" 
+ retraction_hop_only_when_collides="False" 
  speed_prime_tower="30" 
  machine_endstop_positive_direction_z="True" 
  skirt_line_count="1" 
@@ -961,7 +961,7 @@
  roofing_layer_count="1" 
  speed_equalize_flow_enabled="True" 
  skirt_brim_material_flow="92" 
- retraction_hop_enabled="False" 
+ retraction_hop_enabled="True" 
  bridge_fan_speed_2="0" 
  acceleration_print_layer_0="372" 
  retraction_hop="2" 
