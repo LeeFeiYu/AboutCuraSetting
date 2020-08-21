@@ -1,4 +1,4 @@
-2020-08-21 16:04:23,717 - DEBUG - [Thread-404] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 16:06:07,831 - DEBUG - [Thread-407] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="16:04:22" 
+ time="16:06:07" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -949,7 +949,7 @@
  bridge_wall_speed="10.5" 
  wall_line_width_x="13.4" 
  acceleration_support_infill="1500" 
- meshfix_union_all_remove_holes="False" 
+ meshfix_union_all_remove_holes="True" 
  wall_0_wipe_dist="0.211" 
  machine_steps_per_mm_e="1600" 
  support_bottom_offset="0.0" 
