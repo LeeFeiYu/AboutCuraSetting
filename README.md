@@ -1,4 +1,4 @@
-2020-08-21 16:15:29,103 - DEBUG - [Thread-425] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 16:16:46,923 - DEBUG - [Thread-428] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="16:15:28" 
+ time="16:16:45" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
@@ -590,7 +590,7 @@
  jerk_wall="12" 
  jerk_travel="49" 
  support_bottom_material_flow="99" 
- meshfix_maximum_resolution="0.8666666666666667" 
+ meshfix_maximum_resolution="0.877" 
  speed_support_bottom="30" 
  wipe_move_distance="20" 
  ironing_flow="10.1" 
@@ -698,7 +698,7 @@
  wall_overhang_angle="90" 
  spaghetti_infill_extra_volume="0" 
  machine_min_cool_heat_time_window="15" 
- meshfix_maximum_travel_resolution="1.7089201877934275" 
+ meshfix_maximum_travel_resolution="1.7292957746478874" 
  ironing_inset="6.64" 
  layer_0_z_overlap="0.15" 
  infill_support_enabled="True" 
