@@ -1,4 +1,4 @@
-2020-08-21 13:50:32,701 - DEBUG - [Thread-290] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 13:52:03,956 - DEBUG - [Thread-293] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -23,7 +23,7 @@
  bridge_wall_material_flow="50" 
  carve_multiple_volumes="True" 
  support_interface_enable="False" 
- acceleration_enabled="True" 
+ acceleration_enabled="False" 
  cool_fan_full_at_height="2.81" 
  conical_overhang_angle="50" 
  acceleration_skirt_brim="500" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="13:50:31" 
+ time="13:52:02" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
