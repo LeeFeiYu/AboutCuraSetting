@@ -1,4 +1,4 @@
-2020-08-21 13:31:10,966 - DEBUG - [Thread-263] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
+2020-08-21 13:34:21,105 - DEBUG - [Thread-266] UM.Backend.Backend._backendLog [101]: [Backend] [WARNING]  
  jerk_wall="10" 
  jerk_travel="30" 
  support_bottom_material_flow="99" 
@@ -116,7 +116,7 @@
  speed="0" 
  retraction_min_travel="5" 
  spaghetti_max_infill_angle="10" 
- time="13:31:10" 
+ time="13:34:20" 
  support_interface_height="1" 
  support_xy_distance="33.25" 
  initial_layer_line_width_factor="120" 
