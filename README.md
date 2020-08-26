@@ -1,4 +1,4 @@
-2020-08-26 18:04:41,387 - DEBUG - [EngineErrorThread] UM.Backend.Backend._backendLog [110]: [Backend] [WARNING]  
+2020-08-26 18:06:30,248 - DEBUG - [EngineErrorThread] UM.Backend.Backend._backendLog [110]: [Backend] [WARNING]  
  cool_min_layer_time="5" 
  wireframe_printspeed_down="5" 
  initial_extruder_nr="0" 
@@ -26,7 +26,7 @@
  support_brim_line_count="20" 
  infill_support_enabled="True" 
  bridge_skin_density="100" 
- time="18:04:40" 
+ time="18:06:29" 
  machine_max_feedrate_x="300" 
  bridge_enable_more_layers="True" 
  brim_gap="0" 
@@ -890,7 +890,7 @@
  skirt_brim_line_width="13.7" 
  speed_support_bottom="30" 
  coasting_min_volume="0.8" 
- magic_mesh_surface_mode="normal" 
+ magic_mesh_surface_mode="surface" 
  minimum_support_area="0.0" 
  ironing_flow="10.1" 
  support_initial_layer_line_distance="87.33333333333333" 
@@ -1013,7 +1013,7 @@
  support_z_distance="1.12" 
  retract_at_layer_change="True" 
  wipe_retraction_speed="24" 
- meshfix_union_all="True" 
+ meshfix_union_all="False" 
  extruder_prime_pos_x="-3" 
  machine_nozzle_cool_down_speed="0.75" 
  machine_nozzle_offset_x="0" 
