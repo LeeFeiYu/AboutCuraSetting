@@ -1,4 +1,4 @@
-2020-08-30 22:22:24,301 - DEBUG - [EngineErrorThread] UM.Backend.Backend._backendLog [110]: [Backend] [WARNING]  
+2020-08-30 22:25:59,184 - DEBUG - [EngineErrorThread] UM.Backend.Backend._backendLog [110]: [Backend] [WARNING]  
  z_seam_relative="False" 
  support_brim_enable="False" 
  machine_name="Ultimaker S5" 
@@ -82,7 +82,7 @@
  raft_surface_fan_speed="0" 
  support_bottom_offset="0.0" 
  support_interface_material_flow="100" 
- time="22:22:23" 
+ time="22:25:58" 
  acceleration_enabled="True" 
  z_seam_type="shortest" 
  retraction_prime_speed="15" 
@@ -981,7 +981,7 @@
  skirt_gap="3" 
  support_zag_skip_count="0" 
  wipe_pause="0" 
- max_skin_angle_for_expansion="85" 
+ max_skin_angle_for_expansion="90" 
  machine_nozzle_tip_outer_diameter="1.0" 
  retraction_hop_after_extruder_switch_height="4" 
  ironing_line_spacing="0.2" 
