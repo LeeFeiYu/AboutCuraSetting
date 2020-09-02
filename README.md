@@ -1,1517 +1,3059 @@
-2020-08-30 22:25:59,184 - DEBUG - [EngineErrorThread] UM.Backend.Backend._backendLog [110]: [Backend] [WARNING]  
- z_seam_relative="False" 
- support_brim_enable="False" 
- machine_name="Ultimaker S5" 
- infill_support_enabled="True" 
- skirt_line_count="1" 
- machine_steps_per_mm_x="50" 
- wall_min_flow="0" 
- support_pattern="zigzag" 
- support_join_distance="2.0" 
- mold_enabled="False" 
- prime_tower_enable="False" 
- machine_steps_per_mm_z="50" 
- minimum_support_area="0.0" 
- mold_angle="40" 
- brim_outside_only="True" 
- draft_shield_dist="10" 
- support_roof_height="1" 
- machine_always_write_active_tool="False" 
- default_material_print_temperature="200" 
- bridge_skin_density_2="75" 
- jerk_wall_0="7" 
- small_feature_max_length="0.0" 
- raft_surface_line_width="0.35000000000000003" 
- acceleration_support_interface="500" 
- skin_no_small_gaps_heuristic="False" 
- machine_endstop_positive_direction_z="True" 
- ironing_pattern="zigzag" 
- mold_roof_height="0.5" 
- support_offset="0" 
- gradual_support_infill_step_height="1" 
- machine_buildplate_type="glass" 
- support_skip_zag_per_mm="20" 
- bridge_skin_support_threshold="50" 
- machine_max_feedrate_x="300" 
- prime_tower_size="20" 
- cool_min_layer_time="5" 
- support_tree_branch_distance="1" 
- raft_surface_thickness="0.58" 
- small_feature_speed_factor="50" 
- wireframe_drag_along="0.6" 
- magic_fuzzy_skin_thickness="0.3" 
- material_adhesion_tendency="10" 
- bridge_enable_more_layers="True" 
- jerk_wall_x="10" 
- mold_width="5" 
- speed_infill="35" 
- wall_0_extruder_nr="0" 
- material_flow_layer_0="100" 
- skirt_brim_material_flow="100" 
- material_bed_temp_prepend="True" 
- material_flow_dependent_temperature="False" 
- prime_tower_flow="100" 
- support_interface_offset="0.0" 
- infill_extruder_nr="1" 
- material_surface_energy="100" 
- initial_extruder_nr="0" 
- infill_before_walls="True" 
- minimum_interface_area="1.0" 
- machine_nozzle_size="0.4" 
- speed_slowdown_layers="3" 
- brim_width="7" 
- slicing_tolerance="middle" 
- draft_shield_height_limitation="full" 
- anti_overhang_mesh="False" 
- top_bottom_extruder_nr="-1" 
- default_material_bed_temperature="60" 
- raft_jerk="25" 
- travel_avoid_other_parts="True" 
- outer_inset_first="False" 
- raft_surface_layers="2" 
- material_bed_temperature="60" 
- support_extruder_nr="0" 
- ironing_enabled="False" 
- support_infill_rate="15" 
- skin_angles="[ ]" 
- wall_thickness="1" 
- wall_0_wipe_dist="0.211" 
- travel_retract_before_outer_wall="True" 
- ooze_shield_angle="60" 
- top_layers="2" 
- raft_surface_fan_speed="0" 
- support_bottom_offset="0.0" 
- support_interface_material_flow="100" 
- time="22:25:58" 
- acceleration_enabled="True" 
- z_seam_type="shortest" 
- retraction_prime_speed="15" 
- acceleration_support="2000" 
- speed_equalize_flow_enabled="True" 
- coasting_speed="90" 
- support_line_width="0.35000000000000003" 
- acceleration_support_infill="2000" 
- optimize_wall_printing_order="True" 
- raft_interface_thickness="0.8699999999999999" 
- travel_compensate_overlapping_walls_enabled="True" 
- bridge_fan_speed="100" 
- ooze_shield_enabled="False" 
- machine_center_is_zero="False" 
- skirt_brim_minimal_length="250" 
- adaptive_layer_height_enabled="False" 
- retraction_combing_max_distance="0" 
- bottom_skin_preshrink="13.3" 
- support_bottom_material_flow="99" 
- switch_extruder_extra_prime_amount="0" 
- print_bed_temperature="60" 
- jerk_print_layer_0="5" 
- support_initial_layer_line_distance="2.3333333333333335" 
- support_tree_collision_resolution="0.17500000000000002" 
- support_extruder_nr_layer_0="0" 
- support_tree_angle="40" 
- bridge_skin_density="100" 
- small_hole_max_size="0" 
- connect_infill_polygons="False" 
- machine_nozzle_head_distance="3" 
- conical_overhang_enabled="False" 
- clean_between_layers="False" 
- raft_interface_line_spacing="0.9000000000000001" 
- infill="0" 
- speed_z_hop="10" 
- raft_surface_jerk="25" 
- material_break_preparation_retracted_position="-16" 
- jerk_enabled="True" 
- raft_interface_jerk="25" 
- jerk_support="15" 
- support_interface_height="1" 
- support_roof_offset="0.0" 
- support_tree_branch_diameter_angle="5" 
- material_anti_ooze_retraction_speed="5" 
- wipe_hop_enable="True" 
- retraction_combing="noskin" 
- raft_base_line_width="0.8" 
- wipe_pause="0" 
- zig_zaggify_infill="True" 
- draft_shield_height="10" 
- raft_smoothing="5" 
- material_crystallinity="False" 
- skin_overlap_mm="0.6825" 
- support_enable="False" 
- wireframe_nozzle_clearance="1" 
- retract_at_layer_change="False" 
- shell="0" 
- travel_avoid_supports="True" 
- support_brim_width="8.0" 
- support_interface_enable="False" 
- speed_support_infill="21" 
- blackmagic="0" 
- wall_line_width_x="0.3" 
- material_no_load_move_factor="0.940860215" 
- acceleration_print_layer_0="500" 
- limit_support_retractions="True" 
- bridge_skin_density_3="80" 
- wipe_retraction_extra_prime_amount="0" 
- raft_interface_speed="20" 
- wall_line_width_0="13.3" 
- wipe_hop_amount="2" 
- adaptive_layer_height_variation_step="0.01" 
- acceleration_support_roof="371" 
- speed_support_bottom="30" 
- extruder_prime_pos_abs="True" 
- cool_fan_speed_0="0" 
- speed_roofing="20" 
- layer_start_x="330.0" 
- speed_wall_x="30" 
- speed_ironing="13.333333333333334" 
- jerk_layer_0="5" 
- support_supported_skin_fan_speed="100" 
- support_top_distance="1.16" 
- layer_start_y="228.0" 
- prime_tower_wipe_enabled="True" 
- machine_max_acceleration_y="9000" 
- jerk_support_interface="5" 
- retraction_hop_after_extruder_switch="True" 
- infill_line_distance="6.300000000000001" 
- travel_compensate_overlapping_walls_0_enabled="True" 
- support_mesh="False" 
- meshfix="0" 
- speed_wall_0="21" 
- support_bottom_stair_step_height="0.3" 
- magic_spiralize="False" 
- infill_support_angle="40" 
- machine_firmware_retract="False" 
- z_seam_y="240" 
- support_bottom_distance="0.58" 
- acceleration_wall="1000" 
- support_meshes_present="False" 
- prime_tower_position_x="300.180165" 
- top_skin_preshrink="13.3" 
- roofing_pattern="lines" 
- wireframe_roof_fall_down="2" 
- infill_wall_line_count="0" 
- retraction_extra_prime_amount="0" 
- raft_interface_line_width="0.7000000000000001" 
- acceleration_skirt_brim="373" 
- meshfix_extensive_stitching="False" 
- meshfix_maximum_travel_resolution="0.7000000000000001" 
- retraction_speed="25" 
- print_temperature="200" 
- bridge_sparse_infill_max_density="0" 
- wipe_retraction_retract_speed="25" 
- wireframe_fall_down="0.5" 
- machine_max_acceleration_e="10000" 
- machine_start_gcode="" 
- wall_overhang_speed_factor="100" 
- raft_base_acceleration="4000" 
- adhesion_extruder_nr="0" 
- relative_extrusion="False" 
- flow_rate_max_extrusion_offset="0" 
- bridge_wall_material_flow="50" 
- jerk_ironing="5" 
- infill_pattern="triangles" 
- raft_interface_acceleration="4000" 
- experimental="0" 
- support_fan_enable="False" 
- infill_sparse_thickness="0.58" 
- jerk_skirt_brim="6" 
- machine_feeder_wheel_diameter="10.0" 
- support_bottom_density="100" 
- machine_settings="0" 
- infill_multiplier="1" 
- jerk_travel="30" 
- material_bed_temperature_layer_0="60" 
- roofing_layer_count="0" 
- switch_extruder_retraction_amount="8" 
- cross_support_density_image="" 
- minimum_polygon_circumference="1.0" 
- support_bottom_line_width="13.1" 
- z_seam_x="165.0" 
- prime_tower_min_volume="6" 
- bottom_thickness="1" 
- speed_wall="30" 
- cool_fan_speed_min="50" 
- support_conical_enabled="False" 
- jerk_support_bottom="8" 
- wireframe_straight_before_down="20" 
- infill_overlap="0" 
- mesh_position_z="0" 
- speed_prime_tower="20" 
- initial_layer_line_width_factor="120" 
- day="Sun" 
- wireframe_top_delay="0" 
- machine_width="330" 
- acceleration_travel_layer_0="625.0" 
- cool_min_layer_time_fan_speed_max="10" 
- support_interface_angles="[ ]" 
- cool_fan_speed_max="100" 
- roofing_extruder_nr="-1" 
- support_xy_distance="33.25" 
- cool_fan_enabled="True" 
- bridge_skin_speed_3="10.0" 
- machine_height="300" 
- wireframe_top_jump="0.6" 
- material_end_of_filament_purge_speed="0.5" 
- machine_max_jerk_e="5.0" 
- retraction_hop_only_when_collides="True" 
- support_bottom_enable="False" 
- sub_div_rad_add="0.3" 
- machine_max_acceleration_z="100" 
- acceleration_print="4000" 
- magic_fuzzy_skin_outside_only="False" 
- retraction_min_travel="5" 
- bridge_skin_material_flow_3="110" 
- support_roof_density="100" 
- material_standby_temperature="100" 
- gantry_height="60" 
- support_interface_skip_height="0.3" 
- retraction_retract_speed="25" 
- material_print_temp_wait="True" 
- support_bottom_height="1" 
- support_roof_enable="False" 
- support_bottom_stair_step_min_slope="10.0" 
- support_interface_line_width="0.35000000000000003" 
- wall_x_material_flow="98" 
- support_conical_angle="30" 
- coasting_enable="False" 
- support_infill_sparse_thickness="0.58" 
- wall_line_count="1" 
- wireframe_printspeed_down="5" 
- support_type="everywhere" 
- wall_0_material_flow="97" 
- bridge_wall_coast="100" 
- machine_nozzle_temp_enabled="True" 
- support_roof_line_distance="13.1" 
- wireframe_up_half_speed="0.3" 
- skin_edge_support_thickness="0" 
- brim_line_count="17" 
- gradual_support_infill_steps="0" 
- wireframe_bottom_delay="0" 
- infill_overlap_mm="0.0" 
- remove_empty_first_layers="False" 
- bottom_layers="2" 
- prime_tower_brim_enable="False" 
- top_thickness="1" 
- machine_steps_per_mm_e="1600" 
- support_roof_material_flow="99" 
- gradual_infill_steps="0" 
- material_print_temperature_layer_0="200" 
- travel_avoid_distance="3" 
- roofing_material_flow="100" 
- mesh_position_x="0" 
- bridge_settings_enabled="False" 
- ironing_only_highest_layer="False" 
- meshfix_maximum_deviation="0.145" 
- infill_wipe_dist="0" 
- hole_xy_offset="0" 
- skirt_brim_speed="21" 
- min_infill_area="0" 
- prime_tower_line_width="0.35000000000000003" 
- xy_offset="0.01" 
- machine_show_variants="False" 
- wireframe_roof_outer_delay="0.2" 
- skirt_brim_line_width="0.35000000000000003" 
- material_break_speed="25" 
- skin_edge_support_layers="0" 
- support="0" 
- alternate_carve_order="False" 
- cool_lift_head="False" 
- support_xy_distance_overhang="13.3" 
- print_sequence="all_at_once" 
- material_break_preparation_temperature="200" 
- support_infill_angles="[ ]" 
- support_xy_overrides_z="z_overrides_xy" 
- conical_overhang_angle="50" 
- speed_support_roof="30" 
- material_print_temperature="200" 
- support_tower_roof_angle="65" 
- prime_blob_enable="False" 
- support_bottom_angles="[ ]" 
- command_line_settings="0" 
- acceleration_support_bottom="371" 
- jerk_print="25" 
- speed_support_interface="20" 
- wall_0_inset="0.3" 
- brim_gap="0" 
- infill_sparse_density="20" 
- retraction_enable="True" 
- support_bottom_extruder_nr="0" 
- speed_travel_layer_0="85.71428571428571" 
- minimum_roof_area="1.0" 
- wipe_repeat_count="5" 
- support_skip_some_zags="False" 
- bridge_fan_speed_3="0" 
- machine_max_feedrate_z="40" 
- min_skin_width_for_expansion="7.102951435054648e-17" 
- machine_acceleration="3000" 
- support_wall_count="0" 
- small_feature_speed_factor_0="50" 
- wipe_retraction_amount="6.5" 
- resolution="0" 
- prime_tower_position_y="212.180165" 
- raft_acceleration="4000" 
- mesh_rotation_matrix="[[1,0,0], [0,1,0], [0,0,1]]" 
- support_interface_density="100" 
- material_flush_purge_speed="0.5" 
- travel_speed="150" 
- center_object="False" 
- wipe_retraction_speed="25" 
- meshfix_union_all="True" 
- extruder_prime_pos_x="0" 
- support_tower_maximum_supported_diameter="3.0" 
- support_conical_min_width="5.0" 
- gradual_infill_step_height="1.5" 
- material_bed_temp_wait="True" 
- skin_overlap="10" 
- acceleration_layer_0="500" 
- cross_infill_pocket_size="6.300000000000001" 
- speed_support="21" 
- raft_base_speed="20" 
- machine_heat_zone_length="16" 
- date="30-08-2020" 
- cutting_mesh="False" 
- wireframe_printspeed="5" 
- dual="0" 
- retraction_hop="2" 
- material_guid="" 
- cross_infill_density_image="" 
- material_break_retracted_position="-50" 
- raft_surface_line_spacing="0.35000000000000003" 
- top_bottom_pattern="lines" 
- material_maximum_park_duration="300" 
- support_bottom_stair_step_width="5.0" 
- magic_fuzzy_skin_point_density="1.25" 
- machine_heated_bed="True" 
- support_structure="normal" 
- minimum_bottom_area="1.0" 
- meshfix_keep_open_polygons="False" 
- machine_heated_build_volume="True" 
- raft_base_line_spacing="1.6" 
- retraction_extrusion_window="1" 
- material_flow="100" 
- smooth_spiralized_contours="True" 
- support_roof_extruder_nr="0" 
- ironing_flow="10.0" 
- travel="0" 
- max_extrusion_before_wipe="10" 
- wall_overhang_angle="90" 
- jerk_travel_layer_0="6.0" 
- wireframe_printspeed_flat="5" 
- material_flow_temp_graph="[[3.5,200],[7.0,240]]" 
- material_print_temp_prepend="True" 
- extruders_enabled_count="2" 
- extruder_prime_pos_y="0" 
- wireframe_roof_drag_along="0.8" 
- jerk_support_roof="8" 
- wireframe_flow_connection="100" 
- material_flush_purge_length="60" 
- adaptive_layer_height_variation="0.1" 
- flow_rate_extrusion_offset_factor="100" 
- raft_base_jerk="25" 
- raft_margin="15" 
- infill_mesh="False" 
- ironing_inset="6.8075" 
- skin_preshrink="13.3" 
- meshfix_union_all_remove_holes="False" 
- bridge_wall_speed="10.5" 
- xy_offset_layer_0="0.01" 
- support_bottom_pattern="concentric" 
- machine_nozzle_id="unknown" 
- wipe_hop_speed="10" 
- acceleration_travel="5000" 
- wall_line_width="13.2" 
- speed_layer_0="20" 
- layer_0_z_overlap="0.15" 
- infill_randomize_start_location="True" 
- top_skin_expand_distance="13.3" 
- raft_interface_fan_speed="0" 
- fill_outline_gaps="True" 
- jerk_wall="10" 
- infill_offset_x="0" 
- machine_max_acceleration_x="9000" 
- coasting_volume="0.064" 
- wall_x_extruder_nr="1" 
- machine_max_jerk_z="0.4" 
- multiple_mesh_overlap="1" 
- acceleration_prime_tower="2000" 
- material_final_print_temperature="185" 
- wall_extruder_nr="-1" 
- machine_head_with_fans_polygon="[[-41.4, -45.8], [-41.4, 36.0], [63.3, 36.0], [63.3, -45.8]]" 
- material_break_preparation_speed="2" 
- wireframe_flow="100" 
- material_diameter="2.85" 
- wireframe_enabled="False" 
- acceleration_infill="4000" 
- wireframe_height="3" 
- ooze_shield_dist="2" 
- draft_shield_enabled="False" 
- material_break_temperature="50" 
- speed_topbottom="20" 
- wireframe_strategy="compensate" 
- speed_print="35" 
- brim_replaces_support="True" 
- cooling="0" 
- support_tower_diameter="3.0" 
- bridge_skin_speed_2="10.0" 
- wipe_move_distance="20" 
- skin_line_width="0.35000000000000003" 
- material_shrinkage_percentage="0" 
- machine_extruder_count="2" 
- support_roof_angles="[ ]" 
- layer_height_0="0.58" 
- material_anti_ooze_retracted_position="-4" 
- layer_height="0.58" 
- support_bottom_line_distance="13.1" 
- speed_equalize_flow_max="150" 
- support_infill_extruder_nr="0" 
- speed_print_layer_0="20" 
- support_line_distance="2.3333333333333335" 
- machine_shape="rectangular" 
- retraction_count_max="10" 
- support_mesh_drop_down="True" 
- machine_max_feedrate_y="300" 
- support_tree_branch_diameter="2" 
- z_seam_corner="z_seam_corner_outer" 
- roofing_angles="[ ]" 
- adhesion_type="brim" 
- roofing_line_width="0.35000000000000003" 
- wireframe_flow_flat="100" 
- wireframe_printspeed_up="5" 
- bridge_skin_speed="10.0" 
- raft_surface_acceleration="4000" 
- jerk_roofing="5" 
- wipe_brush_pos_x="100" 
- expand_skins_expand_distance="13.3" 
- material="0" 
- raft_base_thickness="0.696" 
- machine_end_gcode="" 
- zig_zaggify_support="False" 
- machine_endstop_positive_direction_y="False" 
- bridge_skin_material_flow_2="100" 
- machine_nozzle_heat_up_speed="1.4" 
- speed_travel="150" 
- support_brim_line_count="20" 
- acceleration_wall_0="500" 
- switch_extruder_prime_speed="15" 
- support_use_towers="True" 
- jerk_support_infill="15" 
- wipe_retraction_enable="True" 
- magic_fuzzy_skin_point_dist="0.8" 
- jerk_infill="25" 
- wall_min_flow_retract="False" 
- bridge_skin_material_flow="60" 
- raft_airgap="0.3" 
- support_roof_line_width="13.1" 
- machine_min_cool_heat_time_window="15" 
- infill_mesh_order="0" 
- cool_min_speed="5" 
- travel_compensate_overlapping_walls_x_enabled="True" 
- bridge_wall_min_length="5" 
- alternate_extra_perimeter="False" 
- top_bottom_thickness="1" 
- raft_fan_speed="0" 
- support_interface_pattern="concentric" 
- wall_material_flow="98" 
- support_material_flow="100" 
- wipe_retraction_prime_speed="25" 
- bridge_fan_speed_2="0" 
- platform_adhesion="0" 
- jerk_topbottom="5" 
- raft_surface_speed="25" 
- machine_steps_per_mm_y="50" 
- cool_fan_speed="50" 
- machine_minimum_feedrate="0.0" 
- retraction_amount="6.5" 
- carve_multiple_volumes="True" 
- fill_perimeter_gaps="nowhere" 
- infill_material_flow="100" 
- mesh_position_y="0" 
- acceleration_wall_x="1000" 
- meshfix_maximum_resolution="0.85" 
- nozzle_disallowed_areas="[]" 
- machine_max_jerk_xy="20.0" 
- skin_outline_count="1" 
- acceleration_topbottom="500" 
- switch_extruder_retraction_speeds="20" 
- machine_disallowed_areas="[]" 
- raft_base_fan_speed="0" 
- machine_nozzle_expansion_angle="45" 
- extruder_prime_pos_z="0" 
- raft_speed="25" 
- adaptive_layer_height_threshold="0.2" 
- jerk_prime_tower="15" 
- support_roof_pattern="concentric" 
- wireframe_printspeed_bottom="5" 
- machine_extruders_share_heater="False" 
- machine_depth="240" 
- material_end_of_filament_purge_length="20" 
- support_connect_zigzags="True" 
- magic_mesh_surface_mode="normal" 
- coasting_min_volume="0.8" 
- cool_fan_full_at_height="2.9" 
- initial_bottom_layers="2" 
- infill_enable_travel_optimization="False" 
- cool_fan_full_layer="6" 
- connect_skin_polygons="False" 
- support_z_distance="1.16" 
- machine_nozzle_cool_down_speed="0.8" 
- infill_line_width="0.42" 
- support_interface_extruder_nr="0" 
- acceleration_ironing="500" 
- acceleration_roofing="500" 
- retraction_hop_enabled="True" 
- skirt_gap="3" 
- support_zag_skip_count="9" 
- max_skin_angle_for_expansion="90" 
- machine_nozzle_tip_outer_diameter="1" 
- line_width="0.35000000000000003" 
- skin_material_flow="100" 
- wireframe_roof_inset="3" 
- filter_out_tiny_gaps="False" 
- retraction_hop_after_extruder_switch_height="2" 
- ironing_line_spacing="0.1" 
- magic_fuzzy_skin_enabled="False" 
- wireframe_flat_delay="0.1" 
- infill_offset_y="0" 
- machine_use_extruder_offset_to_offset_coords="True" 
- machine_endstop_positive_direction_x="False" 
- material_initial_print_temperature="190" 
- switch_extruder_retraction_speed="20" 
- bottom_skin_expand_distance="13.3" 
- build_volume_temperature="28" 
- support_angle="60" 
- material_extrusion_cool_down_speed="0.7" 
- machine_gcode_flavor="Griffin" 
- infill_angles="[ ]" 
- top_bottom_pattern_0="lines" 
- machine_max_feedrate_e="45" 
- speed="0" 
- z_seam_position="back" -e0 
- machine_nozzle_size="0.4" 
- z_seam_relative="False" 
- support_brim_enable="False" 
- bridge_fan_speed="100" 
- infill_support_enabled="True" 
- skirt_line_count="1" 
- cool_min_layer_time="5" 
- machine_steps_per_mm_x="50" 
- wall_min_flow="2" 
- support_pattern="zigzag" 
- support_join_distance="2.0" 
- mold_enabled="False" 
- machine_steps_per_mm_z="50" 
- meshfix_maximum_resolution="0.877" 
- minimum_support_area="0.0" 
- mold_angle="40" 
- brim_outside_only="True" 
- support_roof_height="1" 
- default_material_print_temperature="200" 
- jerk_wall_0="7" 
- small_feature_max_length="0.0" 
- machine_extruder_start_pos_abs="True" 
- raft_surface_line_width="13.1" 
- acceleration_support_interface="371" 
- skin_no_small_gaps_heuristic="True" 
- machine_endstop_positive_direction_z="True" 
- ironing_pattern="concentric" 
- machine_extruder_end_pos_x="330" 
- mold_roof_height="0.5" 
- support_offset="0" 
- gradual_support_infill_step_height="1" 
- support_skip_zag_per_mm="20" 
- bridge_skin_support_threshold="50" 
- extruder_nr="0" 
- support_tree_branch_distance="1" 
- raft_surface_thickness="0.58" 
- small_feature_speed_factor="50" 
- magic_fuzzy_skin_thickness="0.3" 
- material_adhesion_tendency="0" 
- bridge_enable_more_layers="True" 
- jerk_wall_x="12" 
- mold_width="5" 
- speed_infill="71" 
- material_flow_layer_0="99" 
- skirt_brim_material_flow="92" 
- material_flow_dependent_temperature="False" 
- prime_tower_flow="91" 
- support_interface_offset="0.0" 
- support_interface_angles="[ ]" 
- cool_fan_speed_max="100" 
- material_surface_energy="100" 
- infill_before_walls="True" 
- minimum_interface_area="1.0" 
- brim_width="7" 
- slicing_tolerance="middle" 
- wall_0_wipe_dist="0.211" 
- machine_heat_zone_length="16" 
- raft_jerk="26" 
- travel_avoid_other_parts="True" 
- outer_inset_first="False" 
- raft_surface_layers="2" 
- ironing_enabled="True" 
- travel_compensate_overlapping_walls_0_enabled="True" 
- support_infill_rate="15" 
- skin_angles="[-]" 
- wall_thickness="1" 
- top_layers="2" 
- raft_surface_fan_speed="0" 
- support_bottom_offset="0.0" 
- support_interface_material_flow="99" 
- z_seam_type="shortest" 
- retraction_prime_speed="22" 
- acceleration_support="1500" 
- speed_equalize_flow_enabled="True" 
- retraction_combing_max_distance="1" 
- coasting_speed="90" 
- infill_support_angle="40" 
- support_line_width="13.1" 
- acceleration_support_infill="1500" 
- optimize_wall_printing_order="True" 
- raft_interface_thickness="0.8699999999999999" 
- travel_compensate_overlapping_walls_enabled="True" 
- fill_outline_gaps="True" 
- raft_interface_fan_speed="0" 
- support_roof_density="100" 
- material_standby_temperature="90" 
- material_anti_ooze_retracted_position="-4" 
- support_roof_angles="[ ]" 
- bridge_skin_speed_2="15.0" 
- material_final_print_temperature="185" 
- support_tree_angle="40" 
- skirt_brim_speed="21" 
- hole_xy_offset="0" 
- multiple_mesh_overlap="1" 
- acceleration_prime_tower="1500" 
- gradual_infill_steps="0" 
- jerk_support_roof="8" 
- extruder_prime_pos_y="6" 
- speed_topbottom="30" 
- support_bottom_distance="0.58" 
- acceleration_wall="751" 
- wipe_hop_speed="11" 
- support_conical_min_width="5.0" 
- gradual_infill_step_height="1.5" 
- retraction_retract_speed="23" 
- support_bottom_height="1" 
- support_interface_skip_height="0.3" 
- support_bottom_line_distance="13.1" 
- ironing_inset="-0.5917500000000002" 
- skin_preshrink="93.4" 
- support_tree_branch_diameter_angle="5" 
- raft_base_jerk="26" 
- bridge_wall_material_flow="50" 
- jerk_support_interface="8" 
- retraction_hop_after_extruder_switch="True" 
- material_flush_purge_speed="0.5" 
- bridge_skin_speed_3="15.0" 
- machine_extruder_start_pos_y="237" 
- resolution="0" 
- infill_line_distance="235.79999999999998" 
- connect_infill_polygons="False" 
- machine_extruder_end_pos_abs="True" 
- bottom_layers="2" 
- speed_support_infill="21" 
- top_skin_preshrink="93.4" 
- roofing_pattern="lines" 
- infill_wall_line_count="0" 
- retraction_extra_prime_amount="1" 
- meshfix_maximum_travel_resolution="1.7292957746478874" 
- retraction_speed="24" 
- bridge_sparse_infill_max_density="0" 
- material_flow_temp_graph="[[3.5,200],[7.0,240]]" 
- min_skin_width_for_expansion="3" 
- wipe_retraction_retract_speed="24" 
- support_tree_collision_resolution="6.55" 
- wall_overhang_speed_factor="100" 
- raft_base_acceleration="3000" 
- raft_margin="15" 
- jerk_ironing="4" 
- infill_pattern="triangles" 
- raft_interface_acceleration="3000" 
- experimental="0" 
- jerk_skirt_brim="6" 
- machine_feeder_wheel_diameter="10.0" 
- support_bottom_density="100" 
- machine_settings="0" 
- infill_multiplier="1" 
- speed_equalize_flow_max="140" 
- roofing_layer_count="2" 
- switch_extruder_retraction_amount="15" 
- cross_support_density_image="" 
- support_bottom_line_width="13.1" 
- z_seam_x="165.0" 
- prime_tower_min_volume="6" 
- magic_fuzzy_skin_enabled="False" 
- material_break_preparation_speed="2" 
- machine_nozzle_id="AA 0.4" 
- support_bottom_pattern="concentric" 
- bottom_thickness="1" 
- speed_wall="30" 
- mesh_position_z="0" 
- speed_prime_tower="30" 
- skin_edge_support_thickness="0" 
- brim_line_count="3" 
- support_roof_line_distance="13.1" 
- cool_min_layer_time_fan_speed_max="10" 
- jerk_layer_0="7" 
- support_wall_count="0" 
- support_bottom_enable="False" 
- speed_layer_0="22" 
- layer_0_z_overlap="0.15" 
- infill_randomize_start_location="True" 
- top_skin_expand_distance="93.6" 
- magic_fuzzy_skin_outside_only="False" 
- retraction_min_travel="26.2" 
- top_thickness="1" 
- bridge_skin_material_flow_3="110" 
- support_conical_angle="30" 
- support_interface_line_width="13.1" 
- wall_x_material_flow="98" 
- coasting_enable="False" 
- support_infill_sparse_thickness="0.58" 
- wall_line_count="1" 
- wipe_move_distance="20" 
- material_shrinkage_percentage="0" 
- skin_line_width="13.5" 
- machine_steps_per_mm_y="50" 
- cool_fan_speed="100" 
- wipe_retraction_amount="6.4" 
- small_feature_speed_factor_0="50" 
- material_diameter="2.85" 
- roofing_material_flow="94" 
- meshfix_maximum_deviation="0.145" 
- infill_wipe_dist="0" 
- mesh_position_x="0" 
- ironing_only_highest_layer="True" 
- infill_line_width="15.72" 
- conical_overhang_angle="50" 
- speed_support_roof="30" 
- material_print_temperature="200" 
- material_break_speed="25" 
- skin_edge_support_layers="0" 
- support="0" 
- min_infill_area="0" 
- layer_start_x="330.1" 
- prime_tower_line_width="13.1" 
- xy_offset="0.01" 
- wall_overhang_angle="90" 
- speed_print_layer_0="21" 
- support_line_distance="87.33333333333333" 
- infill_overlap_mm="0.1" 
- jerk_travel_layer_0="13.192307692307692" 
- speed_roofing="30" 
- acceleration_layer_0="370" 
- skin_overlap="11" 
- support_xy_distance_overhang="13.3" 
- machine_steps_per_mm_e="1600" 
- support_roof_material_flow="99" 
- cool_lift_head="False" 
- material_break_preparation_temperature="210" 
- support_infill_angles="[ ]" 
- support_xy_overrides_z="z_overrides_xy" 
- speed_wall_0="21" 
- meshfix="0" 
- skirt_brim_minimal_length="250" 
- wall_line_width="13.2" 
- acceleration_travel="4500" 
- speed_travel_layer_0="43.37" 
- minimum_roof_area="1.0" 
- wipe_repeat_count="5" 
- support_skip_some_zags="False" 
- bridge_fan_speed_3="0" 
- support_tower_maximum_supported_diameter="3.0" 
- gradual_support_infill_steps="0" 
- speed_support_interface="30" 
- wall_0_inset="0.3" 
- brim_gap="0" 
- infill_sparse_density="20" 
- retraction_enable="True" 
- blackmagic="0" 
- center_object="False" 
- roofing_line_width="13.5" 
- support_tower_roof_angle="65" 
- prime_blob_enable="False" 
- material_extrusion_cool_down_speed="0.7" 
- support_bottom_angles="[ ]" 
- raft_base_line_width="0.8" 
- command_line_settings="0" 
- acceleration_support_bottom="371" 
- jerk_print="26" 
- acceleration_infill="3000" 
- clean_between_layers="False" 
- material_flush_purge_length="60" 
- machine_nozzle_offset_y="0" 
- line_width="13.1" 
- acceleration_travel_layer_0="554.0" 
- wall_0_material_flow="97" 
- bridge_wall_coast="100" 
- support_tower_diameter="3.0" 
- material_end_of_filament_purge_speed="0.5" 
- wipe_retraction_speed="24" 
- meshfix_union_all="False" 
- extruder_prime_pos_x="-3" 
- dual="0" 
- retraction_hop="3" 
- material_guid="506c9f0d-e3aa-4bd4-b2d2-23e2425b1aa9" 
- cross_infill_density_image="" 
- support_roof_offset="0.0" 
- material_break_retracted_position="-50" 
- raft_surface_line_spacing="13.1" 
- top_bottom_pattern="lines" 
- material_maximum_park_duration="7200" 
- jerk_travel="49" 
- machine_extruder_cooling_fan_number="0" 
- infill_sparse_thickness="0.58" 
- support_fan_enable="False" 
- cooling="0" 
- bridge_skin_density_2="75" 
- infill_overlap="0" 
- minimum_bottom_area="1.0" 
- meshfix_keep_open_polygons="True" 
- support_roof_enable="False" 
- support_bottom_stair_step_min_slope="10.0" 
- acceleration_print="3000" 
- sub_div_rad_add="11.23" 
- retraction_hop_only_when_collides="False" 
- raft_base_speed="20" 
- support_supported_skin_fan_speed="100" 
- machine_nozzle_temp_enabled="True" 
- initial_layer_line_width_factor="20.07" 
- raft_base_line_spacing="1.6" 
- material_crystallinity="False" 
- retraction_extrusion_window="1.5" 
- material_flow="99" 
- cool_fan_speed_min="100" 
- support_conical_enabled="False" 
- switch_extruder_extra_prime_amount="1" 
- jerk_support_bottom="8" 
- conical_overhang_enabled="False" 
- infill_angles="[ ]" 
- top_bottom_pattern_0="zigzag" 
- travel="0" 
- max_extrusion_before_wipe="10" 
- travel_avoid_distance="4" 
- material_print_temperature_layer_0="200" 
- retraction_count_max="24" 
- skin_material_flow="95" 
- bridge_skin_speed="15.0" 
- raft_surface_acceleration="3000" 
- jerk_roofing="7" 
- wipe_brush_pos_x="100" 
- expand_skins_expand_distance="93.6" 
- material="0" 
- raft_base_thickness="0.696" 
- zig_zaggify_support="False" 
- machine_endstop_positive_direction_y="False" 
- bridge_skin_material_flow_2="100" 
- machine_nozzle_heat_up_speed="1.6" 
- wipe_hop_enable="True" 
- ironing_flow="10.1" 
- support_initial_layer_line_distance="87.33333333333333" 
- speed_travel="140" 
- infill_offset_x="0" 
- jerk_wall="12" 
- support_brim_line_count="3" 
- acceleration_wall_0="376" 
- switch_extruder_prime_speed="23" 
- support_use_towers="True" 
- jerk_support_infill="16" 
- wipe_retraction_enable="True" 
- magic_fuzzy_skin_point_dist="0.8" 
- bridge_skin_material_flow="60" 
- raft_airgap="0.3" 
- support_roof_line_width="13.1" 
- machine_min_cool_heat_time_window="15" 
- cool_min_speed="7" 
- travel_compensate_overlapping_walls_x_enabled="True" 
- jerk_print_layer_0="6" 
- support_bottom_material_flow="99" 
- switch_extruder_retraction_speed="22" 
- bottom_skin_expand_distance="93.3" 
- acceleration_roofing="373" 
- retraction_hop_enabled="True" 
- alternate_extra_perimeter="False" 
- top_bottom_thickness="1" 
- raft_fan_speed="0" 
- support_interface_pattern="concentric" 
- wall_material_flow="98" 
- support_material_flow="99" 
- wipe_retraction_prime_speed="24" 
- bridge_fan_speed_2="0" 
- raft_interface_line_width="26.2" 
- meshfix_extensive_stitching="True" 
- acceleration_skirt_brim="373" 
- platform_adhesion="0" 
- wall_line_width_x="11.23" 
- jerk_topbottom="8" 
- raft_surface_speed="25" 
- retraction_amount="6.4" 
- fill_perimeter_gaps="nowhere" 
- infill_material_flow="99" 
- support_tree_branch_diameter="2" 
- roofing_angles="[-]" 
- z_seam_corner="z_seam_corner_outer" 
- bridge_skin_density="100" 
- mesh_position_y="0" 
- acceleration_wall_x="751" 
- skin_outline_count="2" 
- acceleration_topbottom="371" 
- switch_extruder_retraction_speeds="21" 
- raft_base_fan_speed="0" 
- machine_extruder_start_pos_x="330" 
- extruder_prime_pos_z="2" 
- raft_speed="25" 
- jerk_prime_tower="16" 
- machine_extruder_end_pos_y="237" 
- support_roof_pattern="concentric" 
- machine_extruder_end_code="" 
- magic_mesh_surface_mode="normal" 
- coasting_min_volume="0.8" 
- cool_fan_full_at_height="1.7399999999999998" 
- initial_bottom_layers="4" 
- infill_enable_travel_optimization="False" 
- cool_fan_full_layer="3" 
- connect_skin_polygons="False" 
- support_z_distance="1.16" 
- machine_nozzle_cool_down_speed="0.75" 
- raft_acceleration="3000" 
- support_interface_density="100" 
- machine_nozzle_offset_x="0" 
- mesh_rotation_matrix="[[1,0,0], [0,1,0], [0,0,1]]" 
- acceleration_ironing="501" 
- skirt_gap="3" 
- support_zag_skip_count="0" 
- wipe_pause="0" 
- max_skin_angle_for_expansion="90" 
- machine_nozzle_tip_outer_diameter="1.0" 
- retraction_hop_after_extruder_switch_height="4" 
- ironing_line_spacing="0.2" 
- filter_out_tiny_gaps="False" 
- infill_offset_y="0" 
- machine_endstop_positive_direction_x="False" 
- material_initial_print_temperature="190" 
- support_angle="60" 
- skirt_brim_line_width="13.7" 
- speed_support_bottom="30" 
- machine_nozzle_head_distance="3" 
- material_break_temperature="60" 
- speed="0" 
- z_seam_position="back" 
- material_end_of_filament_purge_length="20" 
- support_connect_zigzags="True" 
- layer_start_y="228.1" 
- prime_tower_wipe_enabled="True" 
- cool_fan_speed_0="0" 
- support_top_distance="1.16" 
- speed_ironing="20.1" 
- material_no_load_move_factor="0.940860215" 
- speed_wall_x="30" 
- cool_fan_enabled="True" 
- support_xy_distance="33.25" 
- extruder_prime_pos_abs="True" 
- acceleration_support_roof="371" 
- wipe_hop_amount="3" 
- raft_interface_speed="20" 
- wall_line_width_0="13.3" 
- bridge_skin_density_3="80" 
- wipe_retraction_extra_prime_amount="1" 
- brim_replaces_support="True" 
- speed_print="71" 
- support_brim_width="8.0" 
- support_interface_enable="False" 
- shell="0" 
- travel_avoid_supports="False" 
- speed_support="21" 
- cross_infill_pocket_size="235.79999999999998" 
- retract_at_layer_change="True" 
- skin_overlap_mm="0.1" 
- raft_smoothing="5" 
- zig_zaggify_infill="True" 
- material_anti_ooze_retraction_speed="5" 
- support_interface_height="1" 
- jerk_support="16" 
- raft_interface_jerk="26" 
- material_break_preparation_retracted_position="-16" 
- speed_z_hop="11" 
- raft_surface_jerk="26" 
- raft_interface_line_spacing="26.4" 
- infill="0" 
- wall_min_flow_retract="True" 
- jerk_infill="26" 
- small_hole_max_size="0" 
- limit_support_retractions="True" 
- acceleration_print_layer_0="372" 
- magic_fuzzy_skin_point_density="1.25" 
- support_bottom_stair_step_width="5.0" 
- xy_offset_layer_0="0.01" 
- bridge_wall_speed="10.5" 
- meshfix_union_all_remove_holes="True" 
- bottom_skin_preshrink="93.7" 
- z_seam_y="240" 
- machine_extruder_start_code="" 
- support_bottom_stair_step_height="0.3" 
- coasting_volume="0.064" -e1 
- machine_nozzle_size="0.4" 
- z_seam_relative="False" 
- support_brim_enable="False" 
- bridge_fan_speed="100" 
- infill_support_enabled="True" 
- skirt_line_count="1" 
- cool_min_layer_time="5" 
- machine_steps_per_mm_x="50" 
- wall_min_flow="0" 
- support_pattern="zigzag" 
- support_join_distance="2.0" 
- mold_enabled="False" 
- machine_steps_per_mm_z="50" 
- meshfix_maximum_resolution="0.85" 
- minimum_support_area="0.0" 
- mold_angle="40" 
- brim_outside_only="True" 
- support_roof_height="1" 
- default_material_print_temperature="200" 
- jerk_wall_0="7" 
- small_feature_max_length="0.0" 
- machine_extruder_start_pos_abs="True" 
- raft_surface_line_width="0.35000000000000003" 
- acceleration_support_interface="500" 
- skin_no_small_gaps_heuristic="False" 
- machine_endstop_positive_direction_z="True" 
- ironing_pattern="zigzag" 
- machine_extruder_end_pos_x="330" 
- mold_roof_height="0.5" 
- support_offset="0" 
- gradual_support_infill_step_height="1" 
- support_skip_zag_per_mm="20" 
- bridge_skin_support_threshold="50" 
- extruder_nr="1" 
- support_tree_branch_distance="1" 
- raft_surface_thickness="0.58" 
- small_feature_speed_factor="50" 
- magic_fuzzy_skin_thickness="0.3" 
- material_adhesion_tendency="0" 
- bridge_enable_more_layers="True" 
- jerk_wall_x="10" 
- mold_width="5" 
- speed_infill="70" 
- material_flow_layer_0="100" 
- skirt_brim_material_flow="100" 
- material_flow_dependent_temperature="False" 
- prime_tower_flow="100" 
- support_interface_offset="0.0" 
- support_interface_angles="[ ]" 
- cool_fan_speed_max="100" 
- material_surface_energy="100" 
- infill_before_walls="True" 
- minimum_interface_area="1.0" 
- brim_width="7" 
- slicing_tolerance="middle" 
- wall_0_wipe_dist="0.211" 
- machine_heat_zone_length="16" 
- raft_jerk="25" 
- travel_avoid_other_parts="True" 
- outer_inset_first="False" 
- raft_surface_layers="2" 
- ironing_enabled="False" 
- travel_compensate_overlapping_walls_0_enabled="True" 
- support_infill_rate="15" 
- skin_angles="[ ]" 
- wall_thickness="1" 
- top_layers="2" 
- raft_surface_fan_speed="0" 
- support_bottom_offset="0.0" 
- support_interface_material_flow="100" 
- z_seam_type="shortest" 
- retraction_prime_speed="25" 
- acceleration_support="2000" 
- speed_equalize_flow_enabled="True" 
- retraction_combing_max_distance="0" 
- coasting_speed="90" 
- infill_support_angle="40" 
- support_line_width="0.35000000000000003" 
- acceleration_support_infill="2000" 
- optimize_wall_printing_order="True" 
- raft_interface_thickness="0.8699999999999999" 
- travel_compensate_overlapping_walls_enabled="True" 
- fill_outline_gaps="True" 
- raft_interface_fan_speed="0" 
- support_roof_density="100" 
- material_standby_temperature="100" 
- material_anti_ooze_retracted_position="-4" 
- support_roof_angles="[ ]" 
- bridge_skin_speed_2="15.0" 
- material_final_print_temperature="185" 
- support_tree_angle="40" 
- skirt_brim_speed="21" 
- hole_xy_offset="0" 
- multiple_mesh_overlap="1" 
- acceleration_prime_tower="2000" 
- gradual_infill_steps="0" 
- jerk_support_roof="8" 
- extruder_prime_pos_y="6" 
- speed_topbottom="30" 
- support_bottom_distance="0.58" 
- acceleration_wall="1000" 
- wipe_hop_speed="10" 
- support_conical_min_width="5.0" 
- gradual_infill_step_height="1.5" 
- retraction_retract_speed="25" 
- support_bottom_height="1" 
- support_interface_skip_height="0.3" 
- support_bottom_line_distance="13.1" 
- ironing_inset="6.8075" 
- skin_preshrink="13.3" 
- support_tree_branch_diameter_angle="5" 
- raft_base_jerk="25" 
- bridge_wall_material_flow="50" 
- jerk_support_interface="5" 
- retraction_hop_after_extruder_switch="True" 
- material_flush_purge_speed="0.5" 
- bridge_skin_speed_3="15.0" 
- machine_extruder_start_pos_y="219" 
- resolution="0" 
- infill_line_distance="6.300000000000001" 
- connect_infill_polygons="False" 
- machine_extruder_end_pos_abs="True" 
- bottom_layers="2" 
- speed_support_infill="21" 
- top_skin_preshrink="13.3" 
- roofing_pattern="lines" 
- infill_wall_line_count="0" 
- retraction_extra_prime_amount="0" 
- meshfix_maximum_travel_resolution="0.7000000000000001" 
- retraction_speed="25" 
- bridge_sparse_infill_max_density="0" 
- material_flow_temp_graph="[[3.5,200],[7.0,240]]" 
- min_skin_width_for_expansion="7.102951435054648e-17" 
- wipe_retraction_retract_speed="25" 
- support_tree_collision_resolution="0.17500000000000002" 
- wall_overhang_speed_factor="100" 
- raft_base_acceleration="4000" 
- raft_margin="15" 
- jerk_ironing="5" 
- infill_pattern="triangles" 
- raft_interface_acceleration="4000" 
- experimental="0" 
- jerk_skirt_brim="6" 
- machine_feeder_wheel_diameter="10.0" 
- support_bottom_density="100" 
- machine_settings="0" 
- infill_multiplier="1" 
- speed_equalize_flow_max="150" 
- roofing_layer_count="0" 
- switch_extruder_retraction_amount="16" 
- cross_support_density_image="" 
- support_bottom_line_width="13.1" 
- z_seam_x="165.0" 
- prime_tower_min_volume="6" 
- magic_fuzzy_skin_enabled="False" 
- material_break_preparation_speed="2" 
- machine_nozzle_id="AA 0.4" 
- support_bottom_pattern="concentric" 
- bottom_thickness="1" 
- speed_wall="30" 
- mesh_position_z="0" 
- speed_prime_tower="30" 
- skin_edge_support_thickness="0" 
- brim_line_count="17" 
- support_roof_line_distance="13.1" 
- cool_min_layer_time_fan_speed_max="10" 
- jerk_layer_0="5" 
- support_wall_count="0" 
- support_bottom_enable="False" 
- speed_layer_0="20" 
- layer_0_z_overlap="0.15" 
- infill_randomize_start_location="True" 
- top_skin_expand_distance="13.3" 
- magic_fuzzy_skin_outside_only="False" 
- retraction_min_travel="0.7000000000000001" 
- top_thickness="1" 
- bridge_skin_material_flow_3="110" 
- support_conical_angle="30" 
- support_interface_line_width="0.35000000000000003" 
- wall_x_material_flow="98" 
- coasting_enable="False" 
- support_infill_sparse_thickness="0.58" 
- wall_line_count="1" 
- wipe_move_distance="20" 
- material_shrinkage_percentage="0" 
- skin_line_width="0.35000000000000003" 
- machine_steps_per_mm_y="50" 
- cool_fan_speed="100" 
- wipe_retraction_amount="6.5" 
- small_feature_speed_factor_0="50" 
- material_diameter="2.85" 
- roofing_material_flow="100" 
- meshfix_maximum_deviation="0.145" 
- infill_wipe_dist="0" 
- mesh_position_x="0" 
- ironing_only_highest_layer="False" 
- infill_line_width="0.42" 
- conical_overhang_angle="50" 
- speed_support_roof="30" 
- material_print_temperature="200" 
- material_break_speed="25" 
- skin_edge_support_layers="0" 
- support="0" 
- min_infill_area="0" 
- layer_start_x="330.0" 
- prime_tower_line_width="0.35000000000000003" 
- xy_offset="0.01" 
- wall_overhang_angle="90" 
- speed_print_layer_0="20" 
- support_line_distance="2.3333333333333335" 
- infill_overlap_mm="0.0" 
- jerk_travel_layer_0="10.0" 
- speed_roofing="30" 
- acceleration_layer_0="500" 
- skin_overlap="10" 
- support_xy_distance_overhang="13.3" 
- machine_steps_per_mm_e="1600" 
- support_roof_material_flow="99" 
- cool_lift_head="False" 
- material_break_preparation_temperature="210" 
- support_infill_angles="[ ]" 
- support_xy_overrides_z="z_overrides_xy" 
- speed_wall_0="21" 
- meshfix="0" 
- skirt_brim_minimal_length="250" 
- wall_line_width="13.2" 
- acceleration_travel="5000" 
- speed_travel_layer_0="42.857142857142854" 
- minimum_roof_area="1.0" 
- wipe_repeat_count="5" 
- support_skip_some_zags="False" 
- bridge_fan_speed_3="0" 
- support_tower_maximum_supported_diameter="3.0" 
- gradual_support_infill_steps="0" 
- speed_support_interface="30" 
- wall_0_inset="0.3" 
- brim_gap="0" 
- infill_sparse_density="20" 
- retraction_enable="True" 
- blackmagic="0" 
- center_object="False" 
- roofing_line_width="0.35000000000000003" 
- support_tower_roof_angle="65" 
- prime_blob_enable="False" 
- material_extrusion_cool_down_speed="0.7" 
- support_bottom_angles="[ ]" 
- raft_base_line_width="0.8" 
- command_line_settings="0" 
- acceleration_support_bottom="371" 
- jerk_print="25" 
- acceleration_infill="4000" 
- clean_between_layers="False" 
- material_flush_purge_length="60" 
- machine_nozzle_offset_y="0" 
- line_width="0.35000000000000003" 
- acceleration_travel_layer_0="625.0" 
- wall_0_material_flow="97" 
- bridge_wall_coast="100" 
- support_tower_diameter="3.0" 
- material_end_of_filament_purge_speed="0.5" 
- wipe_retraction_speed="25" 
- meshfix_union_all="True" 
- extruder_prime_pos_x="333" 
- dual="0" 
- retraction_hop="2" 
- material_guid="506c9f0d-e3aa-4bd4-b2d2-23e2425b1aa9" 
- cross_infill_density_image="" 
- support_roof_offset="0.0" 
- material_break_retracted_position="-50" 
- raft_surface_line_spacing="0.35000000000000003" 
- top_bottom_pattern="lines" 
- material_maximum_park_duration="7200" 
- jerk_travel="50" 
- machine_extruder_cooling_fan_number="0" 
- infill_sparse_thickness="0.58" 
- support_fan_enable="False" 
- cooling="0" 
- bridge_skin_density_2="75" 
- infill_overlap="0" 
- minimum_bottom_area="1.0" 
- meshfix_keep_open_polygons="False" 
- support_roof_enable="False" 
- support_bottom_stair_step_min_slope="10.0" 
- acceleration_print="4000" 
- sub_div_rad_add="0.3" 
- retraction_hop_only_when_collides="True" 
- raft_base_speed="20" 
- support_supported_skin_fan_speed="100" 
- machine_nozzle_temp_enabled="True" 
- initial_layer_line_width_factor="120" 
- raft_base_line_spacing="1.6" 
- material_crystallinity="False" 
- retraction_extrusion_window="1" 
- material_flow="100" 
- cool_fan_speed_min="100" 
- support_conical_enabled="False" 
- switch_extruder_extra_prime_amount="0" 
- jerk_support_bottom="8" 
- conical_overhang_enabled="False" 
- infill_angles="[ ]" 
- top_bottom_pattern_0="lines" 
- travel="0" 
- max_extrusion_before_wipe="10" 
- travel_avoid_distance="3" 
- material_print_temperature_layer_0="200" 
- retraction_count_max="25" 
- skin_material_flow="100" 
- bridge_skin_speed="15.0" 
- raft_surface_acceleration="4000" 
- jerk_roofing="5" 
- wipe_brush_pos_x="100" 
- expand_skins_expand_distance="13.3" 
- material="0" 
- raft_base_thickness="0.696" 
- zig_zaggify_support="False" 
- machine_endstop_positive_direction_y="False" 
- bridge_skin_material_flow_2="100" 
- machine_nozzle_heat_up_speed="1.6" 
- wipe_hop_enable="True" 
- ironing_flow="10.0" 
- support_initial_layer_line_distance="2.3333333333333335" 
- speed_travel="150" 
- infill_offset_x="0" 
- jerk_wall="10" 
- support_brim_line_count="20" 
- acceleration_wall_0="500" 
- switch_extruder_prime_speed="20" 
- support_use_towers="True" 
- jerk_support_infill="15" 
- wipe_retraction_enable="True" 
- magic_fuzzy_skin_point_dist="0.8" 
- bridge_skin_material_flow="60" 
- raft_airgap="0.3" 
- support_roof_line_width="13.1" 
- machine_min_cool_heat_time_window="15" 
- cool_min_speed="7" 
- travel_compensate_overlapping_walls_x_enabled="True" 
- jerk_print_layer_0="5" 
- support_bottom_material_flow="99" 
- switch_extruder_retraction_speed="20" 
- bottom_skin_expand_distance="13.3" 
- acceleration_roofing="500" 
- retraction_hop_enabled="True" 
- alternate_extra_perimeter="False" 
- top_bottom_thickness="1" 
- raft_fan_speed="0" 
- support_interface_pattern="concentric" 
- wall_material_flow="98" 
- support_material_flow="100" 
- wipe_retraction_prime_speed="25" 
- bridge_fan_speed_2="0" 
- raft_interface_line_width="0.7000000000000001" 
- meshfix_extensive_stitching="False" 
- acceleration_skirt_brim="373" 
- platform_adhesion="0" 
- wall_line_width_x="0.3" 
- jerk_topbottom="5" 
- raft_surface_speed="25" 
- retraction_amount="6.5" 
- fill_perimeter_gaps="nowhere" 
- infill_material_flow="100" 
- support_tree_branch_diameter="2" 
- roofing_angles="[ ]" 
- z_seam_corner="z_seam_corner_outer" 
- bridge_skin_density="100" 
- mesh_position_y="0" 
- acceleration_wall_x="1000" 
- skin_outline_count="1" 
- acceleration_topbottom="500" 
- switch_extruder_retraction_speeds="20" 
- raft_base_fan_speed="0" 
- machine_extruder_start_pos_x="330" 
- extruder_prime_pos_z="2" 
- raft_speed="25" 
- jerk_prime_tower="15" 
- machine_extruder_end_pos_y="219" 
- support_roof_pattern="concentric" 
- machine_extruder_end_code="" 
- magic_mesh_surface_mode="normal" 
- coasting_min_volume="0.8" 
- cool_fan_full_at_height="1.7399999999999998" 
- initial_bottom_layers="2" 
- infill_enable_travel_optimization="False" 
- cool_fan_full_layer="3" 
- connect_skin_polygons="False" 
- support_z_distance="1.16" 
- machine_nozzle_cool_down_speed="0.75" 
- raft_acceleration="4000" 
- support_interface_density="100" 
- machine_nozzle_offset_x="22" 
- mesh_rotation_matrix="[[1,0,0], [0,1,0], [0,0,1]]" 
- acceleration_ironing="500" 
- skirt_gap="3" 
- support_zag_skip_count="9" 
- wipe_pause="0" 
- max_skin_angle_for_expansion="90" 
- machine_nozzle_tip_outer_diameter="1.0" 
- retraction_hop_after_extruder_switch_height="2" 
- ironing_line_spacing="0.1" 
- filter_out_tiny_gaps="False" 
- infill_offset_y="0" 
- machine_endstop_positive_direction_x="False" 
- material_initial_print_temperature="190" 
- support_angle="60" 
- skirt_brim_line_width="0.35000000000000003" 
- speed_support_bottom="30" 
- machine_nozzle_head_distance="3" 
- material_break_temperature="60" 
- speed="0" 
- z_seam_position="back" 
- material_end_of_filament_purge_length="20" 
- support_connect_zigzags="True" 
- layer_start_y="228.0" 
- prime_tower_wipe_enabled="True" 
- cool_fan_speed_0="0" 
- support_top_distance="1.16" 
- speed_ironing="20.0" 
- material_no_load_move_factor="0.940860215" 
- speed_wall_x="30" 
- cool_fan_enabled="True" 
- support_xy_distance="33.25" 
- extruder_prime_pos_abs="True" 
- acceleration_support_roof="371" 
- wipe_hop_amount="2" 
- raft_interface_speed="20" 
- wall_line_width_0="13.3" 
- bridge_skin_density_3="80" 
- wipe_retraction_extra_prime_amount="0" 
- brim_replaces_support="True" 
- speed_print="70" 
- support_brim_width="8.0" 
- support_interface_enable="False" 
- shell="0" 
- travel_avoid_supports="True" 
- speed_support="21" 
- cross_infill_pocket_size="6.300000000000001" 
- retract_at_layer_change="False" 
- skin_overlap_mm="0.6825" 
- raft_smoothing="5" 
- zig_zaggify_infill="True" 
- material_anti_ooze_retraction_speed="5" 
- support_interface_height="1" 
- jerk_support="15" 
- raft_interface_jerk="25" 
- material_break_preparation_retracted_position="-16" 
- speed_z_hop="10" 
- raft_surface_jerk="25" 
- raft_interface_line_spacing="0.9000000000000001" 
- infill="0" 
- wall_min_flow_retract="False" 
- jerk_infill="25" 
- small_hole_max_size="0" 
- limit_support_retractions="True" 
- acceleration_print_layer_0="500" 
- magic_fuzzy_skin_point_density="1.25" 
- support_bottom_stair_step_width="5.0" 
- xy_offset_layer_0="0.01" 
- bridge_wall_speed="10.5" 
- meshfix_union_all_remove_holes="False" 
- bottom_skin_preshrink="13.3" 
- z_seam_y="240" 
- machine_extruder_start_code="" 
- support_bottom_stair_step_height="0.3" 
- coasting_volume="0.064" -g -e0 -l "0" 
- extruder_nr="0"
+;FLAVOR:Marlin
+;TIME:6666
+;Filament used: 0m
+;Layer height: 0.1
+;MINX:2.14748e+06
+;MINY:2.14748e+06
+;MINZ:2.14748e+06
+;MAXX:-2.14748e+06
+;MAXY:-2.14748e+06
+;MAXZ:-2.14748e+06
+
+;Generated with Cura_SteamEngine 4.7.0
+M104 S215
+M105
+M109 S215
+M82 ;absolute extrusion mode
+G28 ;Home
+G1 Z15.0 F6000 ;Move the platform down 15mm
+;Prime the extruder
+G92 E0
+G1 F200 E3
+G92 E0
+G92 E0
+G92 E0
+G1 F1500 E-6.5
+;LAYER_COUNT:62
+;LAYER:0
+M107
+G0 F3600 X42.875 Y46.653 Z0.3
+;TYPE:SKIRT
+G1 F1500 E0
+G1 F1800 X43.46 Y46.123 E0.01485
+G1 X44.095 Y45.654 E0.0297
+G1 X44.775 Y45.252 E0.04456
+G1 X45.492 Y44.921 E0.05941
+G1 X46.239 Y44.664 E0.07427
+G1 X47.008 Y44.484 E0.08913
+G1 X47.791 Y44.383 E0.10398
+G1 X48.363 Y44.359 E0.11475
+G1 X48.782 Y44.357 E0.12263
+G1 X49.571 Y44.393 E0.13749
+G1 X49.987 Y44.455 E0.1454
+G1 X50.312 Y44.4 E0.1516
+G1 X51.1 Y44.348 E0.16645
+G1 X51.71 Y44.363 E0.17793
+G1 X52.09 Y44.387 E0.18509
+G1 X52.874 Y44.476 E0.19994
+G1 X53.646 Y44.645 E0.2148
+G1 X54.396 Y44.89 E0.22964
+G1 X55.118 Y45.21 E0.2445
+G1 X55.804 Y45.602 E0.25936
+G1 X56.446 Y46.061 E0.27421
+G1 X57.039 Y46.583 E0.28907
+G1 X57.577 Y47.161 E0.30392
+G1 X58.052 Y47.792 E0.31878
+G1 X58.462 Y48.467 E0.33363
+G1 X58.802 Y49.18 E0.34849
+G1 X59.067 Y49.923 E0.36333
+G1 X59.256 Y50.69 E0.37819
+G1 X59.367 Y51.472 E0.39305
+G1 X59.383 Y52.213 E0.40699
+G1 X59.394 Y52.301 E0.40866
+G1 X59.412 Y53.091 E0.42352
+G1 X59.35 Y53.878 E0.43837
+G1 X59.209 Y54.655 E0.45323
+G1 X58.99 Y55.413 E0.46807
+G1 X58.695 Y56.146 E0.48293
+G1 X58.328 Y56.845 E0.49778
+G1 X57.892 Y57.504 E0.51264
+G1 X57.391 Y58.115 E0.52751
+G1 X56.832 Y58.672 E0.54235
+G1 X56.295 Y59.113 E0.55542
+G1 X56.219 Y59.17 E0.55721
+G1 X55.564 Y59.611 E0.57206
+G1 X54.868 Y59.984 E0.58692
+G1 X54.138 Y60.284 E0.60176
+G1 X53.381 Y60.509 E0.61662
+G1 X52.605 Y60.657 E0.63148
+G1 X51.818 Y60.725 E0.64634
+G1 X51.046 Y60.714 E0.66086
+G1 X50.683 Y60.691 E0.6677
+G1 X50.039 Y60.618 E0.67989
+G1 X49.679 Y60.678 E0.68676
+G1 X48.891 Y60.729 E0.70161
+G1 X48.302 Y60.715 E0.7127
+G1 X47.912 Y60.691 E0.72005
+G1 X47.127 Y60.603 E0.7349
+G1 X46.355 Y60.436 E0.74976
+G1 X45.604 Y60.191 E0.76462
+G1 X44.882 Y59.872 E0.77947
+G1 X44.196 Y59.482 E0.79431
+G1 X43.552 Y59.024 E0.80918
+G1 X42.959 Y58.503 E0.82403
+G1 X42.42 Y57.925 E0.83889
+G1 X41.944 Y57.296 E0.85373
+G1 X41.533 Y56.621 E0.8686
+G1 X41.192 Y55.909 E0.88345
+G1 X40.925 Y55.166 E0.8983
+G1 X40.735 Y54.399 E0.91316
+G1 X40.624 Y53.618 E0.928
+G1 X40.592 Y52.784 E0.9437
+G1 X40.599 Y52.465 E0.9497
+G1 X40.606 Y51.791 E0.96238
+G1 X40.622 Y51.577 E0.96642
+G1 X40.72 Y50.794 E0.98126
+G1 X40.898 Y50.024 E0.99613
+G1 X41.152 Y49.277 E1.01097
+G1 X41.481 Y48.559 E1.02582
+G1 X41.88 Y47.878 E1.04067
+G1 X42.346 Y47.24 E1.05553
+G1 X42.875 Y46.653 E1.0704
+G0 F3600 X43.258 Y46.838
+G1 F1800 X43.838 Y46.333 E1.08486
+G1 X44.467 Y45.89 E1.09933
+G1 X45.139 Y45.516 E1.1138
+G1 X45.846 Y45.214 E1.12826
+G1 X46.581 Y44.986 E1.14274
+G1 X47.336 Y44.836 E1.15722
+G1 X48.365 Y44.759 E1.17663
+G1 X48.784 Y44.757 E1.18451
+G1 X49.552 Y44.793 E1.19897
+G1 X49.986 Y44.859 E1.20723
+G1 X50.498 Y44.782 E1.21697
+G1 X51.266 Y44.747 E1.23143
+G1 X52.064 Y44.786 E1.24646
+G1 X52.829 Y44.874 E1.26094
+G1 X53.579 Y45.041 E1.2754
+G1 X54.309 Y45.285 E1.28988
+G1 X55.009 Y45.604 E1.30435
+G1 X55.672 Y45.993 E1.31881
+G1 X56.291 Y46.45 E1.33328
+G1 X56.86 Y46.968 E1.34775
+G1 X57.371 Y47.542 E1.36221
+G1 X57.821 Y48.166 E1.37668
+G1 X58.203 Y48.834 E1.39116
+G1 X58.514 Y49.537 E1.40562
+G1 X58.75 Y50.269 E1.42008
+G1 X58.908 Y51.022 E1.43456
+G1 X58.988 Y51.787 E1.44902
+G1 X58.989 Y52.289 E1.45847
+G1 X58.997 Y52.35 E1.45962
+G1 X59.011 Y53.119 E1.47409
+G1 X58.945 Y53.886 E1.48857
+G1 X58.801 Y54.641 E1.50303
+G1 X58.578 Y55.377 E1.5175
+G1 X58.281 Y56.087 E1.53197
+G1 X57.911 Y56.761 E1.54644
+G1 X57.474 Y57.394 E1.56091
+G1 X56.973 Y57.977 E1.57537
+G1 X56.414 Y58.506 E1.58984
+G1 X55.979 Y58.85 E1.60028
+G1 X55.341 Y59.279 E1.61474
+G1 X54.661 Y59.639 E1.62921
+G1 X53.948 Y59.927 E1.64367
+G1 X53.208 Y60.139 E1.65815
+G1 X52.451 Y60.274 E1.67262
+G1 X51.684 Y60.329 E1.68708
+G1 X51.071 Y60.315 E1.69862
+G1 X50.708 Y60.292 E1.70546
+G1 X50.036 Y60.215 E1.71818
+G1 X49.493 Y60.296 E1.72851
+G1 X48.725 Y60.33 E1.74297
+G1 X47.936 Y60.292 E1.75783
+G1 X47.172 Y60.205 E1.77229
+G1 X46.421 Y60.039 E1.78676
+G1 X45.691 Y59.796 E1.80123
+G1 X44.991 Y59.479 E1.81569
+G1 X44.327 Y59.09 E1.83016
+G1 X43.707 Y58.635 E1.84463
+G1 X43.138 Y58.118 E1.85909
+G1 X42.625 Y57.544 E1.87357
+G1 X42.175 Y56.921 E1.88803
+G1 X41.792 Y56.254 E1.9025
+G1 X41.48 Y55.551 E1.91696
+G1 X41.243 Y54.819 E1.93144
+G1 X41.083 Y54.067 E1.9459
+G1 X41.002 Y53.302 E1.96037
+G1 X40.992 Y52.79 E1.97
+G1 X40.999 Y52.471 E1.97601
+G1 X41.005 Y51.821 E1.98823
+G1 X41.021 Y51.607 E1.99227
+G1 X41.118 Y50.844 E2.00674
+G1 X41.294 Y50.095 E2.02121
+G1 X41.546 Y49.369 E2.03567
+G1 X41.873 Y48.673 E2.05013
+G1 X42.27 Y48.014 E2.0646
+G1 X42.733 Y47.4 E2.07907
+G1 X43.258 Y46.838 E2.09353
+G0 F3600 X43.64 Y47.026
+G1 F1800 X44.215 Y46.548 E2.1076
+G1 X44.838 Y46.133 E2.12168
+G1 X45.501 Y45.788 E2.13574
+G1 X46.198 Y45.515 E2.14982
+G1 X46.919 Y45.317 E2.16389
+G1 X47.658 Y45.198 E2.17797
+G1 X48.367 Y45.159 E2.19132
+G1 X48.786 Y45.157 E2.1992
+G1 X49.533 Y45.193 E2.21327
+G1 X49.967 Y45.261 E2.22154
+G1 X50.68 Y45.168 E2.23506
+G1 X51.659 Y45.161 E2.25348
+G1 X52.039 Y45.185 E2.26064
+G1 X52.782 Y45.272 E2.27471
+G1 X53.512 Y45.438 E2.28879
+G1 X54.219 Y45.68 E2.30285
+G1 X54.897 Y45.997 E2.31693
+G1 X55.537 Y46.384 E2.331
+G1 X56.132 Y46.838 E2.34508
+G1 X56.675 Y47.352 E2.35914
+G1 X57.16 Y47.921 E2.3732
+G1 X57.582 Y48.539 E2.38728
+G1 X57.936 Y49.199 E2.40137
+G1 X58.217 Y49.892 E2.41543
+G1 X58.422 Y50.611 E2.4295
+G1 X58.549 Y51.348 E2.44357
+G1 X58.598 Y52.095 E2.45765
+G1 X58.599 Y52.399 E2.46337
+G1 X58.61 Y53.147 E2.47744
+G1 X58.54 Y53.892 E2.49151
+G1 X58.392 Y54.625 E2.50558
+G1 X58.166 Y55.338 E2.51965
+G1 X57.866 Y56.023 E2.53372
+G1 X57.494 Y56.672 E2.54779
+G1 X57.055 Y57.278 E2.56186
+G1 X56.554 Y57.834 E2.57594
+G1 X55.815 Y58.473 E2.59432
+G1 X55.739 Y58.53 E2.59611
+G1 X55.117 Y58.946 E2.61018
+G1 X54.455 Y59.294 E2.62425
+G1 X53.759 Y59.569 E2.63833
+G1 X53.038 Y59.768 E2.6524
+G1 X52.3 Y59.889 E2.66646
+G1 X51.553 Y59.93 E2.68054
+G1 X50.733 Y59.893 E2.69598
+G1 X50.052 Y59.813 E2.70888
+G1 X49.312 Y59.91 E2.72291
+G1 X48.351 Y59.917 E2.74099
+G1 X47.961 Y59.893 E2.74834
+G1 X47.218 Y59.807 E2.76241
+G1 X46.488 Y59.642 E2.77649
+G1 X45.78 Y59.401 E2.79056
+G1 X45.102 Y59.085 E2.80463
+G1 X44.461 Y58.699 E2.8187
+G1 X43.866 Y58.247 E2.83276
+G1 X43.322 Y57.733 E2.84684
+G1 X42.835 Y57.165 E2.86091
+G1 X42.413 Y56.547 E2.87499
+G1 X42.058 Y55.889 E2.88905
+G1 X41.776 Y55.196 E2.90313
+G1 X41.57 Y54.477 E2.91719
+G1 X41.441 Y53.74 E2.93127
+G1 X41.392 Y52.796 E2.94905
+G1 X41.398 Y52.477 E2.95505
+G1 X41.403 Y51.851 E2.96683
+G1 X41.419 Y51.637 E2.97086
+G1 X41.515 Y50.895 E2.98494
+G1 X41.689 Y50.168 E2.999
+G1 X41.94 Y49.463 E3.01308
+G1 X42.265 Y48.789 E3.02715
+G1 X42.659 Y48.153 E3.04122
+G1 X43.12 Y47.564 E3.05529
+G1 X43.64 Y47.026 E3.06937
+G0 F3600 X43.505 Y47.732
+G1 F1800 X44.021 Y47.221 E3.08303
+G1 X44.591 Y46.769 E3.09671
+G1 X45.206 Y46.383 E3.11037
+G1 X45.86 Y46.067 E3.12403
+G1 X46.545 Y45.825 E3.1377
+G1 X47.252 Y45.66 E3.15136
+G1 X47.973 Y45.573 E3.16502
+G1 X48.787 Y45.557 E3.18033
+G1 X49.513 Y45.594 E3.19401
+G1 X49.984 Y45.67 E3.20298
+G1 X50.136 Y45.636 E3.20591
+G1 X50.858 Y45.557 E3.21957
+G1 X51.634 Y45.56 E3.23417
+G1 X52.014 Y45.584 E3.24133
+G1 X52.735 Y45.67 E3.25499
+G1 X53.443 Y45.834 E3.26866
+G1 X54.128 Y46.075 E3.28232
+G1 X54.783 Y46.39 E3.29599
+G1 X55.399 Y46.775 E3.30966
+G1 X55.968 Y47.225 E3.3233
+G1 X56.485 Y47.736 E3.33698
+G1 X56.943 Y48.3 E3.35064
+G1 X57.336 Y48.91 E3.36429
+G1 X57.66 Y49.561 E3.37797
+G1 X57.91 Y50.243 E3.39163
+G1 X58.084 Y50.948 E3.40529
+G1 X58.179 Y51.668 E3.41895
+G1 X58.189 Y52.347 E3.43173
+G1 X58.201 Y52.447 E3.43362
+G1 X58.208 Y53.174 E3.4473
+G1 X58.135 Y53.896 E3.46095
+G1 X57.983 Y54.606 E3.47461
+G1 X57.754 Y55.296 E3.48828
+G1 X57.451 Y55.956 E3.50194
+G1 X57.077 Y56.578 E3.5156
+G1 X56.636 Y57.156 E3.52927
+G1 X56.135 Y57.682 E3.54294
+G1 X55.575 Y58.153 E3.5567
+G1 X55.499 Y58.21 E3.55849
+G1 X54.895 Y58.613 E3.57215
+G1 X54.25 Y58.948 E3.58582
+G1 X53.572 Y59.209 E3.59948
+G1 X52.87 Y59.394 E3.61314
+G1 X52.152 Y59.502 E3.6268
+G1 X51.122 Y59.517 E3.64617
+G1 X50.759 Y59.494 E3.65302
+G1 X50.037 Y59.408 E3.66669
+G1 X49.856 Y59.442 E3.67016
+G1 X49.134 Y59.521 E3.68382
+G1 X48.376 Y59.518 E3.69808
+G1 X47.986 Y59.494 E3.70543
+G1 X47.264 Y59.409 E3.7191
+G1 X46.556 Y59.246 E3.73277
+G1 X45.871 Y59.006 E3.74642
+G1 X45.216 Y58.692 E3.76009
+G1 X44.599 Y58.308 E3.77376
+G1 X44.029 Y57.859 E3.78741
+G1 X43.511 Y57.349 E3.80108
+G1 X43.052 Y56.786 E3.81474
+G1 X42.658 Y56.176 E3.8284
+G1 X42.333 Y55.526 E3.84207
+G1 X42.082 Y54.845 E3.85573
+G1 X41.907 Y54.14 E3.86939
+G1 X41.811 Y53.42 E3.88305
+G1 X41.792 Y52.803 E3.89466
+G1 X41.796 Y52.567 E3.8991
+G1 X41.802 Y51.881 E3.91201
+G1 X41.818 Y51.667 E3.91605
+G1 X41.912 Y50.947 E3.9297
+G1 X42.085 Y50.241 E3.94338
+G1 X42.334 Y49.559 E3.95703
+G1 X42.656 Y48.908 E3.9707
+G1 X43.048 Y48.296 E3.98437
+G1 X43.505 Y47.732 E3.99802
+G0 F3600 X43.89 Y47.904
+G1 F1800 X44.402 Y47.421 E4.01126
+G1 X44.964 Y46.998 E4.02449
+G1 X45.572 Y46.642 E4.03775
+G1 X46.215 Y46.357 E4.05098
+G1 X46.887 Y46.146 E4.06423
+G1 X47.579 Y46.014 E4.07748
+G1 X48.37 Y45.959 E4.09239
+G1 X48.789 Y45.957 E4.10027
+G1 X49.492 Y45.994 E4.11352
+G1 X49.998 Y46.078 E4.12316
+G1 X50.33 Y46.011 E4.12954
+G1 X51.031 Y45.95 E4.14277
+G1 X51.609 Y45.959 E4.15365
+G1 X51.989 Y45.983 E4.16081
+G1 X52.688 Y46.068 E4.17405
+G1 X53.373 Y46.23 E4.18729
+G1 X54.035 Y46.47 E4.20054
+G1 X54.665 Y46.783 E4.21377
+G1 X55.256 Y47.165 E4.22701
+G1 X55.8 Y47.612 E4.24025
+G1 X56.29 Y48.118 E4.2535
+G1 X56.719 Y48.676 E4.26674
+G1 X57.082 Y49.279 E4.27998
+G1 X57.375 Y49.919 E4.29322
+G1 X57.593 Y50.589 E4.30648
+G1 X57.733 Y51.279 E4.31972
+G1 X57.795 Y51.98 E4.33296
+G1 X57.803 Y52.495 E4.34265
+G1 X57.806 Y53.199 E4.35589
+G1 X57.73 Y53.898 E4.36912
+G1 X57.574 Y54.585 E4.38237
+G1 X57.341 Y55.249 E4.3956
+G1 X57.035 Y55.883 E4.40885
+G1 X56.659 Y56.478 E4.42209
+G1 X56.218 Y57.027 E4.43533
+G1 X55.717 Y57.522 E4.44858
+G1 X55.259 Y57.89 E4.45963
+G1 X54.673 Y58.28 E4.47287
+G1 X54.046 Y58.601 E4.48612
+G1 X53.387 Y58.848 E4.49936
+G1 X52.704 Y59.02 E4.51261
+G1 X52.006 Y59.112 E4.52585
+G1 X51.147 Y59.118 E4.54201
+G1 X50.784 Y59.095 E4.54885
+G1 X50.085 Y59.01 E4.5621
+G1 X49.663 Y59.067 E4.57011
+G1 X48.961 Y59.127 E4.58336
+G1 X48.4 Y59.118 E4.59392
+G1 X48.01 Y59.094 E4.60127
+G1 X47.311 Y59.011 E4.61451
+G1 X46.626 Y58.849 E4.62775
+G1 X45.964 Y58.611 E4.64098
+G1 X45.332 Y58.299 E4.65424
+G1 X44.741 Y57.918 E4.66747
+G1 X44.196 Y57.471 E4.68073
+G1 X43.706 Y56.967 E4.69395
+G1 X43.276 Y56.409 E4.7072
+G1 X42.911 Y55.807 E4.72044
+G1 X42.618 Y55.167 E4.73368
+G1 X42.399 Y54.498 E4.74692
+G1 X42.257 Y53.808 E4.76017
+G1 X42.192 Y52.809 E4.77901
+G1 X42.201 Y51.911 E4.7959
+G1 X42.217 Y51.697 E4.79994
+G1 X42.31 Y50.999 E4.81318
+G1 X42.48 Y50.316 E4.82642
+G1 X42.727 Y49.657 E4.83966
+G1 X43.048 Y49.03 E4.85291
+G1 X43.437 Y48.443 E4.86616
+G1 X43.89 Y47.904 E4.8794
+G0 F3600 X44.274 Y48.082
+G1 F1800 X44.78 Y47.627 E4.8922
+G1 X45.336 Y47.234 E4.90501
+G1 X45.935 Y46.909 E4.91783
+G1 X46.567 Y46.656 E4.93063
+G1 X47.224 Y46.479 E4.94343
+G1 X47.898 Y46.381 E4.95624
+G1 X48.791 Y46.357 E4.97305
+G1 X49.471 Y46.394 E4.98586
+G1 X49.995 Y46.485 E4.99586
+G1 X50.52 Y46.389 E5.0059
+G1 X51.2 Y46.347 E5.01872
+G1 X51.964 Y46.383 E5.0331
+G1 X52.639 Y46.465 E5.04589
+G1 X53.301 Y46.627 E5.05871
+G1 X53.939 Y46.864 E5.07152
+G1 X54.545 Y47.175 E5.08433
+G1 X55.11 Y47.555 E5.09714
+G1 X55.627 Y47.998 E5.10994
+G1 X56.088 Y48.499 E5.12275
+G1 X56.487 Y49.051 E5.13556
+G1 X56.819 Y49.645 E5.14836
+G1 X57.079 Y50.274 E5.16117
+G1 X57.264 Y50.93 E5.17399
+G1 X57.37 Y51.602 E5.18678
+G1 X57.391 Y52.416 E5.2021
+G1 X57.406 Y52.541 E5.20447
+G1 X57.404 Y53.222 E5.21728
+G1 X57.324 Y53.898 E5.23008
+G1 X57.164 Y54.56 E5.24289
+G1 X56.928 Y55.199 E5.25571
+G1 X56.619 Y55.806 E5.26852
+G1 X56.241 Y56.372 E5.28132
+G1 X55.799 Y56.89 E5.29413
+G1 X55.095 Y57.513 E5.31182
+G1 X55.019 Y57.57 E5.3136
+G1 X54.451 Y57.946 E5.32642
+G1 X53.843 Y58.253 E5.33923
+G1 X53.204 Y58.486 E5.35202
+G1 X52.541 Y58.643 E5.36484
+G1 X51.865 Y58.721 E5.37764
+G1 X51.172 Y58.718 E5.39067
+G1 X50.809 Y58.695 E5.39752
+G1 X50.133 Y58.613 E5.41033
+G1 X50.032 Y58.588 E5.41228
+G1 X49.473 Y58.689 E5.42297
+G1 X48.793 Y58.73 E5.43578
+G1 X48.035 Y58.695 E5.45006
+G1 X47.359 Y58.613 E5.46287
+G1 X46.697 Y58.453 E5.47568
+G1 X46.059 Y58.216 E5.48848
+G1 X45.452 Y57.906 E5.5013
+G1 X44.887 Y57.528 E5.51409
+G1 X44.369 Y57.085 E5.52691
+G1 X43.907 Y56.585 E5.53971
+G1 X43.507 Y56.034 E5.55252
+G1 X43.174 Y55.44 E5.56533
+G1 X42.913 Y54.811 E5.57814
+G1 X42.727 Y54.156 E5.59095
+G1 X42.62 Y53.484 E5.60375
+G1 X42.592 Y52.815 E5.61634
+G1 X42.6 Y51.941 E5.63279
+G1 X42.616 Y51.727 E5.63682
+G1 X42.707 Y51.052 E5.64963
+G1 X42.876 Y50.392 E5.66245
+G1 X43.121 Y49.757 E5.67525
+G1 X43.439 Y49.155 E5.68806
+G1 X43.825 Y48.594 E5.70087
+G1 X44.274 Y48.082 E5.71368
+G0 F3600 X44.657 Y48.266
+G1 F1800 X45.158 Y47.841 E5.72604
+G1 X45.706 Y47.479 E5.73839
+G1 X46.294 Y47.186 E5.75075
+G1 X46.914 Y46.968 E5.76311
+G1 X47.555 Y46.825 E5.77547
+G1 X48.374 Y46.759 E5.79092
+G1 X48.793 Y46.757 E5.7988
+G1 X49.449 Y46.794 E5.81116
+G1 X49.992 Y46.891 E5.82154
+G1 X50.057 Y46.873 E5.82281
+G1 X50.706 Y46.771 E5.83516
+G1 X51.558 Y46.758 E5.85119
+G1 X51.938 Y46.782 E5.85836
+G1 X52.59 Y46.863 E5.87071
+G1 X53.228 Y47.023 E5.88309
+G1 X53.841 Y47.259 E5.89544
+G1 X54.421 Y47.567 E5.9078
+G1 X54.959 Y47.944 E5.92015
+G1 X55.447 Y48.384 E5.93251
+G1 X55.879 Y48.879 E5.94487
+G1 X56.247 Y49.423 E5.95723
+G1 X56.546 Y50.008 E5.96958
+G1 X56.772 Y50.625 E5.98194
+G1 X56.921 Y51.265 E5.99431
+G1 X56.992 Y51.918 E6.00666
+G1 X56.991 Y52.445 E6.01657
+G1 X57.007 Y52.587 E6.01926
+G1 X57.002 Y53.244 E6.03162
+G1 X56.917 Y53.896 E6.04399
+G1 X56.754 Y54.532 E6.05634
+G1 X56.514 Y55.144 E6.0687
+G1 X56.202 Y55.722 E6.08106
+G1 X55.822 Y56.258 E6.09342
+G1 X55.38 Y56.744 E6.10578
+G1 X54.855 Y57.193 E6.11877
+G1 X54.779 Y57.25 E6.12056
+G1 X54.23 Y57.611 E6.13292
+G1 X53.642 Y57.904 E6.14528
+G1 X53.022 Y58.122 E6.15764
+G1 X52.381 Y58.264 E6.16999
+G1 X51.727 Y58.327 E6.18235
+G1 X51.198 Y58.319 E6.1923
+G1 X50.835 Y58.296 E6.19914
+G1 X50.183 Y58.215 E6.2115
+G1 X50.034 Y58.178 E6.21439
+G1 X49.937 Y58.205 E6.21628
+G1 X49.287 Y58.306 E6.22866
+G1 X48.449 Y58.32 E6.24442
+G1 X48.059 Y58.296 E6.25177
+G1 X47.407 Y58.216 E6.26413
+G1 X46.77 Y58.057 E6.27648
+G1 X46.156 Y57.822 E6.28884
+G1 X45.576 Y57.514 E6.3012
+G1 X45.037 Y57.138 E6.31356
+G1 X44.548 Y56.7 E6.32591
+G1 X44.116 Y56.205 E6.33827
+G1 X43.747 Y55.661 E6.35063
+G1 X43.447 Y55.077 E6.36298
+G1 X43.22 Y54.46 E6.37535
+G1 X43.069 Y53.821 E6.3877
+G1 X42.997 Y53.168 E6.40006
+G1 X42.992 Y52.675 E6.40933
+G1 X42.999 Y51.97 E6.42259
+G1 X43.015 Y51.756 E6.42663
+G1 X43.104 Y51.105 E6.43899
+G1 X43.271 Y50.47 E6.45134
+G1 X43.514 Y49.86 E6.46369
+G1 X43.829 Y49.283 E6.47606
+G1 X44.212 Y48.75 E6.4884
+G1 X44.657 Y48.266 E6.50077
+G0 F3600 X45.039 Y48.457
+G1 F1800 X45.533 Y48.062 E6.51267
+G1 X46.073 Y47.733 E6.52456
+G1 X46.65 Y47.475 E6.53645
+G1 X47.255 Y47.292 E6.54834
+G1 X47.878 Y47.186 E6.56023
+G1 X48.795 Y47.157 E6.57749
+G1 X49.426 Y47.194 E6.58938
+G1 X50.015 Y47.304 E6.60065
+G1 X50.26 Y47.24 E6.60541
+G1 X50.887 Y47.158 E6.61731
+G1 X51.533 Y47.157 E6.62946
+G1 X51.913 Y47.181 E6.63662
+G1 X52.54 Y47.261 E6.64851
+G1 X53.152 Y47.419 E6.6604
+G1 X53.74 Y47.653 E6.6723
+G1 X54.292 Y47.959 E6.68418
+G1 X54.802 Y48.333 E6.69607
+G1 X55.261 Y48.768 E6.70797
+G1 X55.661 Y49.257 E6.71985
+G1 X55.996 Y49.793 E6.73174
+G1 X56.261 Y50.367 E6.74363
+G1 X56.452 Y50.97 E6.75553
+G1 X56.564 Y51.592 E6.76742
+G1 X56.593 Y52.403 E6.78268
+G1 X56.609 Y52.632 E6.787
+G1 X56.6 Y53.264 E6.79889
+G1 X56.51 Y53.89 E6.81079
+G1 X56.343 Y54.5 E6.82269
+G1 X56.1 Y55.083 E6.83457
+G1 X55.785 Y55.631 E6.84646
+G1 X55.404 Y56.136 E6.85836
+G1 X54.962 Y56.588 E6.87025
+G1 X54.539 Y56.93 E6.88048
+G1 X54.01 Y57.277 E6.89238
+G1 X53.442 Y57.554 E6.90427
+G1 X52.844 Y57.757 E6.91615
+G1 X52.224 Y57.883 E6.92805
+G1 X51.594 Y57.93 E6.93993
+G1 X50.86 Y57.897 E6.95375
+G1 X50.233 Y57.817 E6.96564
+G1 X50.023 Y57.763 E6.96972
+G1 X49.734 Y57.838 E6.97534
+G1 X49.107 Y57.919 E6.98723
+G1 X48.474 Y57.921 E6.99914
+G1 X48.084 Y57.897 E7.00649
+G1 X47.457 Y57.818 E7.01837
+G1 X46.844 Y57.661 E7.03028
+G1 X46.257 Y57.428 E7.04216
+G1 X45.703 Y57.122 E7.05406
+G1 X45.193 Y56.749 E7.06595
+G1 X44.733 Y56.315 E7.07784
+G1 X44.333 Y55.826 E7.08973
+G1 X43.996 Y55.291 E7.10162
+G1 X43.731 Y54.717 E7.11351
+G1 X43.539 Y54.115 E7.1254
+G1 X43.426 Y53.493 E7.13729
+G1 X43.392 Y52.828 E7.14982
+G1 X43.392 Y52.653 E7.15311
+G1 X43.398 Y52 E7.16539
+G1 X43.414 Y51.786 E7.16943
+G1 X43.501 Y51.16 E7.18132
+G1 X43.666 Y50.55 E7.1932
+G1 X43.907 Y49.965 E7.20511
+G1 X44.22 Y49.416 E7.21699
+G1 X44.599 Y48.911 E7.22887
+G1 X45.039 Y48.457 E7.24076
+G0 F3600 X44.985 Y49.077
+G1 F1800 X45.42 Y48.655 E7.25216
+G1 X45.907 Y48.293 E7.26358
+G1 X46.437 Y47.999 E7.27498
+G1 X47.001 Y47.777 E7.28638
+G1 X47.589 Y47.631 E7.29778
+G1 X48.378 Y47.559 E7.31268
+G1 X48.797 Y47.557 E7.32056
+G1 X49.402 Y47.594 E7.33196
+G1 X49.997 Y47.71 E7.34337
+G1 X50.458 Y47.61 E7.35224
+G1 X51.062 Y47.55 E7.36366
+G1 X51.888 Y47.58 E7.3792
+G1 X52.489 Y47.658 E7.3906
+G1 X53.075 Y47.815 E7.40202
+G1 X53.635 Y48.047 E7.41342
+G1 X54.16 Y48.35 E7.42482
+G1 X54.64 Y48.721 E7.43623
+G1 X55.067 Y49.151 E7.44763
+G1 X55.435 Y49.633 E7.45904
+G1 X55.735 Y50.16 E7.47045
+G1 X55.964 Y50.721 E7.48184
+G1 X56.116 Y51.308 E7.49325
+G1 X56.191 Y51.91 E7.50466
+G1 X56.189 Y52.474 E7.51527
+G1 X56.211 Y52.676 E7.51909
+G1 X56.197 Y53.282 E7.53049
+G1 X56.103 Y53.881 E7.5419
+G1 X55.931 Y54.463 E7.55332
+G1 X55.685 Y55.017 E7.56472
+G1 X55.368 Y55.533 E7.57611
+G1 X54.985 Y56.004 E7.58753
+G1 X54.375 Y56.553 E7.60297
+G1 X54.299 Y56.61 E7.60475
+G1 X53.791 Y56.941 E7.61616
+G1 X53.244 Y57.202 E7.62756
+G1 X52.667 Y57.389 E7.63897
+G1 X52.071 Y57.499 E7.65037
+G1 X51.248 Y57.521 E7.66586
+G1 X50.885 Y57.498 E7.6727
+G1 X50.284 Y57.42 E7.6841
+G1 X50.029 Y57.352 E7.68906
+G1 X49.536 Y57.468 E7.69859
+G1 X48.932 Y57.528 E7.71001
+G1 X48.108 Y57.497 E7.72552
+G1 X47.507 Y57.42 E7.73691
+G1 X46.921 Y57.265 E7.74832
+G1 X46.361 Y57.034 E7.75971
+G1 X45.835 Y56.731 E7.77113
+G1 X45.355 Y56.361 E7.78253
+G1 X44.926 Y55.932 E7.79394
+G1 X44.559 Y55.45 E7.80534
+G1 X44.257 Y54.924 E7.81675
+G1 X44.028 Y54.363 E7.82815
+G1 X43.874 Y53.776 E7.83956
+G1 X43.799 Y53.175 E7.85095
+G1 X43.791 Y52.631 E7.86119
+G1 X43.797 Y52.03 E7.87249
+G1 X43.813 Y51.816 E7.87653
+G1 X43.898 Y51.216 E7.88793
+G1 X44.061 Y50.632 E7.89933
+G1 X44.299 Y50.074 E7.91075
+G1 X44.609 Y49.553 E7.92215
+G1 X44.985 Y49.077 E7.93356
+G0 F3600 X45.37 Y49.251
+G1 F1800 X45.799 Y48.862 E7.94445
+G1 X46.277 Y48.535 E7.95535
+G1 X46.796 Y48.277 E7.96625
+G1 X47.345 Y48.094 E7.97714
+G1 X47.915 Y47.987 E7.98804
+G1 X48.799 Y47.957 E8.00468
+G1 X49.377 Y47.994 E8.01558
+G1 X49.945 Y48.111 E8.02649
+G1 X50.085 Y48.103 E8.02912
+G1 X50.652 Y47.985 E8.04002
+G1 X51.483 Y47.955 E8.05566
+G1 X51.863 Y47.979 E8.06282
+G1 X52.437 Y48.056 E8.07372
+G1 X52.995 Y48.21 E8.0846
+G1 X53.527 Y48.44 E8.09551
+G1 X54.022 Y48.741 E8.1064
+G1 X54.471 Y49.107 E8.1173
+G1 X54.865 Y49.532 E8.1282
+G1 X55.197 Y50.006 E8.13909
+G1 X55.461 Y50.522 E8.14999
+G1 X55.651 Y51.07 E8.1609
+G1 X55.764 Y51.638 E8.1718
+G1 X55.793 Y52.366 E8.1855
+G1 X55.812 Y52.719 E8.19215
+G1 X55.793 Y53.298 E8.20305
+G1 X55.695 Y53.869 E8.21394
+G1 X55.519 Y54.421 E8.22484
+G1 X55.269 Y54.944 E8.23575
+G1 X54.949 Y55.427 E8.24665
+G1 X54.566 Y55.861 E8.25753
+G1 X54.135 Y56.233 E8.26824
+G1 X54.059 Y56.29 E8.27003
+G1 X53.573 Y56.605 E8.28092
+G1 X53.048 Y56.85 E8.29182
+G1 X52.494 Y57.02 E8.30272
+G1 X51.922 Y57.112 E8.31362
+G1 X51.273 Y57.122 E8.32583
+G1 X50.91 Y57.099 E8.33267
+G1 X50.336 Y57.022 E8.34357
+G1 X50.023 Y56.935 E8.34968
+G1 X49.91 Y56.975 E8.35193
+G1 X49.343 Y57.092 E8.36282
+G1 X48.523 Y57.122 E8.37826
+G1 X48.133 Y57.098 E8.38561
+G1 X47.559 Y57.023 E8.3965
+G1 X47 Y56.869 E8.4074
+G1 X46.468 Y56.64 E8.4183
+G1 X45.973 Y56.34 E8.42919
+G1 X45.523 Y55.974 E8.4401
+G1 X45.128 Y55.55 E8.451
+G1 X44.795 Y55.076 E8.46189
+G1 X44.531 Y54.561 E8.47278
+G1 X44.34 Y54.014 E8.48368
+G1 X44.226 Y53.446 E8.49458
+G1 X44.192 Y52.84 E8.50599
+G1 X44.191 Y52.608 E8.51036
+G1 X44.196 Y52.06 E8.52067
+G1 X44.212 Y51.846 E8.5247
+G1 X44.295 Y51.273 E8.53559
+G1 X44.456 Y50.716 E8.5465
+G1 X44.692 Y50.187 E8.5574
+G1 X44.998 Y49.696 E8.56828
+G1 X45.37 Y49.251 E8.57919
+G0 F3600 X45.753 Y49.432
+G1 F1800 X46.175 Y49.078 E8.58955
+G1 X46.644 Y48.789 E8.59991
+G1 X47.15 Y48.57 E8.61028
+G1 X47.682 Y48.427 E8.62065
+G1 X48.382 Y48.359 E8.63388
+G1 X48.801 Y48.357 E8.64176
+G1 X49.351 Y48.394 E8.65213
+G1 X49.889 Y48.511 E8.66248
+G1 X50.007 Y48.555 E8.66485
+G1 X50.297 Y48.46 E8.67059
+G1 X50.84 Y48.366 E8.68096
+G1 X51.458 Y48.355 E8.69259
+G1 X51.838 Y48.379 E8.69975
+G1 X52.383 Y48.453 E8.71009
+G1 X52.913 Y48.606 E8.72047
+G1 X53.415 Y48.833 E8.73083
+G1 X53.878 Y49.131 E8.74119
+G1 X54.294 Y49.493 E8.75156
+G1 X54.653 Y49.911 E8.76193
+G1 X54.948 Y50.376 E8.77229
+G1 X55.172 Y50.88 E8.78266
+G1 X55.321 Y51.41 E8.79302
+G1 X55.392 Y51.957 E8.80339
+G1 X55.387 Y52.504 E8.81368
+G1 X55.413 Y52.761 E8.81854
+G1 X55.39 Y53.311 E8.8289
+G1 X55.287 Y53.853 E8.83928
+G1 X55.106 Y54.373 E8.84963
+G1 X54.853 Y54.862 E8.85999
+G1 X54.531 Y55.31 E8.87037
+G1 X54.148 Y55.706 E8.88073
+G1 X53.819 Y55.97 E8.88867
+G1 X53.355 Y56.268 E8.89904
+G1 X52.854 Y56.495 E8.90938
+G1 X52.324 Y56.648 E8.91976
+G1 X51.778 Y56.722 E8.93013
+G1 X50.936 Y56.699 E8.94597
+G1 X50.39 Y56.625 E8.95633
+G1 X50.01 Y56.515 E8.96378
+G1 X49.698 Y56.618 E8.96996
+G1 X49.155 Y56.712 E8.98032
+G1 X48.548 Y56.723 E8.99174
+G1 X48.158 Y56.699 E8.99909
+G1 X47.612 Y56.625 E9.00946
+G1 X47.082 Y56.473 E9.01983
+G1 X46.58 Y56.247 E9.03018
+G1 X46.116 Y55.949 E9.04056
+G1 X45.699 Y55.588 E9.05093
+G1 X45.34 Y55.171 E9.06128
+G1 X45.044 Y54.706 E9.07165
+G1 X44.819 Y54.203 E9.08202
+G1 X44.669 Y53.673 E9.09238
+G1 X44.597 Y53.127 E9.10274
+G1 X44.59 Y52.586 E9.11291
+G1 X44.611 Y51.876 E9.12628
+G1 X44.691 Y51.331 E9.13664
+G1 X44.85 Y50.803 E9.14701
+G1 X45.084 Y50.304 E9.15738
+G1 X45.387 Y49.844 E9.16774
+G1 X45.753 Y49.432 E9.17811
+G0 F3600 X46.135 Y49.623
+G1 F1800 X46.549 Y49.307 E9.1879
+G1 X47.007 Y49.057 E9.19772
+G1 X47.497 Y48.881 E9.20751
+G1 X48.009 Y48.782 E9.21732
+G1 X48.803 Y48.757 E9.23226
+G1 X49.323 Y48.794 E9.24207
+G1 X49.831 Y48.911 E9.25188
+G1 X50.004 Y48.971 E9.25532
+G1 X50.504 Y48.823 E9.26513
+G1 X51.02 Y48.753 E9.27492
+G1 X51.812 Y48.778 E9.28983
+G1 X52.328 Y48.85 E9.29963
+G1 X52.827 Y49.001 E9.30944
+G1 X53.297 Y49.226 E9.31924
+G1 X53.727 Y49.52 E9.32904
+G1 X54.107 Y49.877 E9.33884
+G1 X54.429 Y50.287 E9.34865
+G1 X54.683 Y50.742 E9.35845
+G1 X54.865 Y51.23 E9.36825
+G1 X54.971 Y51.741 E9.37807
+G1 X54.994 Y52.329 E9.38914
+G1 X55.014 Y52.801 E9.39802
+G1 X54.985 Y53.321 E9.40782
+G1 X54.877 Y53.831 E9.41763
+G1 X54.693 Y54.318 E9.42742
+G1 X54.435 Y54.772 E9.43724
+G1 X54.112 Y55.18 E9.44703
+G1 X53.655 Y55.593 E9.45862
+G1 X53.579 Y55.65 E9.4604
+G1 X53.139 Y55.93 E9.47021
+G1 X52.662 Y56.139 E9.48001
+G1 X52.158 Y56.273 E9.48982
+G1 X51.64 Y56.328 E9.49962
+G1 X50.961 Y56.3 E9.5124
+G1 X50.445 Y56.227 E9.5222
+G1 X49.992 Y56.107 E9.53102
+G1 X49.492 Y56.255 E9.54083
+G1 X48.975 Y56.324 E9.55064
+G1 X48.182 Y56.3 E9.56556
+G1 X47.666 Y56.228 E9.57536
+G1 X47.167 Y56.078 E9.58516
+G1 X46.696 Y55.854 E9.59498
+G1 X46.266 Y55.56 E9.60477
+G1 X45.885 Y55.204 E9.61458
+G1 X45.563 Y54.794 E9.62439
+G1 X45.308 Y54.34 E9.63418
+G1 X45.125 Y53.852 E9.64399
+G1 X45.019 Y53.342 E9.65379
+G1 X44.994 Y52.652 E9.66677
+G1 X44.993 Y52.12 E9.67678
+G1 X45.009 Y51.906 E9.68082
+G1 X45.088 Y51.39 E9.69064
+G1 X45.244 Y50.893 E9.70044
+G1 X45.475 Y50.426 E9.71024
+G1 X45.774 Y49.999 E9.72004
+G1 X46.135 Y49.623 E9.72985
+G0 F3600 X46.16 Y50.163
+G1 F1800 X46.515 Y49.825 E9.73907
+G1 X46.92 Y49.55 E9.74828
+G1 X47.364 Y49.344 E9.75748
+G1 X47.835 Y49.213 E9.76668
+G1 X48.386 Y49.159 E9.77709
+G1 X49.293 Y49.195 E9.79417
+G1 X49.768 Y49.311 E9.80336
+G1 X50.007 Y49.413 E9.80825
+G1 X50.231 Y49.314 E9.81286
+G1 X50.705 Y49.191 E9.82207
+G1 X51.407 Y49.153 E9.8353
+G1 X52.271 Y49.248 E9.85165
+G1 X52.738 Y49.396 E9.86086
+G1 X53.174 Y49.618 E9.87006
+G1 X53.568 Y49.909 E9.87928
+G1 X53.91 Y50.259 E9.88848
+G1 X54.19 Y50.66 E9.89768
+G1 X54.401 Y51.102 E9.9069
+G1 X54.538 Y51.572 E9.9161
+G1 X54.595 Y52.31 E9.93003
+G1 X54.615 Y52.839 E9.93999
+G1 X54.58 Y53.327 E9.94919
+G1 X54.467 Y53.803 E9.95839
+G1 X54.278 Y54.255 E9.96761
+G1 X54.018 Y54.67 E9.97682
+G1 X53.693 Y55.036 E9.98603
+G1 X53.339 Y55.33 E9.99468
+G1 X52.925 Y55.591 E10.00389
+G1 X52.474 Y55.781 E10.01309
+G1 X51.998 Y55.895 E10.0223
+G1 X51.349 Y55.924 E10.03452
+G1 X50.502 Y55.83 E10.05055
+G1 X49.996 Y55.662 E10.06058
+G1 X49.765 Y55.764 E10.06533
+G1 X49.291 Y55.886 E10.07454
+G1 X48.597 Y55.924 E10.08761
+G1 X47.722 Y55.831 E10.10416
+G1 X47.256 Y55.683 E10.11336
+G1 X46.819 Y55.461 E10.12258
+G1 X46.425 Y55.172 E10.13177
+G1 X46.082 Y54.822 E10.14099
+G1 X45.801 Y54.421 E10.1502
+G1 X45.59 Y53.979 E10.15941
+G1 X45.452 Y53.51 E10.16861
+G1 X45.391 Y52.859 E10.18091
+G1 X45.392 Y52.149 E10.19427
+G1 X45.485 Y51.452 E10.20749
+G1 X45.638 Y50.987 E10.2167
+G1 X45.866 Y50.554 E10.22591
+G1 X46.16 Y50.163 E10.23511
+G0 F3600 X46.545 Y50.337
+G1 F1800 X46.892 Y50.041 E10.24369
+G1 X47.285 Y49.81 E10.25226
+G1 X47.712 Y49.652 E10.26083
+G1 X48.388 Y49.559 E10.27366
+G1 X49.261 Y49.595 E10.2901
+G1 X49.701 Y49.711 E10.29866
+G1 X50.003 Y49.851 E10.30492
+G1 X50.452 Y49.662 E10.31408
+G1 X50.898 Y49.567 E10.32266
+G1 X51.382 Y49.552 E10.33177
+G1 X52.212 Y49.645 E10.34748
+G1 X52.644 Y49.791 E10.35606
+G1 X53.043 Y50.01 E10.36462
+G1 X53.398 Y50.295 E10.37318
+G1 X53.698 Y50.638 E10.38175
+G1 X53.934 Y51.029 E10.39034
+G1 X54.097 Y51.454 E10.39891
+G1 X54.184 Y51.901 E10.40747
+G1 X54.184 Y52.519 E10.4191
+G1 X54.215 Y52.875 E10.42582
+G1 X54.175 Y53.329 E10.43439
+G1 X54.056 Y53.769 E10.44297
+G1 X53.862 Y54.181 E10.45153
+G1 X53.599 Y54.553 E10.4601
+G1 X53.175 Y54.953 E10.47107
+G1 X52.712 Y55.25 E10.48141
+G1 X52.289 Y55.42 E10.48999
+G1 X51.843 Y55.512 E10.49856
+G1 X51.012 Y55.502 E10.51419
+G1 X50.561 Y55.433 E10.52277
+G1 X50.006 Y55.219 E10.53396
+G1 X49.544 Y55.415 E10.5434
+G1 X49.099 Y55.511 E10.55196
+G1 X48.231 Y55.501 E10.56829
+G1 X47.781 Y55.433 E10.57685
+G1 X47.349 Y55.288 E10.58542
+G1 X46.949 Y55.07 E10.59399
+G1 X46.594 Y54.785 E10.60256
+G1 X46.293 Y54.442 E10.61114
+G1 X46.057 Y54.052 E10.61972
+G1 X45.893 Y53.627 E10.62829
+G1 X45.805 Y53.18 E10.63685
+G1 X45.795 Y52.636 E10.64709
+G1 X45.807 Y51.965 E10.65971
+G1 X45.881 Y51.516 E10.66827
+G1 X46.032 Y51.086 E10.67685
+G1 X46.256 Y50.689 E10.68542
+G1 X46.545 Y50.337 E10.69399
+G0 F3600 X46.928 Y50.524
+G1 F1800 X47.264 Y50.275 E10.70185
+G1 X47.642 Y50.094 E10.70974
+G1 X48.048 Y49.987 E10.71764
+G1 X48.808 Y49.957 E10.73194
+G1 X49.226 Y49.995 E10.73984
+G1 X49.628 Y50.111 E10.74771
+G1 X50.017 Y50.313 E10.75595
+G1 X50.273 Y50.16 E10.76156
+G1 X50.667 Y50.017 E10.76945
+G1 X51.081 Y49.951 E10.77733
+G1 X51.357 Y49.951 E10.78253
+G1 X52.15 Y50.041 E10.79754
+G1 X52.544 Y50.185 E10.80543
+G1 X52.904 Y50.4 E10.81332
+G1 X53.216 Y50.68 E10.8212
+G1 X53.469 Y51.014 E10.82908
+G1 X53.655 Y51.39 E10.83697
+G1 X53.765 Y51.794 E10.84485
+G1 X53.784 Y52.522 E10.85855
+G1 X53.815 Y52.908 E10.86583
+G1 X53.768 Y53.325 E10.87373
+G1 X53.643 Y53.725 E10.88161
+G1 X53.445 Y54.094 E10.88949
+G1 X53.18 Y54.419 E10.89738
+G1 X52.859 Y54.69 E10.90528
+G1 X52.501 Y54.908 E10.91316
+G1 X52.109 Y55.055 E10.92104
+G1 X51.696 Y55.124 E10.92891
+G1 X51.037 Y55.103 E10.94132
+G1 X50.623 Y55.036 E10.94921
+G1 X50.229 Y54.893 E10.95709
+G1 X49.998 Y54.754 E10.96216
+G1 X49.724 Y54.918 E10.96817
+G1 X49.33 Y55.06 E10.97605
+G1 X48.916 Y55.126 E10.98393
+G1 X48.256 Y55.102 E10.99636
+G1 X47.842 Y55.036 E11.00424
+G1 X47.448 Y54.894 E11.01212
+G1 X47.088 Y54.679 E11.02001
+G1 X46.776 Y54.4 E11.02788
+G1 X46.522 Y54.066 E11.03577
+G1 X46.336 Y53.691 E11.04365
+G1 X46.224 Y53.287 E11.05153
+G1 X46.195 Y52.634 E11.06383
+G1 X46.206 Y51.995 E11.07585
+G1 X46.277 Y51.582 E11.08373
+G1 X46.425 Y51.19 E11.09161
+G1 X46.645 Y50.833 E11.0995
+G1 X46.928 Y50.524 E11.10738
+G0 F3600 X47.032 Y50.989
+G1 F1800 X47.307 Y50.729 E11.1145
+G1 X47.631 Y50.532 E11.12164
+G1 X47.988 Y50.407 E11.12875
+G1 X48.81 Y50.357 E11.14424
+G1 X49.187 Y50.395 E11.15137
+G1 X49.548 Y50.511 E11.1585
+G1 X49.877 Y50.7 E11.16564
+G1 X50.013 Y50.823 E11.16909
+G1 X50.18 Y50.676 E11.17327
+G1 X50.511 Y50.492 E11.1804
+G1 X50.873 Y50.38 E11.18753
+G1 X51.331 Y50.351 E11.19616
+G1 X52.085 Y50.438 E11.21044
+G1 X52.437 Y50.579 E11.21757
+G1 X52.752 Y50.789 E11.22469
+G1 X53.015 Y51.062 E11.23182
+G1 X53.216 Y51.383 E11.23894
+G1 X53.345 Y51.739 E11.24607
+G1 X53.396 Y52.255 E11.25582
+G1 X53.414 Y52.938 E11.26867
+G1 X53.36 Y53.313 E11.2758
+G1 X53.229 Y53.669 E11.28293
+G1 X53.027 Y53.989 E11.29005
+G1 X52.619 Y54.37 E11.30055
+G1 X52.294 Y54.564 E11.30767
+G1 X51.935 Y54.686 E11.31481
+G1 X51.425 Y54.726 E11.32443
+G1 X50.689 Y54.64 E11.33837
+G1 X50.337 Y54.499 E11.3455
+G1 X49.987 Y54.252 E11.35356
+G1 X49.817 Y54.402 E11.35782
+G1 X49.486 Y54.586 E11.36495
+G1 X49.124 Y54.697 E11.37207
+G1 X48.67 Y54.727 E11.38063
+G1 X47.907 Y54.64 E11.39507
+G1 X47.555 Y54.5 E11.4022
+G1 X47.239 Y54.289 E11.40935
+G1 X46.975 Y54.018 E11.41646
+G1 X46.774 Y53.697 E11.42359
+G1 X46.644 Y53.341 E11.43072
+G1 X46.595 Y52.618 E11.44435
+G1 X46.605 Y52.025 E11.4555
+G1 X46.673 Y51.652 E11.46264
+G1 X46.817 Y51.302 E11.46975
+G1 X47.032 Y50.989 E11.4769
+G0 F3600 X47.417 Y51.162
+G1 F1800 X47.681 Y50.958 E11.48317
+G1 X47.986 Y50.822 E11.48946
+G1 X48.393 Y50.759 E11.4972
+G1 X49.144 Y50.795 E11.51135
+G1 X49.458 Y50.911 E11.51764
+G1 X49.735 Y51.098 E11.52393
+G1 X50.01 Y51.428 E11.53201
+G1 X50.189 Y51.197 E11.53751
+G1 X50.444 Y50.981 E11.54379
+G1 X50.742 Y50.83 E11.55008
+G1 X51.067 Y50.755 E11.55635
+G1 X51.306 Y50.75 E11.56085
+G1 X52.015 Y50.834 E11.57428
+G1 X52.32 Y50.971 E11.58057
+G1 X52.583 Y51.176 E11.58684
+G1 X52.791 Y51.438 E11.59313
+G1 X52.931 Y51.742 E11.59943
+G1 X52.996 Y52.236 E11.6088
+G1 X53.012 Y52.963 E11.62248
+G1 X52.951 Y53.292 E11.62877
+G1 X52.814 Y53.596 E11.63504
+G1 X52.455 Y53.993 E11.64511
+G1 X52.09 Y54.217 E11.65317
+G1 X51.769 Y54.311 E11.65946
+G1 X51.087 Y54.304 E11.67229
+G1 X50.759 Y54.243 E11.67857
+G1 X50.454 Y54.107 E11.68485
+G1 X50.191 Y53.901 E11.69113
+G1 X49.995 Y53.641 E11.69726
+G1 X49.809 Y53.881 E11.70297
+G1 X49.554 Y54.097 E11.70925
+G1 X49.256 Y54.247 E11.71553
+G1 X48.93 Y54.322 E11.72182
+G1 X48.305 Y54.303 E11.73358
+G1 X47.976 Y54.243 E11.73988
+G1 X47.671 Y54.107 E11.74616
+G1 X47.407 Y53.902 E11.75244
+G1 X47.199 Y53.641 E11.75872
+G1 X47.059 Y53.338 E11.765
+G1 X46.991 Y52.884 E11.77364
+G1 X46.988 Y52.269 E11.7852
+G1 X47.068 Y51.727 E11.79551
+G1 X47.209 Y51.424 E11.8018
+G1 X47.417 Y51.162 E11.80809
+G0 F3600 X47.797 Y51.361
+G1 F1800 X48.044 Y51.224 E11.8134
+G1 X48.395 Y51.159 E11.82012
+G1 X49.094 Y51.195 E11.83328
+G1 X49.351 Y51.31 E11.83858
+G1 X49.567 Y51.493 E11.8439
+G1 X49.742 Y51.763 E11.84996
+G1 X49.835 Y52.029 E11.85526
+G1 X49.855 Y52.226 E11.85898
+G1 X49.855 Y52.85 E11.87072
+G1 X49.815 Y53.129 E11.87602
+G1 X49.699 Y53.386 E11.88133
+G1 X49.515 Y53.609 E11.88676
+G1 X49.296 Y53.787 E11.89207
+G1 X49.036 Y53.897 E11.89738
+G1 X48.72 Y53.928 E11.90336
+G1 X48.053 Y53.847 E11.91599
+G1 X47.804 Y53.715 E11.9213
+G1 X47.601 Y53.519 E11.9266
+G1 X47.461 Y53.274 E11.93191
+G1 X47.391 Y52.89 E11.93925
+G1 X47.387 Y52.298 E11.95039
+G1 X47.463 Y51.809 E11.9597
+G1 X47.598 Y51.561 E11.96501
+G1 X47.797 Y51.361 E11.97032
+G0 F3600 X47.985 Y51.726
+G1 F1800 X48.167 Y51.606 E11.97442
+G1 X48.397 Y51.559 E11.97883
+G1 X48.816 Y51.557 E11.98672
+G1 X49.031 Y51.596 E11.99083
+G1 X49.218 Y51.709 E11.99494
+G1 X49.387 Y51.948 E12.00044
+G1 X49.455 Y52.226 E12.00583
+G1 X49.455 Y52.85 E12.01756
+G1 X49.415 Y53.065 E12.02168
+G1 X49.221 Y53.337 E12.02796
+G1 X49.047 Y53.468 E12.03206
+G1 X48.744 Y53.529 E12.03787
+G1 X48.354 Y53.505 E12.04522
+G1 X48.142 Y53.452 E12.04933
+G1 X47.964 Y53.327 E12.05342
+G1 X47.841 Y53.146 E12.05754
+G1 X47.791 Y52.897 E12.06232
+G1 X47.786 Y52.328 E12.07302
+G1 X47.857 Y51.903 E12.08113
+G1 X47.985 Y51.726 E12.08524
+G0 F3600 X48.248 Y52.029
+G1 F1800 X48.399 Y51.959 E12.08837
+G1 X48.818 Y51.957 E12.09625
+G1 X48.937 Y51.995 E12.0986
+G1 X49.032 Y52.133 E12.10175
+G1 X49.055 Y52.226 E12.10355
+G1 X49.055 Y52.85 E12.11529
+G1 X48.928 Y53.066 E12.12
+G1 X48.769 Y53.13 E12.12323
+G1 X48.379 Y53.106 E12.13058
+G1 X48.263 Y53.059 E12.13293
+G1 X48.191 Y52.903 E12.13616
+G1 X48.184 Y52.384 E12.14593
+G1 X48.201 Y52.144 E12.15045
+G1 X48.248 Y52.029 E12.15279
+G1 F1500 E5.65279
+G0 F3600 X50.411 Y51.547
+M104 S210
+G1 F1500 E12.15279
+G1 F1800 X50.702 Y51.29 E12.16009
+G1 X50.962 Y51.18 E12.1654
+G1 X51.281 Y51.149 E12.17143
+G1 X51.937 Y51.23 E12.18387
+G1 X52.187 Y51.363 E12.18919
+G1 X52.389 Y51.559 E12.19449
+G1 X52.528 Y51.804 E12.19979
+G1 X52.597 Y52.217 E12.20766
+G1 X52.609 Y52.981 E12.22203
+G1 X52.539 Y53.255 E12.22735
+G1 X52.396 Y53.498 E12.23266
+G1 X52.139 Y53.73 E12.23917
+G1 X51.892 Y53.866 E12.24447
+G1 X51.476 Y53.928 E12.25239
+G1 X50.837 Y53.848 E12.2645
+G1 X50.587 Y53.715 E12.26983
+G1 X50.298 Y53.385 E12.27808
+G1 X50.168 Y53.063 E12.28461
+G1 X50.145 Y52.848 E12.28868
+G1 X50.146 Y52.223 E12.30043
+G1 X50.186 Y51.944 E12.30574
+G1 X50.411 Y51.547 E12.31432
+G0 F3600 X50.586 Y52.01
+G1 F1800 X50.777 Y51.74 E12.32054
+G1 X50.952 Y51.609 E12.32465
+G1 X51.256 Y51.548 E12.33049
+G1 X51.636 Y51.572 E12.33765
+G1 X51.847 Y51.625 E12.34174
+G1 X52.026 Y51.751 E12.34586
+G1 X52.148 Y51.931 E12.34995
+G1 X52.197 Y52.199 E12.35507
+G1 X52.172 Y52.578 E12.36222
+G1 X52.204 Y52.987 E12.36993
+G1 X52.124 Y53.19 E12.37404
+G1 X51.899 Y53.41 E12.37996
+G1 X51.704 Y53.507 E12.38406
+G1 X51.138 Y53.506 E12.3947
+G1 X50.926 Y53.453 E12.39881
+G1 X50.748 Y53.327 E12.40291
+G1 X50.618 Y53.137 E12.40725
+G1 X50.545 Y52.849 E12.41283
+G1 X50.546 Y52.224 E12.42459
+G1 X50.586 Y52.01 E12.42869
+G0 F3600 X51.071 Y52.011
+G1 F1800 X51.231 Y51.947 E12.43193
+G1 X51.611 Y51.971 E12.43909
+G1 X51.727 Y52.018 E12.44144
+G1 X51.798 Y52.18 E12.44477
+G1 X51.766 Y52.578 E12.45228
+G1 X51.812 Y52.838 E12.45725
+G1 X51.794 Y52.962 E12.45961
+G1 X51.659 Y53.09 E12.4631
+G1 X51.526 Y53.13 E12.46572
+G1 X51.163 Y53.107 E12.47256
+G1 X51 Y53.003 E12.4762
+G1 X50.945 Y52.85 E12.47925
+G1 X50.946 Y52.225 E12.49101
+G1 X51.071 Y52.011 E12.49567
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G0 F3600 X51.349 Y52.494
+;TYPE:WALL-OUTER
+G1 F1800 X51.349 Y52.48 E12.49594
+G1 X51.349 Y52.455 E12.49641
+G1 X51.346 Y52.356 E12.49827
+G0 F3600 X51.365 Y52.454
+G1 F1800 X51.346 Y52.48 E12.49838
+G0 F3600 X51.36 Y52.571
+G1 F1800 X51.385 Y52.719 E12.5012
+G0 F3600 X51.345 Y52.717
+G1 F1800 X51.345 Y52.565 E12.50155
+G1 F1500 E6.00155
+G0 F3600 X51.45 Y52.453
+G0 X48.605 Y52.603
+G0 X48.639 Y52.541
+G1 F1500 E12.50155
+G1 F1800 X48.593 Y52.376 E12.50477
+G1 X48.588 Y52.358 E12.50512
+G0 F3600 X48.655 Y52.358
+G1 F1800 X48.655 Y52.541 E12.50559
+G1 X48.655 Y52.645 E12.50589
+G1 X48.655 Y52.721 E12.50718
+G0 F3600 X48.63 Y52.72
+G1 F1800 X48.58 Y52.717 E12.50739
+G1 X48.59 Y52.645 E12.50755
+G1 X48.639 Y52.541 E12.5079
+G0 F3600 X48.593 Y52.376
+G0 X48.588 Y52.358
+G0 X48.599 Y52.358
+G1 F1500 E6.0079
+;MESH:NONMESH
+G0 F600 X48.599 Y52.358 Z0.4
+G0 F3600 X48.656 Y52.414
+G0 X51.365 Y52.414
+G0 X50.46 Y51.341
+;TIME_ELAPSED:26.528916
+;LAYER:1
+M106 S255
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1500 E12.5079
+G1 F900 X50.426 Y52.426 E12.51471
+G1 X50.426 Y52.467 E12.51496
+G1 X49.575 Y52.467 E12.5203
+G1 X49.571 Y51.813 E12.5244
+G1 X49.257 Y51.323 E12.52805
+G1 X49.118 Y51.322 E12.52892
+G0 F5400 X49.119 Y51.309
+G1 F900 X49.162 Y50.904 E12.53147
+G1 X49.165 Y50.343 E12.53499
+G1 X49.143 Y49.815 E12.53831
+G1 X49.136 Y49.314 E12.54145
+G1 X49.122 Y48.932 E12.54384
+G1 X49.121 Y48.922 E12.54391
+G1 X49.517 Y48.916 E12.54576
+G1 X49.573 Y47.836 E12.55254
+G1 X49.572 Y47.194 E12.55657
+G1 X49.572 Y47.168 E12.55673
+G1 X49.921 Y47.131 E12.55893
+G1 X49.947 Y47.132 E12.55909
+G1 X50.327 Y47.154 E12.56148
+G1 X50.437 Y47.18 E12.56219
+G1 X50.427 Y47.727 E12.56562
+G1 X50.434 Y48.382 E12.56973
+G1 X50.664 Y48.906 E12.57331
+G1 X50.878 Y48.921 E12.57466
+G1 X50.863 Y49.376 E12.57751
+G1 X50.859 Y49.859 E12.58054
+G1 X50.834 Y50.379 E12.58381
+G1 X50.841 Y50.975 E12.58754
+G1 X50.884 Y51.334 E12.58981
+G0 F5400 X50.847 Y51.334
+G1 F900 X50.46 Y51.341 E12.59224
+G0 F5400 X50.848 Y51.735
+;TYPE:WALL-OUTER
+G1 F600 X50.826 Y52.434 E12.59662
+G1 X50.823 Y52.862 E12.59931
+G1 X50.488 Y52.867 E12.60141
+G1 X49.186 Y52.867 E12.60957
+G1 X49.175 Y52.498 E12.61189
+G1 X49.172 Y51.931 E12.61544
+G1 X49.037 Y51.721 E12.61701
+G1 X48.768 Y51.718 E12.61869
+G1 X48.7 Y51.718 E12.61912
+G1 X48.657 Y51.717 E12.61939
+G1 X48.666 Y51.661 E12.61953
+G1 X48.702 Y51.442 E12.62049
+G1 X48.709 Y51.375 E12.62087
+G1 X48.762 Y50.882 E12.62398
+G1 X48.765 Y50.35 E12.62731
+G1 X48.743 Y49.832 E12.63056
+G1 X48.736 Y49.325 E12.63374
+G1 X48.718 Y48.875 E12.63657
+G1 X48.716 Y48.819 E12.63692
+G1 X48.711 Y48.529 E12.63874
+G1 X48.767 Y48.529 E12.63905
+G1 X49.137 Y48.522 E12.64137
+G1 X49.173 Y47.826 E12.64574
+G1 X49.172 Y47.224 E12.64952
+G1 X49.046 Y47.019 E12.65103
+G1 X48.939 Y47.019 E12.6517
+G1 X48.927 Y47.019 E12.65177
+G0 F5400 X48.939 Y46.949
+G1 F600 X49.014 Y46.925 E12.65181
+G0 F5400 X49.066 Y46.907
+G1 F600 X49.449 Y46.779 E12.65434
+G1 X49.908 Y46.73 E12.65724
+G1 X50.385 Y46.757 E12.66023
+G1 X50.792 Y46.853 E12.66285
+G1 X50.893 Y46.889 E12.66353
+G1 X51.06 Y46.95 E12.66464
+G1 X51.068 Y46.996 E12.66493
+G1 X51.074 Y47.026 E12.66512
+G1 X50.839 Y47.039 E12.6657
+G1 X50.827 Y47.728 E12.67003
+G1 X50.833 Y48.296 E12.67359
+G1 X50.933 Y48.524 E12.67515
+G1 X51.3 Y48.55 E12.67745
+G1 X51.28 Y48.864 E12.67943
+G1 X51.263 Y49.384 E12.68269
+G1 X51.259 Y49.879 E12.68579
+G1 X51.234 Y50.386 E12.68898
+G1 X51.241 Y50.949 E12.69251
+G1 X51.308 Y51.508 E12.69604
+G1 X51.333 Y51.727 E12.69742
+G1 X51.113 Y51.729 E12.69829
+G1 X51.112 Y51.73 E12.69829
+G1 X50.848 Y51.735 E12.69995
+G0 F5400 X50.842 Y51.935
+G0 X50.047 Y52.077
+;TYPE:SKIN
+G1 F600 X49.963 Y52.077 E12.70048
+G1 X49.961 Y51.698 E12.70285
+G1 X49.54 Y51.041 E12.70775
+G1 X49.552 Y50.925 E12.70848
+G1 X49.555 Y50.336 E12.71217
+G1 X49.533 Y49.799 E12.71554
+G1 X49.526 Y49.306 E12.71863
+G1 X49.888 Y49.3 E12.7209
+G1 X49.963 Y47.846 E12.73003
+G1 X49.962 Y47.525 E12.73204
+G1 X50.041 Y47.529 E12.73254
+G1 X50.037 Y47.725 E12.73377
+G1 X50.044 Y48.466 E12.73842
+G1 X50.401 Y49.279 E12.74398
+G1 X50.476 Y49.284 E12.74445
+G1 X50.473 Y49.368 E12.74498
+G1 X50.469 Y49.84 E12.74794
+G1 X50.444 Y50.372 E12.75128
+G1 X50.45 Y50.951 E12.75491
+G1 X50.082 Y50.957 E12.75722
+G1 X50.047 Y52.077 E12.76424
+G0 F5400 X49.729 Y50.962
+G1 F600 X49.906 Y50.785 E12.76581
+G0 F5400 X49.912 Y50.779
+G1 F600 X50.263 Y50.428 E12.76893
+G0 F5400 X49.735 Y50.391
+G1 F600 X50.287 Y49.839 E12.77382
+G0 F5400 X50.227 Y49.333
+G1 F600 X49.715 Y49.845 E12.77836
+;MESH:NONMESH
+G0 X49.715 Y49.845 Z0.5
+G0 F5400 X49.393 Y48.941
+;TIME_ELAPSED:30.931500
+;LAYER:2
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.57 Y48.27 E12.78271
+G1 X49.573 Y47.684 E12.78639
+G1 X49.56 Y47.24 E12.78917
+G1 X49.559 Y47.187 E12.7895
+G1 X49.856 Y47.156 E12.79138
+G1 X49.909 Y47.157 E12.79171
+G1 X50.292 Y47.167 E12.79411
+G1 X50.433 Y47.191 E12.79501
+G1 X50.427 Y47.733 E12.79841
+G1 X50.433 Y48.39 E12.80253
+G1 X50.67 Y48.915 E12.80614
+G1 X50.885 Y48.929 E12.80749
+G1 X50.865 Y49.427 E12.81061
+G1 X50.868 Y49.935 E12.8138
+G1 X50.856 Y50.448 E12.81702
+G1 X50.864 Y51.034 E12.82069
+G1 X50.894 Y51.284 E12.82227
+G1 X50.897 Y51.306 E12.82241
+G0 F7200 X50.861 Y51.306
+G1 F1200 X50.736 Y51.304 E12.82266
+G1 X50.426 Y51.796 E12.82631
+G1 X50.426 Y52.294 E12.82943
+G1 X49.778 Y52.31 E12.83349
+G1 X49.574 Y52.315 E12.83477
+G1 X49.574 Y52.111 E12.83559
+G1 X49.573 Y51.762 E12.83778
+G1 X49.237 Y51.303 E12.84135
+G1 X49.106 Y51.305 E12.84217
+G0 F7200 X49.106 Y51.294
+G1 F1200 X49.146 Y50.784 E12.84538
+G1 X49.135 Y50.184 E12.84914
+G1 X49.13 Y49.68 E12.8523
+G1 X49.129 Y49.128 E12.85576
+G1 X49.117 Y48.962 E12.8568
+G1 X49.115 Y48.94 E12.85694
+G0 F7200 X49.129 Y48.94
+G1 F1200 X49.393 Y48.941 E12.85803
+G0 F7200 X50.806 Y47.009
+G0 X50.835 Y47.036
+;TYPE:WALL-OUTER
+G1 F600 X50.827 Y47.734 E12.86241
+G1 X50.832 Y48.302 E12.86597
+G1 X50.936 Y48.532 E12.86755
+G1 X51.309 Y48.557 E12.86989
+G1 X51.286 Y48.899 E12.87204
+G1 X51.265 Y49.434 E12.8754
+G1 X51.268 Y49.944 E12.8786
+G1 X51.256 Y50.45 E12.88177
+G1 X51.264 Y51.007 E12.88526
+G1 X51.341 Y51.659 E12.88938
+G1 X51.341 Y51.665 E12.88942
+G1 X51.348 Y51.71 E12.8897
+G1 X51.034 Y51.706 E12.89167
+G1 X50.961 Y51.706 E12.89213
+G1 X50.955 Y51.706 E12.89217
+G1 X50.826 Y51.911 E12.89369
+G1 X50.826 Y51.99 E12.89418
+G1 X50.826 Y52.685 E12.89854
+G1 X49.35 Y52.721 E12.9078
+G1 X49.174 Y52.725 E12.9089
+G1 X49.175 Y52.67 E12.90925
+G1 X49.175 Y52.494 E12.91001
+G1 X49.173 Y51.893 E12.91378
+G1 X49.036 Y51.706 E12.91523
+G1 X48.717 Y51.71 E12.91723
+G1 X48.709 Y51.71 E12.91728
+G1 X48.638 Y51.711 E12.91773
+G1 X48.65 Y51.64 E12.91788
+G1 X48.704 Y51.326 E12.91942
+G1 X48.704 Y51.319 E12.91946
+G1 X48.746 Y50.773 E12.9229
+G1 X48.735 Y50.192 E12.92654
+G1 X48.73 Y49.684 E12.92972
+G1 X48.729 Y49.143 E12.93312
+G1 X48.703 Y48.803 E12.93525
+G1 X48.692 Y48.646 E12.93624
+G1 X48.694 Y48.539 E12.93691
+G1 X48.852 Y48.539 E12.93764
+G1 X49.085 Y48.54 E12.9391
+G1 X49.17 Y48.217 E12.94119
+G1 X49.173 Y47.688 E12.94451
+G1 X49.155 Y47.026 E12.94866
+G1 X48.878 Y47.001 E12.95041
+G0 F7200 X48.88 Y46.986
+G1 F600 X49.108 Y46.901 E12.95063
+G1 X49.362 Y46.806 E12.95228
+G1 X49.84 Y46.755 E12.95529
+G1 X50.331 Y46.768 E12.95837
+G1 X50.731 Y46.834 E12.96091
+G1 X50.889 Y46.895 E12.96198
+G1 X51.125 Y46.986 E12.96356
+G1 X51.127 Y47.004 E12.96368
+G1 X51.128 Y47.014 E12.96374
+G1 X50.835 Y47.036 E12.96428
+G0 F7200 X50.833 Y47.236
+G0 X50.039 Y47.551
+;TYPE:SKIN
+G1 F600 X50.037 Y47.733 E12.96542
+G1 X50.043 Y48.476 E12.97008
+G1 X50.411 Y49.289 E12.97567
+G1 X50.48 Y49.294 E12.97611
+G1 X50.475 Y49.421 E12.9769
+G1 X50.478 Y49.926 E12.98007
+G1 X50.466 Y50.446 E12.98333
+G1 X50.473 Y50.989 E12.98674
+G1 X50.036 Y51.683 E12.99188
+G1 X50.036 Y51.914 E12.99333
+G1 X49.964 Y51.915 E12.99378
+G1 X49.963 Y51.634 E12.99554
+G1 X49.518 Y51.027 E13.00026
+G1 X49.536 Y50.796 E13.00171
+G1 X49.525 Y50.177 E13.0056
+G1 X49.52 Y49.68 E13.00871
+G1 X49.519 Y49.332 E13.01089
+G1 X49.693 Y49.333 E13.01198
+G1 X49.96 Y48.321 E13.01855
+G1 X49.963 Y47.68 E13.02257
+G1 X49.959 Y47.549 E13.02339
+G1 X50.039 Y47.551 E13.02389
+G0 F7200 X49.882 Y49.317
+G1 F600 X50.296 Y49.73 E13.02756
+G0 F7200 X50.289 Y50.289
+G1 F600 X49.699 Y49.699 E13.03279
+G0 F7200 X49.706 Y50.272
+G1 F600 X50.291 Y50.857 E13.03798
+G0 F7200 X50.104 Y51.236
+G1 F600 X49.711 Y50.843 E13.04146
+;MESH:NONMESH
+G0 X49.711 Y50.843 Z0.6
+G0 F7200 X49.602 Y47.227
+;TIME_ELAPSED:34.872380
+;LAYER:3
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.569 Y47.227 E13.04167
+G1 X49.563 Y47.201 E13.04183
+G1 X49.602 Y47.201 E13.04187
+G1 X50.424 Y47.201 E13.04702
+G1 X50.441 Y47.201 E13.04713
+G0 F7200 X50.424 Y47.207
+G1 F1200 X50.428 Y47.739 E13.05046
+G1 X50.414 Y48.305 E13.05401
+G1 X50.431 Y48.305 E13.05412
+G1 X50.431 Y48.351 E13.05441
+G1 X50.647 Y48.91 E13.05817
+G1 X50.893 Y48.928 E13.05971
+G1 X50.866 Y49.41 E13.06274
+G1 X50.888 Y49.931 E13.06601
+G1 X50.889 Y50.956 E13.07244
+G1 X50.92 Y51.324 E13.07475
+G1 X50.431 Y51.514 E13.07804
+G1 X50.426 Y52.199 E13.08234
+G1 X49.788 Y52.244 E13.08635
+G1 X49.575 Y52.259 E13.08769
+G1 X49.575 Y52.046 E13.08853
+G1 X49.575 Y52.045 E13.08854
+G1 X49.574 Y51.75 E13.09039
+G1 X49.228 Y51.303 E13.09393
+G1 X49.084 Y51.303 E13.09484
+G1 X49.116 Y50.826 E13.09783
+G1 X49.11 Y50.312 E13.10106
+G1 X49.122 Y49.804 E13.10424
+G1 X49.13 Y49.258 E13.10767
+G1 X49.106 Y48.92 E13.10979
+G0 F7200 X49.117 Y48.92
+G1 F1200 X49.524 Y48.904 E13.11235
+G1 X49.551 Y48.323 E13.11599
+G1 X49.578 Y48.323 E13.11616
+G1 X49.573 Y47.835 E13.11922
+G1 X49.602 Y47.227 E13.12304
+G0 F7200 X49.182 Y47.627
+;TYPE:WALL-OUTER
+G1 F600 X49.172 Y47.627 E13.1231
+G1 X49.169 Y47.271 E13.12533
+G1 X49.123 Y47.059 E13.12669
+G1 X49.112 Y47.007 E13.12703
+G1 X48.812 Y46.985 E13.12891
+G1 X48.802 Y46.984 E13.12898
+G0 F7200 X48.815 Y46.938
+G1 F600 X49.058 Y46.853 E13.12933
+G1 X49.335 Y46.756 E13.13112
+G1 X49.345 Y46.754 E13.13118
+G0 F7200 X49.347 Y46.801
+G1 F600 X49.401 Y46.801 E13.13152
+G1 X50.557 Y46.801 E13.13877
+G1 X50.592 Y46.801 E13.13899
+G1 X50.61 Y46.76 E13.13927
+G1 X50.891 Y46.83 E13.14109
+G1 X50.915 Y46.836 E13.14124
+G1 X51.2 Y46.958 E13.14318
+G1 X51.211 Y47.002 E13.14347
+G1 X50.921 Y47.011 E13.14412
+G0 F7200 X50.846 Y47.014
+G1 F600 X50.846 Y47.049 E13.14433
+G1 X50.831 Y47.607 E13.14783
+G1 X50.827 Y47.607 E13.14786
+G1 X50.828 Y47.749 E13.14838
+G1 X50.824 Y47.905 E13.14936
+G1 X50.829 Y47.905 E13.14939
+G1 X50.831 Y48.275 E13.15171
+G1 X50.929 Y48.529 E13.15342
+G1 X51.32 Y48.557 E13.15587
+G1 X51.296 Y48.873 E13.15786
+G1 X51.266 Y49.412 E13.16125
+G1 X51.288 Y49.913 E13.16439
+G1 X51.289 Y50.939 E13.17082
+G1 X51.327 Y51.387 E13.17364
+G1 X51.335 Y51.487 E13.17427
+G1 X51.361 Y51.652 E13.17532
+G1 X51.369 Y51.703 E13.17564
+G0 F7200 X51.334 Y51.703
+G1 F600 X51.233 Y51.702 E13.17617
+G1 X51.133 Y51.701 E13.1768
+G1 X51.104 Y51.701 E13.17698
+G1 X51.053 Y51.701 E13.17727
+G1 X50.829 Y51.788 E13.17878
+G1 X50.829 Y51.868 E13.17928
+G1 X50.825 Y52.367 E13.18241
+G1 X50.825 Y52.572 E13.18369
+G1 X49.388 Y52.673 E13.19273
+G1 X49.175 Y52.688 E13.19407
+G1 X49.175 Y52.475 E13.19491
+G1 X49.175 Y52.474 E13.19492
+G1 X49.174 Y51.887 E13.1986
+G1 X49.032 Y51.703 E13.20006
+G1 X48.726 Y51.703 E13.20198
+G1 X48.678 Y51.703 E13.20228
+G1 X48.628 Y51.704 E13.20259
+G1 X48.637 Y51.641 E13.20274
+G1 X48.677 Y51.393 E13.20387
+G1 X48.68 Y51.346 E13.20414
+G1 X48.716 Y50.815 E13.20748
+G1 X48.71 Y50.303 E13.21069
+G1 X48.722 Y49.796 E13.21387
+G1 X48.73 Y49.269 E13.21717
+G1 X48.698 Y48.834 E13.21991
+G1 X48.691 Y48.729 E13.22057
+G1 X48.68 Y48.535 E13.22179
+G1 X48.786 Y48.532 E13.22233
+G1 X49.141 Y48.518 E13.22456
+G1 X49.168 Y47.923 E13.22829
+G1 X49.174 Y47.923 E13.22832
+G1 X49.173 Y47.816 E13.2287
+G1 X49.182 Y47.627 E13.22989
+G0 F7200 X49.172 Y47.627
+G0 X49.171 Y47.437
+G0 X49.975 Y47.591
+;TYPE:SKIN
+G1 F600 X50.037 Y47.591 E13.23028
+G1 X50.038 Y47.729 E13.23114
+G1 X50.014 Y48.695 E13.2372
+G1 X50.146 Y48.695 E13.23803
+G1 X50.372 Y49.281 E13.24197
+G1 X50.482 Y49.289 E13.24266
+G1 X50.476 Y49.408 E13.24341
+G1 X50.498 Y49.931 E13.24669
+G1 X50.499 Y50.973 E13.25322
+G1 X50.507 Y51.066 E13.25381
+G1 X50.043 Y51.247 E13.25693
+G1 X50.038 Y51.834 E13.26061
+G1 X49.965 Y51.84 E13.26107
+G1 X49.964 Y51.616 E13.26247
+G1 X49.495 Y51.011 E13.26727
+G1 X49.506 Y50.837 E13.26837
+G1 X49.5 Y50.321 E13.2716
+G1 X49.512 Y49.812 E13.2748
+G1 X49.519 Y49.295 E13.27804
+G1 X49.897 Y49.28 E13.28041
+G1 X49.924 Y48.713 E13.28397
+G1 X49.972 Y48.713 E13.28427
+G1 X49.963 Y47.854 E13.28966
+G1 X49.975 Y47.591 E13.29131
+G0 F7200 X49.691 Y49.869
+G1 F600 X50.205 Y49.354 E13.29587
+G0 F7200 X50.312 Y49.813
+G1 F600 X49.682 Y50.444 E13.30146
+G0 F7200 X49.706 Y50.985
+G1 F600 X50.318 Y50.373 E13.30689
+G1 X50.388 Y50.303
+;MESH:NONMESH
+G0 X50.388 Y50.303 Z0.7
+G0 F7200 X49.52 Y48.909
+;TIME_ELAPSED:38.806357
+;LAYER:4
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.573 Y47.821 E13.31372
+G1 X49.568 Y47.379 E13.31649
+G1 X49.566 Y47.182 E13.31772
+G1 X49.562 Y47.172 E13.31779
+G1 X49.759 Y47.172 E13.3186
+G1 X50.428 Y47.172 E13.32279
+G1 X50.463 Y47.172 E13.32301
+G1 X50.428 Y47.541 E13.3247
+G1 X50.429 Y48.232 E13.32904
+G1 X50.575 Y48.898 E13.33331
+G1 X50.903 Y48.917 E13.33537
+G1 X50.871 Y49.337 E13.33801
+G1 X50.886 Y49.898 E13.34153
+G1 X50.915 Y50.407 E13.34473
+G1 X50.917 Y50.924 E13.34797
+G1 X50.94 Y51.301 E13.35034
+G0 F7200 X50.846 Y51.3
+G1 F1200 X50.427 Y51.685 E13.3539
+G1 X50.425 Y52.658 E13.36001
+G1 X50.425 Y52.709 E13.36033
+G1 X50.13 Y52.722 E13.36218
+G1 X50.126 Y52.718 E13.36221
+G1 X50.075 Y52.717 E13.36253
+G1 X49.574 Y52.707 E13.36567
+G1 X49.575 Y52.618 E13.36623
+G1 X49.573 Y51.688 E13.37206
+G1 X49.158 Y51.3 E13.37563
+G1 X49.061 Y51.301 E13.37623
+G1 X49.085 Y50.809 E13.37932
+G1 X49.083 Y50.179 E13.38327
+G1 X49.13 Y49.638 E13.38668
+G1 X49.117 Y49.195 E13.38946
+G1 X49.114 Y49.073 E13.39022
+G1 X49.099 Y48.916 E13.39121
+G0 F7200 X49.111 Y48.916
+G1 F1200 X49.233 Y48.914 E13.39181
+G1 X49.52 Y48.909 E13.39361
+G0 F7200 X49.139 Y48.515
+;TYPE:WALL-OUTER
+G1 F600 X49.173 Y47.813 E13.39802
+G1 X49.167 Y47.257 E13.4015
+G1 X49.113 Y47.114 E13.40246
+G1 X49.074 Y47.01 E13.40316
+G1 X48.79 Y46.994 E13.40494
+G1 X48.75 Y46.991 E13.40519
+G1 X48.732 Y46.989 E13.40531
+G0 F7200 X48.796 Y46.884
+G1 F600 X49.009 Y46.814 E13.40577
+G1 X49.136 Y46.772 E13.40642
+G1 X49.247 Y46.772 E13.40712
+G1 X50.697 Y46.772 E13.41621
+G1 X50.778 Y46.772 E13.41672
+G1 X50.787 Y46.75 E13.41687
+G1 X50.939 Y46.794 E13.41786
+G1 X51.061 Y46.829 E13.41865
+G1 X51.246 Y46.978 E13.42014
+G1 X51.257 Y46.969 E13.42023
+G1 X51.272 Y47.004 E13.42034
+G0 F7200 X51.246 Y47.004
+G1 F600 X51.061 Y47.003 E13.42077
+G1 X50.88 Y47.002 E13.42141
+G1 X50.873 Y47.082 E13.42191
+G1 X50.828 Y47.559 E13.42492
+G1 X50.829 Y48.188 E13.42886
+G1 X50.901 Y48.516 E13.43097
+G1 X51.129 Y48.53 E13.4324
+G1 X51.13 Y48.531 E13.43241
+G1 X51.332 Y48.541 E13.43368
+G1 X51.317 Y48.743 E13.43449
+G1 X51.271 Y49.347 E13.43829
+G1 X51.286 Y49.881 E13.44164
+G1 X51.315 Y50.405 E13.44493
+G1 X51.317 Y50.911 E13.4481
+G1 X51.346 Y51.374 E13.45101
+G1 X51.35 Y51.45 E13.45149
+G1 X51.372 Y51.662 E13.45283
+G1 X51.377 Y51.707 E13.45311
+G0 F7200 X51.347 Y51.707
+G1 F600 X51.27 Y51.706 E13.45353
+G1 X51.084 Y51.703 E13.4547
+G1 X51 Y51.702 E13.45522
+G1 X50.827 Y51.861 E13.4567
+G1 X50.827 Y51.945 E13.45722
+G1 X50.825 Y52.939 E13.46346
+G1 X50.833 Y53.095 E13.46444
+G1 X50.546 Y53.105 E13.46562
+G1 X49.98 Y53.129 E13.46918
+G1 X49.965 Y53.115 E13.4693
+G1 X49.305 Y53.102 E13.47344
+G1 X49.17 Y53.103 E13.47429
+G1 X49.175 Y52.616 E13.47734
+G1 X49.173 Y51.945 E13.48155
+G1 X49.173 Y51.862 E13.48207
+G1 X49.002 Y51.702 E13.48354
+G1 X48.988 Y51.702 E13.48363
+G1 X48.919 Y51.702 E13.48406
+G1 X48.712 Y51.705 E13.48536
+G1 X48.66 Y51.705 E13.48568
+G1 X48.626 Y51.706 E13.4859
+G1 X48.629 Y51.68 E13.48606
+G0 F7200 X48.63 Y51.666
+G1 F600 X48.656 Y51.403 E13.48723
+G1 X48.658 Y51.351 E13.48756
+G1 X48.685 Y50.8 E13.49102
+G1 X48.683 Y50.167 E13.49499
+G1 X48.73 Y49.626 E13.49839
+G1 X48.715 Y49.098 E13.5017
+G1 X48.684 Y48.774 E13.50375
+G1 X48.668 Y48.603 E13.50482
+G1 X48.67 Y48.523 E13.50532
+G1 X48.842 Y48.521 E13.50609
+G1 X49.139 Y48.515 E13.50795
+G0 F7200 X49.148 Y48.315
+G0 X50.039 Y48.275
+;TYPE:SKIN
+G1 F600 X50.257 Y49.27 E13.51434
+G1 X50.484 Y49.284 E13.51576
+G1 X50.481 Y49.327 E13.51603
+G1 X50.496 Y49.914 E13.51971
+G1 X50.525 Y50.429 E13.52295
+G1 X50.527 Y50.936 E13.52613
+G1 X50.534 Y51.056 E13.52688
+G1 X50.037 Y51.513 E13.53111
+G1 X50.035 Y52.326 E13.53621
+G1 X49.965 Y52.325 E13.53665
+G1 X49.963 Y51.518 E13.54171
+G1 X49.464 Y51.052 E13.54599
+G1 X49.475 Y50.818 E13.54746
+G1 X49.473 Y50.179 E13.55147
+G1 X49.52 Y49.65 E13.5548
+G1 X49.51 Y49.299 E13.557
+G1 X49.892 Y49.293 E13.5594
+G1 X49.963 Y47.829 E13.56859
+G1 X49.96 Y47.562 E13.57026
+G1 X50.038 Y47.562 E13.57075
+G1 X50.039 Y48.275 E13.57522
+G0 F7200 X50.036 Y49.47
+G1 F600 X50.311 Y49.745 E13.57766
+G0 F7200 X50.338 Y50.338
+G1 F600 X49.694 Y49.694 E13.58337
+G0 F7200 X49.653 Y50.218
+G1 F600 X50.347 Y50.913 E13.58953
+G0 F7200 X50.088 Y51.219
+G1 F600 X49.654 Y50.785 E13.59338
+;MESH:NONMESH
+G0 X49.654 Y50.785 Z0.8
+G0 F7200 X49.343 Y48.905
+;TIME_ELAPSED:43.036591
+;LAYER:5
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.569 Y48.306 E13.59739
+G1 X49.572 Y47.643 E13.60155
+G1 X49.556 Y47.318 E13.60359
+G1 X49.555 Y47.317 E13.6036
+G1 X49.547 Y47.109 E13.6049
+G1 X49.755 Y47.109 E13.60574
+G1 X49.756 Y47.109 E13.60574
+G1 X50.253 Y47.11 E13.60886
+G1 X50.254 Y47.11 E13.60887
+G1 X50.464 Y47.11 E13.61018
+G1 X50.452 Y47.32 E13.61102
+G1 X50.428 Y47.733 E13.61362
+G1 X50.443 Y48.643 E13.61932
+G1 X50.909 Y48.87 E13.62257
+G1 X50.877 Y49.36 E13.62565
+G1 X50.89 Y49.907 E13.62908
+G1 X50.931 Y50.444 E13.63246
+G1 X50.942 Y51.107 E13.63662
+G1 X50.957 Y51.313 E13.63791
+G0 F7200 X50.878 Y51.312
+G1 F1200 X50.434 Y51.649 E13.64141
+G1 X50.425 Y52.501 E13.64675
+G1 X50.425 Y52.757 E13.64836
+G1 X50.425 Y52.775 E13.64847
+G1 X50.047 Y52.802 E13.65084
+G1 X50.032 Y52.794 E13.65095
+G1 X50.006 Y52.779 E13.65114
+G1 X49.571 Y52.771 E13.65387
+G1 X49.574 Y52.638 E13.6547
+G1 X49.573 Y51.838 E13.65972
+G1 X49.29 Y51.316 E13.66344
+G1 X49.045 Y51.317 E13.66498
+G1 X49.064 Y50.758 E13.66848
+G1 X49.071 Y50.275 E13.67151
+G1 X49.121 Y49.763 E13.67474
+G1 X49.117 Y49.173 E13.67844
+G1 X49.096 Y48.928 E13.67998
+G1 X49.093 Y48.903 E13.68014
+G0 F7200 X49.119 Y48.903
+G1 F1200 X49.343 Y48.905 E13.68097
+G0 F7200 X50.641 Y47.021
+G0 X50.868 Y47.043
+;TYPE:WALL-OUTER
+G1 F600 X50.868 Y47.053 E13.68104
+G1 X50.828 Y47.741 E13.68536
+G1 X50.839 Y48.391 E13.68943
+G1 X51.07 Y48.504 E13.69105
+G1 X51.291 Y48.516 E13.69243
+G1 X51.328 Y48.517 E13.69267
+G1 X51.339 Y48.518 E13.69274
+G1 X51.312 Y48.843 E13.69478
+G1 X51.31 Y48.879 E13.69499
+G1 X51.277 Y49.368 E13.69807
+G1 X51.29 Y49.887 E13.70132
+G1 X51.331 Y50.423 E13.70469
+G1 X51.342 Y51.089 E13.70887
+G1 X51.378 Y51.593 E13.71204
+G1 X51.384 Y51.69 E13.71265
+G1 X51.384 Y51.704 E13.71273
+G1 X51.386 Y51.72 E13.71283
+G1 X51.098 Y51.715 E13.71464
+G1 X51.024 Y51.714 E13.7151
+G1 X51.01 Y51.714 E13.71519
+G1 X50.832 Y51.849 E13.71659
+G1 X50.832 Y51.937 E13.71714
+G1 X50.825 Y52.503 E13.72069
+G1 X50.826 Y53.154 E13.72478
+G1 X50.487 Y53.171 E13.7269
+G1 X49.957 Y53.21 E13.73024
+G1 X49.898 Y53.177 E13.73066
+G1 X49.361 Y53.167 E13.73403
+G1 X49.16 Y53.164 E13.73529
+G1 X49.165 Y52.963 E13.7361
+G1 X49.174 Y52.633 E13.73817
+G1 X49.173 Y51.94 E13.74252
+G1 X49.052 Y51.717 E13.74411
+G1 X48.673 Y51.717 E13.74648
+G1 X48.644 Y51.717 E13.74667
+G1 X48.602 Y51.718 E13.74693
+G1 X48.643 Y51.374 E13.74847
+G1 X48.643 Y51.345 E13.74865
+G1 X48.664 Y50.748 E13.75239
+G1 X48.671 Y50.254 E13.75549
+G1 X48.721 Y49.745 E13.7587
+G1 X48.717 Y49.192 E13.76217
+G1 X48.682 Y48.806 E13.7646
+G1 X48.673 Y48.695 E13.7653
+G1 X48.668 Y48.516 E13.76642
+G1 X48.667 Y48.5 E13.76652
+G1 X48.779 Y48.5 E13.76709
+G1 X49.012 Y48.503 E13.76855
+G1 X49.067 Y48.503 E13.76889
+G1 X49.169 Y48.232 E13.77071
+G1 X49.169 Y48.177 E13.77106
+G1 X49.172 Y47.651 E13.77435
+G1 X49.144 Y47.067 E13.77802
+G1 X49.143 Y47.04 E13.77819
+G1 X48.855 Y47.036 E13.77999
+G1 X48.745 Y47.034 E13.78068
+G1 X48.715 Y47.033 E13.78087
+G1 X48.746 Y46.937 E13.78109
+G1 X48.858 Y46.817 E13.78164
+G1 X49.066 Y46.761 E13.78242
+G1 X49.253 Y46.709 E13.78344
+G1 X49.28 Y46.709 E13.78361
+G1 X50.675 Y46.71 E13.79236
+G1 X50.686 Y46.71 E13.79243
+G1 X50.711 Y46.695 E13.79261
+G1 X50.942 Y46.754 E13.7941
+G1 X51.075 Y46.789 E13.79497
+G1 X51.216 Y46.901 E13.79609
+G1 X51.221 Y46.898 E13.79613
+G1 X51.248 Y46.927 E13.79638
+G1 X51.285 Y47.032 E13.79681
+G0 F7200 X51.22 Y47.033
+G1 F600 X51.082 Y47.037 E13.79718
+G1 X50.868 Y47.043 E13.79818
+G0 F7200 X50.868 Y47.053
+G0 X50.857 Y47.242
+G0 X50.051 Y47.5
+;TYPE:SKIN
+G1 F600 X50.038 Y47.725 E13.79959
+G1 X50.057 Y48.889 E13.80689
+G1 X50.502 Y49.106 E13.80999
+G1 X50.487 Y49.352 E13.81154
+G1 X50.5 Y49.927 E13.81515
+G1 X50.541 Y50.45 E13.81843
+G1 X50.551 Y51.071 E13.82233
+G1 X50.046 Y51.454 E13.8263
+G1 X50.036 Y52.39 E13.83217
+G1 X49.964 Y52.388 E13.83262
+G1 X49.963 Y51.739 E13.83669
+G1 X49.522 Y50.926 E13.84249
+G1 X49.449 Y50.926 E13.84295
+G1 X49.454 Y50.768 E13.84394
+G1 X49.461 Y50.288 E13.84695
+G1 X49.511 Y49.781 E13.85015
+G1 X49.508 Y49.296 E13.85319
+G1 X49.612 Y49.297 E13.85384
+G1 X49.959 Y48.378 E13.86
+G1 X49.962 Y47.635 E13.86466
+G1 X49.956 Y47.499 E13.86551
+G1 X50.051 Y47.5 E13.86611
+G0 F7200 X49.955 Y49.039
+G1 F600 X49.867 Y49.127 E13.86689
+G0 F7200 X50.312 Y49.248
+G1 F600 X49.682 Y49.877 E13.87247
+G0 F7200 X49.638 Y50.488
+G1 F600 X50.316 Y49.81 E13.87848
+G0 F7200 X50.351 Y50.34
+G1 F600 X49.74 Y50.951 E13.8839
+G0 F7200 X49.977 Y51.28
+G1 F600 X50.367 Y50.89 E13.88736
+;MESH:NONMESH
+G0 X50.367 Y50.89 Z0.9
+G0 F7200 X49.514 Y48.854
+;TIME_ELAPSED:47.417189
+;LAYER:6
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.572 Y47.712 E13.89453
+G1 X49.555 Y47.326 E13.89695
+G1 X49.548 Y47.134 E13.89815
+G1 X49.568 Y47.132 E13.89828
+G1 X49.76 Y47.127 E13.89908
+G1 X50.054 Y47.117 E13.90092
+G1 X50.258 Y47.126 E13.9022
+G1 X50.458 Y47.134 E13.90346
+G1 X50.449 Y47.334 E13.90427
+G1 X50.427 Y47.804 E13.90722
+G1 X50.486 Y48.848 E13.91378
+G1 X50.699 Y48.85 E13.91511
+G1 X50.91 Y48.85 E13.91643
+G1 X50.898 Y49.061 E13.91728
+G1 X50.885 Y49.259 E13.91852
+G1 X50.892 Y49.848 E13.92222
+G1 X50.934 Y50.358 E13.92542
+G1 X50.944 Y50.883 E13.92872
+G1 X50.965 Y51.349 E13.93164
+G1 X50.944 Y51.349 E13.93177
+G1 X50.436 Y51.628 E13.93541
+G1 X50.426 Y52.496 E13.94085
+G1 X50.426 Y52.835 E13.94298
+G1 X50.067 Y52.84 E13.94523
+G1 X50.01 Y52.856 E13.9456
+G1 X49.978 Y52.842 E13.94582
+G1 X49.574 Y52.835 E13.94835
+G1 X49.573 Y51.894 E13.95425
+G1 X49.304 Y51.351 E13.95805
+G1 X49.035 Y51.352 E13.95974
+G0 F7200 X49.035 Y51.34
+G1 F1200 X49.055 Y50.884 E13.9626
+G1 X49.065 Y50.359 E13.96589
+G1 X49.107 Y49.849 E13.9691
+G1 X49.114 Y49.262 E13.97278
+G1 X49.102 Y49.065 E13.97402
+G1 X49.101 Y49.064 E13.97403
+G1 X49.09 Y48.853 E13.97535
+G1 X49.301 Y48.853 E13.9762
+G1 X49.302 Y48.853 E13.9762
+G1 X49.514 Y48.854 E13.97753
+G0 F7200 X49.374 Y47.055
+G0 X49.003 Y47.006
+;TYPE:WALL-OUTER
+G1 F600 X48.981 Y46.82 E13.97871
+G1 X49.029 Y46.8 E13.97903
+G1 X49.094 Y46.773 E13.97947
+G1 X49.117 Y46.771 E13.97962
+G1 X49.554 Y46.732 E13.98237
+G1 X50.058 Y46.717 E13.98553
+G1 X50.548 Y46.737 E13.98861
+G1 X50.901 Y46.786 E13.99084
+G1 X50.997 Y46.8 E13.99145
+G1 X51.018 Y46.813 E13.9916
+G1 X51.1 Y46.863 E13.99221
+G1 X51.195 Y46.908 E13.99286
+G1 X51.3 Y47.063 E13.99404
+G0 F7200 X51.197 Y47.064
+G1 F600 X51.103 Y47.065 E13.99412
+G1 X51.002 Y47.067 E13.9944
+G1 X50.862 Y47.07 E13.99503
+G1 X50.828 Y47.802 E13.99963
+G1 X50.864 Y48.45 E14.0037
+G1 X51.259 Y48.451 E14.00618
+G1 X51.318 Y48.451 E14.00655
+G1 X51.34 Y48.452 E14.00668
+G1 X51.317 Y48.738 E14.0079
+G1 X51.314 Y48.797 E14.00823
+G1 X51.285 Y49.269 E14.0112
+G1 X51.292 Y49.829 E14.01471
+G1 X51.334 Y50.333 E14.01788
+G1 X51.344 Y50.871 E14.02126
+G1 X51.367 Y51.374 E14.02441
+G1 X51.367 Y51.395 E14.02454
+G1 X51.401 Y51.711 E14.02654
+G1 X51.403 Y51.734 E14.02668
+G1 X51.406 Y51.755 E14.02682
+G0 F7200 X51.363 Y51.755
+G1 F600 X51.342 Y51.755 E14.02695
+G1 X51.124 Y51.751 E14.02831
+G1 X51.067 Y51.75 E14.02867
+G1 X51.044 Y51.75 E14.02881
+G1 X50.833 Y51.866 E14.03032
+G1 X50.833 Y51.946 E14.03082
+G1 X50.826 Y52.498 E14.03428
+G1 X50.826 Y53.165 E14.03847
+G1 X50.892 Y53.224 E14.03902
+G0 F7200 X50.829 Y53.226
+G1 F600 X50.681 Y53.231 E14.03985
+G1 X50.124 Y53.239 E14.04334
+G1 X49.98 Y53.279 E14.04428
+G1 X49.892 Y53.241 E14.04488
+G1 X49.325 Y53.231 E14.04844
+G1 X49.172 Y53.226 E14.0494
+G1 X49.102 Y53.223 E14.04984
+G1 X49.174 Y53.142 E14.05
+G1 X49.173 Y51.988 E14.05724
+G1 X49.056 Y51.752 E14.05889
+G1 X48.661 Y51.752 E14.06136
+G1 X48.633 Y51.752 E14.06154
+G1 X48.594 Y51.753 E14.06178
+G1 X48.632 Y51.406 E14.06334
+G1 X48.633 Y51.378 E14.06351
+G1 X48.655 Y50.872 E14.06668
+G1 X48.665 Y50.334 E14.07006
+G1 X48.707 Y49.83 E14.07323
+G1 X48.714 Y49.271 E14.07673
+G1 X48.685 Y48.798 E14.0797
+G1 X48.682 Y48.738 E14.08008
+G1 X48.659 Y48.452 E14.08188
+G0 F7200 X48.682 Y48.452
+G1 F600 X48.742 Y48.452 E14.08222
+G1 X49.134 Y48.453 E14.08468
+G1 X49.172 Y47.71 E14.08934
+G1 X49.145 Y47.077 E14.09331
+G1 X49.088 Y47.076 E14.09358
+G1 X49.002 Y47.074 E14.09398
+G1 X48.974 Y47.074 E14.09407
+G1 X48.699 Y47.065 E14.09561
+G0 F7200 X48.703 Y47.056
+G1 F600 X49.003 Y47.006 E14.09601
+G0 F7200 X48.981 Y46.82
+G0 X48.993 Y46.815
+G0 X49.031 Y46.908
+G0 X49.954 Y47.51
+;TYPE:SKIN
+G1 F600 X50.05 Y47.507 E14.09661
+G1 X50.037 Y47.806 E14.09849
+G1 X50.117 Y49.236 E14.10747
+G1 X50.496 Y49.238 E14.10984
+G1 X50.495 Y49.285 E14.11014
+G1 X50.502 Y49.866 E14.11378
+G1 X50.544 Y50.366 E14.11693
+G1 X50.554 Y50.895 E14.12025
+G1 X50.564 Y51.113 E14.12161
+G1 X50.048 Y51.396 E14.1253
+G1 X50.036 Y52.45 E14.13191
+G1 X50.012 Y52.45 E14.13206
+G1 X50.001 Y52.453 E14.13214
+G1 X49.964 Y52.452 E14.13237
+G1 X49.963 Y51.802 E14.13644
+G1 X49.546 Y50.961 E14.14233
+G1 X49.442 Y50.961 E14.14298
+G1 X49.445 Y50.896 E14.14339
+G1 X49.455 Y50.367 E14.14671
+G1 X49.497 Y49.867 E14.14985
+G1 X49.504 Y49.253 E14.1537
+G1 X49.503 Y49.243 E14.15377
+G1 X49.885 Y49.244 E14.15616
+G1 X49.962 Y47.714 E14.16577
+G1 X49.954 Y47.51 E14.16705
+G0 F7200 X49.989 Y49.423
+G1 F600 X50.32 Y49.754 E14.16998
+G0 F7200 X50.363 Y50.363
+G1 F600 X49.678 Y49.678 E14.17606
+G0 F7200 X49.648 Y50.213
+G1 F600 X50.376 Y50.942 E14.18252
+G0 F7200 X50.054 Y51.186
+G1 F600 X49.665 Y50.796 E14.18597
+;MESH:NONMESH
+G0 X49.665 Y50.796 Z1
+G0 F7200 X49.374 Y47.055
+G0 X48.656 Y47.614
+;TIME_ELAPSED:51.914412
+;LAYER:7
+;TYPE:WALL-OUTER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F600 X48.653 Y47.654 E14.18622
+G0 F7200 X49.085 Y46.953
+G1 F1500 E7.68622
+G0 F7200 X49.091 Y47.032
+G0 X51.394 Y47.844
+G0 X51.347 Y47.846
+G1 F1500 E14.18622
+G1 F600 X51.348 Y47.914 E14.18665
+G0 F7200 X51.344 Y47.846
+G1 F600 X51.344 Y47.639 E14.18738
+G1 X51.344 Y47.619 E14.18749
+G1 F1500 E7.68749
+G0 F7200 X51.3 Y47.686
+G0 X49.511 Y48.78
+;TYPE:WALL-INNER
+G1 F1500 E14.18749
+G1 F1200 X49.573 Y47.68 E14.1944
+G1 X49.55 Y47.342 E14.19652
+G1 X49.548 Y47.308 E14.19673
+G1 X49.886 Y47.285 E14.19886
+G1 X49.92 Y47.286 E14.19907
+G1 X50.358 Y47.3 E14.20182
+G1 X50.434 Y47.307 E14.2023
+G1 X50.428 Y47.964 E14.20642
+G1 X50.515 Y48.779 E14.21156
+G1 X50.911 Y48.781 E14.21404
+G1 X50.911 Y48.793 E14.21411
+G1 X50.896 Y49.202 E14.21668
+G1 X50.9 Y49.787 E14.22035
+G1 X50.924 Y50.304 E14.22359
+G1 X50.949 Y51.182 E14.2291
+G1 X50.965 Y51.392 E14.23042
+G1 X50.967 Y51.414 E14.23056
+G0 F7200 X50.951 Y51.414
+G1 F1200 X50.664 Y51.416 E14.23178
+G1 X50.427 Y51.994 E14.23569
+G1 X50.426 Y52.888 E14.2413
+G1 X50.066 Y52.897 E14.24356
+G1 X49.962 Y52.918 E14.24422
+G1 X49.948 Y52.921 E14.24431
+G1 X49.785 Y52.893 E14.24535
+G1 X49.574 Y52.886 E14.24667
+G1 X49.574 Y52.871 E14.24677
+G1 X49.573 Y51.987 E14.25231
+G1 X49.328 Y51.415 E14.25621
+G1 X49.034 Y51.414 E14.25805
+G1 X49.034 Y51.4 E14.25814
+G1 X49.057 Y50.969 E14.26085
+G1 X49.076 Y50.419 E14.2643
+G1 X49.097 Y49.88 E14.26768
+G1 X49.106 Y49.343 E14.27105
+G1 X49.098 Y48.984 E14.2733
+G1 X49.095 Y48.782 E14.27457
+G1 X49.297 Y48.782 E14.27538
+G1 X49.511 Y48.78 E14.27673
+G0 F7200 X50.777 Y53.215
+G0 X50.826 Y53.22
+;TYPE:WALL-OUTER
+G1 F600 X51.177 Y53.232 E14.27893
+G1 X51.187 Y53.233 E14.27899
+G0 F7200 X51.177 Y53.239
+G1 F600 X50.831 Y53.27 E14.27914
+G0 F7200 X50.732 Y53.28
+G1 F600 X50.112 Y53.296 E14.28303
+G1 X49.956 Y53.328 E14.28402
+G1 X49.745 Y53.292 E14.28537
+G1 X49.24 Y53.276 E14.28853
+G1 X49.156 Y53.268 E14.28906
+G1 X49.005 Y53.251 E14.29002
+G1 X48.991 Y53.249 E14.29011
+G0 F7200 X49.005 Y53.249
+G1 F600 X49.119 Y53.145 E14.29034
+G1 X49.174 Y53.094 E14.29043
+G1 X49.173 Y52.069 E14.29685
+G1 X49.064 Y51.814 E14.29859
+G1 X48.665 Y51.814 E14.3011
+G1 X48.63 Y51.814 E14.30131
+G1 X48.591 Y51.813 E14.30156
+G1 X48.63 Y51.481 E14.30303
+G1 X48.631 Y51.446 E14.30324
+G1 X48.657 Y50.952 E14.30634
+G1 X48.676 Y50.403 E14.30979
+G1 X48.697 Y49.869 E14.31314
+G1 X48.706 Y49.344 E14.31643
+G1 X48.695 Y48.801 E14.31983
+G1 X48.679 Y48.598 E14.32111
+G1 X48.663 Y48.384 E14.32246
+G1 X48.877 Y48.384 E14.32331
+G1 X48.878 Y48.384 E14.32331
+G1 X49.133 Y48.382 E14.32491
+G1 X49.172 Y47.682 E14.32931
+G1 X49.137 Y47.169 E14.33253
+G1 X49.135 Y47.133 E14.33276
+G1 X48.921 Y47.129 E14.3341
+G1 X48.797 Y47.126 E14.33488
+G1 X48.723 Y47.124 E14.33534
+G1 X48.799 Y47.025 E14.33563
+G1 X48.924 Y46.951 E14.33601
+G1 X49.12 Y46.937 E14.33656
+G1 X49.381 Y46.918 E14.33819
+G1 X49.417 Y46.916 E14.33841
+G1 X49.882 Y46.885 E14.34133
+G1 X50.375 Y46.9 E14.34443
+G1 X50.724 Y46.933 E14.34662
+G1 X50.885 Y46.947 E14.34764
+G1 X50.97 Y46.952 E14.34817
+G1 X51.136 Y46.964 E14.34922
+G1 X51.28 Y47.12 E14.35055
+G1 X51.142 Y47.118 E14.35141
+G0 F7200 X51.134 Y47.118
+G1 F600 X50.96 Y47.115 E14.35186
+G1 X50.885 Y47.258 E14.35287
+G1 X50.833 Y47.357 E14.35357
+G1 X50.833 Y47.365 E14.35362
+G1 X50.828 Y47.944 E14.35725
+G1 X50.875 Y48.381 E14.36001
+G1 X51.263 Y48.383 E14.36244
+G1 X51.315 Y48.383 E14.36277
+G1 X51.344 Y48.384 E14.36295
+G1 X51.314 Y48.682 E14.36423
+G1 X51.313 Y48.734 E14.36453
+G1 X51.296 Y49.207 E14.3675
+G1 X51.3 Y49.776 E14.37107
+G1 X51.324 Y50.292 E14.37431
+G1 X51.349 Y51.16 E14.37975
+G1 X51.38 Y51.548 E14.38219
+G1 X51.392 Y51.704 E14.38317
+G1 X51.402 Y51.81 E14.38384
+G1 X51.245 Y51.811 E14.38456
+G1 X50.933 Y51.814 E14.38652
+G1 X50.827 Y52.073 E14.38827
+G1 X50.826 Y53.22 E14.39546
+G0 F7200 X51.026 Y53.226
+G0 X50.777 Y53.205
+G0 X50.036 Y52.509
+;TYPE:SKIN
+G1 F600 X50.021 Y52.509 E14.39556
+G1 X49.964 Y52.521 E14.39592
+G1 X49.963 Y51.907 E14.39977
+G1 X49.586 Y51.026 E14.40578
+G1 X49.445 Y51.025 E14.40667
+G1 X49.487 Y49.89 E14.41379
+G1 X49.496 Y49.343 E14.41722
+G1 X49.493 Y49.17 E14.4183
+G1 X49.88 Y49.168 E14.42073
+G1 X49.963 Y47.677 E14.43009
+G1 X50.04 Y47.68 E14.43058
+G1 X50.038 Y47.983 E14.43248
+G1 X50.164 Y49.167 E14.43994
+G1 X50.507 Y49.169 E14.44209
+G1 X50.506 Y49.196 E14.44226
+G1 X50.51 Y49.797 E14.44603
+G1 X50.534 Y50.315 E14.44928
+G1 X50.554 Y51.027 E14.45375
+G1 X50.401 Y51.028 E14.45471
+G1 X50.037 Y51.916 E14.46072
+G1 X50.036 Y52.509 E14.46444
+G0 F7200 X49.916 Y51.34
+G1 F600 X50.189 Y51.067 E14.46686
+G0 F7200 X49.747 Y50.944
+G1 F600 X50.353 Y50.338 E14.47224
+G0 F7200 X50.329 Y49.797
+G1 F600 X49.645 Y50.48 E14.4783
+G0 F7200 X49.667 Y49.893
+G1 F600 X50.214 Y49.346 E14.48315
+;MESH:NONMESH
+G0 X50.214 Y49.346 Z1.1
+G0 F7200 X50.47 Y48.662
+;TIME_ELAPSED:57.200600
+;LAYER:8
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X50.907 Y48.672 E14.48589
+G1 X50.903 Y48.801 E14.4867
+G1 X50.907 Y49.313 E14.48991
+G1 X50.901 Y49.864 E14.49336
+G1 X50.922 Y51.02 E14.50061
+G1 X50.949 Y51.493 E14.50358
+G1 X50.882 Y51.492 E14.504
+G1 X50.435 Y51.855 E14.50761
+G1 X50.426 Y52.692 E14.51286
+G1 X50.447 Y52.928 E14.51435
+G1 X50.448 Y52.938 E14.51441
+G1 X50.214 Y52.949 E14.51527
+G1 X49.935 Y52.96 E14.51702
+G1 X49.895 Y52.961 E14.51727
+G1 X49.574 Y52.944 E14.51929
+G1 X49.574 Y52.904 E14.51954
+G1 X49.573 Y52.091 E14.52464
+G1 X49.343 Y51.495 E14.52864
+G1 X49.049 Y51.496 E14.53049
+G0 F7200 X49.05 Y51.478
+G1 F1200 X49.077 Y51.022 E14.53335
+G1 X49.086 Y50.507 E14.53658
+G1 X49.098 Y49.993 E14.5398
+G1 X49.094 Y48.91 E14.54659
+G1 X49.093 Y48.707 E14.54787
+G1 X49.092 Y48.696 E14.54794
+G1 X49.33 Y48.704 E14.54884
+G1 X49.572 Y48.091 E14.55297
+G1 X49.563 Y47.511 E14.55661
+G1 X49.656 Y47.496 E14.5572
+G1 X50.096 Y47.478 E14.55996
+G1 X50.442 Y47.511 E14.56214
+G0 F7200 X50.426 Y47.615
+G1 F1200 X50.47 Y48.662 E14.56871
+G0 F7200 X50.854 Y48.271
+;TYPE:WALL-OUTER
+G1 F600 X51.118 Y48.278 E14.57036
+G1 X51.318 Y48.282 E14.57162
+G1 X51.313 Y48.482 E14.57243
+G1 X51.303 Y48.805 E14.57445
+G1 X51.307 Y49.317 E14.57766
+G1 X51.301 Y49.863 E14.58109
+G1 X51.322 Y51.005 E14.58825
+G1 X51.351 Y51.52 E14.59148
+G1 X51.352 Y51.543 E14.59163
+G1 X51.397 Y51.834 E14.59347
+G1 X51.408 Y51.9 E14.59389
+G0 F7200 X51.347 Y51.9
+G1 F600 X51.324 Y51.9 E14.59404
+G1 X51.1 Y51.895 E14.59544
+G1 X51.021 Y51.894 E14.59594
+G1 X50.833 Y52.047 E14.59746
+G1 X50.833 Y52.126 E14.59795
+G1 X50.826 Y52.677 E14.60141
+G1 X50.86 Y53.063 E14.60384
+G1 X50.868 Y53.155 E14.60442
+G1 X51.162 Y53.154 E14.60626
+G1 X51.299 Y53.153 E14.60712
+G1 X51.163 Y53.259 E14.6074
+G1 X50.891 Y53.301 E14.60791
+G1 X50.729 Y53.326 E14.60891
+G1 X50.636 Y53.33 E14.6095
+G1 X50.233 Y53.349 E14.61203
+G1 X49.9 Y53.361 E14.61412
+G1 X49.398 Y53.334 E14.61727
+G1 X49.386 Y53.334 E14.61734
+G1 X49.129 Y53.301 E14.61897
+G1 X49.024 Y53.287 E14.61963
+G1 X48.923 Y53.273 E14.62027
+G1 X48.776 Y53.224 E14.62124
+G1 X48.705 Y53.153 E14.62187
+G0 F7200 X48.776 Y53.153
+G1 F600 X48.924 Y53.155 E14.62216
+G1 X49.041 Y53.157 E14.62243
+G0 F7200 X49.062 Y53.125
+G1 F600 X49.068 Y53.115 E14.6225
+G1 X49.174 Y52.952 E14.62368
+G1 X49.173 Y52.166 E14.62861
+G1 X49.069 Y51.896 E14.63043
+G1 X48.677 Y51.896 E14.63289
+G1 X48.646 Y51.896 E14.63308
+G1 X48.594 Y51.897 E14.63341
+G1 X48.645 Y51.555 E14.63493
+G1 X48.646 Y51.524 E14.63511
+G1 X48.677 Y51.007 E14.63836
+G1 X48.686 Y50.498 E14.64155
+G1 X48.698 Y49.989 E14.64474
+G1 X48.694 Y48.912 E14.6515
+G1 X48.69 Y48.386 E14.6548
+G1 X48.686 Y48.362 E14.65495
+G1 X48.671 Y48.28 E14.65547
+G0 F7200 X48.693 Y48.28
+G1 F600 X49.062 Y48.294 E14.65717
+G1 X49.171 Y48.018 E14.65903
+G1 X49.159 Y47.294 E14.66357
+G1 X49.097 Y47.282 E14.66397
+G1 X48.812 Y47.226 E14.66579
+G1 X48.777 Y47.225 E14.66601
+G0 F7200 X48.828 Y47.176
+G1 F600 X49.117 Y47.176 E14.66638
+G0 F7200 X49.139 Y47.173
+G1 F600 X49.621 Y47.097 E14.66944
+G1 X50.102 Y47.077 E14.67245
+G1 X50.544 Y47.119 E14.67524
+G1 X50.58 Y47.122 E14.67546
+G1 X50.9 Y47.167 E14.67749
+G1 X51.096 Y47.195 E14.67873
+G1 X51.195 Y47.197 E14.67935
+G1 X51.23 Y47.239 E14.6797
+G0 F7200 X51.195 Y47.239
+G1 F600 X51.096 Y47.239 E14.67976
+G1 X50.89 Y47.238 E14.67996
+G1 X50.885 Y47.274 E14.68019
+G1 X50.827 Y47.638 E14.6825
+G1 X50.854 Y48.271 E14.68648
+G0 F7200 X51.054 Y48.276
+G0 X50.515 Y49.054
+;TYPE:SKIN
+G1 F600 X50.517 Y49.309 E14.68808
+G1 X50.511 Y49.866 E14.69157
+G1 X50.532 Y51.035 E14.6989
+G1 X50.545 Y51.263 E14.70033
+G1 X50.047 Y51.668 E14.70436
+G1 X50.038 Y52.565 E14.70998
+G1 X49.964 Y52.568 E14.71045
+G1 X49.963 Y52.018 E14.71389
+G1 X49.61 Y51.104 E14.72004
+G1 X49.463 Y51.105 E14.72096
+G1 X49.467 Y51.037 E14.72139
+G1 X49.476 Y50.516 E14.72465
+G1 X49.488 Y49.997 E14.72791
+G1 X49.485 Y49.1 E14.73353
+G1 X49.591 Y49.104 E14.7342
+G1 X49.964 Y48.163 E14.74054
+G1 X49.959 Y47.874 E14.74236
+G1 X50.046 Y47.87 E14.7429
+G1 X50.096 Y49.044 E14.75027
+G1 X50.515 Y49.054 E14.7529
+G0 F7200 X50.331 Y49.766
+G1 F600 X49.751 Y49.185 E14.75805
+G0 F7200 X49.666 Y49.666
+G1 F600 X50.339 Y50.339 E14.76401
+G0 F7200 X50.35 Y50.915
+G1 F600 X49.662 Y50.227 E14.77011
+G0 F7200 X49.65 Y50.782
+G1 F600 X50.189 Y51.32 E14.77489
+G1 F1500 E8.27489
+G0 F7200 X50.609 Y52.5
+G0 X51.402 Y52.504
+;TYPE:WALL-OUTER
+G1 F1500 E14.77489
+G1 F600 X51.407 Y52.644 E14.77577
+G1 X51.404 Y52.691 E14.77606
+G1 X51.362 Y52.693 E14.77633
+G1 X51.345 Y52.694 E14.77643
+G0 F7200 X51.345 Y52.644
+G1 F600 X51.345 Y52.504 E14.77656
+G1 X51.346 Y52.381 E14.77681
+G0 F7200 X51.4 Y52.385
+G1 F600 X51.402 Y52.504 E14.7769
+G0 F7200 X51.407 Y52.644
+G0 X51.404 Y52.691
+G0 X51.391 Y52.691
+G1 F1500 E8.2769
+G0 F7200 X51.395 Y52.594
+G0 X48.635 Y52.665
+G0 X48.655 Y52.666
+G1 F1500 E14.7769
+G1 F600 X48.654 Y52.699 E14.77711
+G1 X48.643 Y52.699 E14.77718
+G1 X48.578 Y52.696 E14.77738
+G1 X48.575 Y52.666 E14.77741
+G1 X48.591 Y52.384 E14.77917
+G1 X48.655 Y52.384 E14.77949
+G1 X48.655 Y52.666 E14.77981
+G0 F7200 X48.654 Y52.699
+G0 X48.643 Y52.699
+G0 X48.578 Y52.696
+G0 X48.575 Y52.666
+G0 X48.578 Y52.605
+;MESH:NONMESH
+G0 F600 X48.578 Y52.605 Z1.2
+G0 F7200 X48.605 Y52.613
+G0 X49.562 Y51.82
+;TIME_ELAPSED:62.563291
+;LAYER:9
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.078 Y51.681 E14.78296
+G1 X49.112 Y51.211 E14.78592
+G1 X49.11 Y49.982 E14.79362
+G1 X49.1 Y49.452 E14.79695
+G1 X49.12 Y48.929 E14.80023
+G1 X49.122 Y48.379 E14.80368
+G1 X49.069 Y47.886 E14.80679
+G1 X49.138 Y47.886 E14.80722
+G1 X49.648 Y47.758 E14.81052
+G1 X50.052 Y47.736 E14.81305
+G1 X50.463 Y47.773 E14.81564
+G1 X50.938 Y47.889 E14.81871
+G1 X50.887 Y48.1 E14.82007
+G1 X50.879 Y48.68 E14.82371
+G1 X50.892 Y49.187 E14.82689
+G1 X50.895 Y49.71 E14.83016
+G1 X50.888 Y50.234 E14.83345
+G1 X50.887 Y50.821 E14.83713
+G1 X50.895 Y51.429 E14.84094
+G1 X50.916 Y51.612 E14.8421
+G1 X50.92 Y51.638 E14.84226
+G0 F7200 X50.892 Y51.638
+G1 F1200 X50.73 Y51.635 E14.84277
+G1 X50.424 Y52.162 E14.84659
+G1 X50.441 Y52.895 E14.85119
+G1 X50.443 Y52.989 E14.85178
+G1 X50.226 Y53.006 E14.85314
+G1 X50.132 Y53.006 E14.85373
+G1 X49.748 Y53.002 E14.85614
+G1 X49.57 Y52.988 E14.85726
+G1 X49.562 Y51.82 E14.86458
+G0 F7200 X50.615 Y53.024
+G0 X50.844 Y52.997
+;TYPE:WALL-OUTER
+G1 F600 X51.149 Y52.997 E14.86649
+G1 X51.35 Y52.998 E14.86775
+G1 X51.369 Y52.999 E14.86787
+G0 F7200 X51.35 Y53.07
+G1 F600 X51.149 Y53.276 E14.86888
+G1 X50.916 Y53.326 E14.86998
+G1 X50.72 Y53.369 E14.87124
+G1 X50.242 Y53.406 E14.87425
+G1 X49.727 Y53.402 E14.87748
+G1 X49.253 Y53.364 E14.88046
+G1 X49.075 Y53.319 E14.88161
+G1 X48.828 Y53.256 E14.88321
+G1 X48.734 Y53.158 E14.88406
+G1 X48.652 Y53.072 E14.88481
+G1 X48.632 Y52.999 E14.88528
+G0 F7200 X48.652 Y52.999
+G1 F600 X48.802 Y53.001 E14.88622
+G0 F7200 X48.83 Y53.001
+G1 F600 X48.896 Y53.002 E14.88637
+G1 X49.17 Y52.943 E14.88782
+G1 X49.17 Y52.915 E14.888
+G1 X49.164 Y52.122 E14.89297
+G1 X48.872 Y52.038 E14.89488
+G1 X48.661 Y52.03 E14.8962
+G1 X48.611 Y52.028 E14.89651
+G0 F7200 X48.621 Y51.983
+G1 F600 X48.671 Y51.759 E14.89743
+G1 X48.712 Y51.197 E14.90096
+G1 X48.71 Y49.986 E14.90855
+G1 X48.7 Y49.437 E14.912
+G1 X48.72 Y48.92 E14.91524
+G1 X48.722 Y48.399 E14.91851
+G1 X48.67 Y47.911 E14.92158
+G1 X48.641 Y47.807 E14.92226
+G1 X48.628 Y47.757 E14.92259
+G1 X48.651 Y47.633 E14.92338
+G1 X48.685 Y47.612 E14.92363
+G1 X48.8 Y47.486 E14.9247
+G1 X48.852 Y47.486 E14.92502
+G1 X49.088 Y47.486 E14.9265
+G1 X49.585 Y47.361 E14.92972
+G1 X50.059 Y47.336 E14.93269
+G1 X50.534 Y47.378 E14.93568
+G1 X51.036 Y47.501 E14.93892
+G1 X51.227 Y47.511 E14.94012
+G1 X51.232 Y47.511 E14.94015
+G1 X51.312 Y47.615 E14.94098
+G1 X51.355 Y47.636 E14.94128
+G1 X51.372 Y47.696 E14.94167
+G1 X51.351 Y47.884 E14.94285
+G1 X51.35 Y47.888 E14.94288
+G1 X51.286 Y48.151 E14.94458
+G1 X51.279 Y48.678 E14.94788
+G1 X51.292 Y49.185 E14.95106
+G1 X51.295 Y49.715 E14.95438
+G1 X51.288 Y50.237 E14.95766
+G1 X51.287 Y50.819 E14.96131
+G1 X51.295 Y51.403 E14.96497
+G1 X51.339 Y51.773 E14.9673
+G1 X51.358 Y51.938 E14.96835
+G1 X51.379 Y52.047 E14.96904
+G0 F7200 X51.356 Y52.047
+G1 F600 X51.19 Y52.044 E14.9698
+G1 X51.03 Y52.04 E14.9708
+G1 X50.958 Y52.039 E14.97125
+G1 X50.827 Y52.265 E14.97289
+G1 X50.828 Y52.337 E14.97334
+G1 X50.844 Y52.997 E14.97748
+G0 F7200 X51.044 Y52.997
+G0 X51.043 Y53.097
+G0 X50.045 Y52.614
+;TYPE:SKIN
+G1 F600 X49.958 Y52.614 E14.97803
+G1 X49.95 Y51.525 E14.98486
+G1 X49.489 Y51.393 E14.98786
+G1 X49.502 Y51.225 E14.98892
+G1 X49.5 Y49.978 E14.99674
+G1 X49.49 Y49.467 E14.99994
+G1 X49.51 Y48.937 E15.00327
+G1 X49.512 Y48.359 E15.00689
+G1 X49.495 Y48.199 E15.0079
+G1 X49.702 Y48.146 E15.00924
+G1 X50.052 Y48.128 E15.01144
+G1 X50.396 Y48.158 E15.0136
+G1 X50.495 Y48.183 E15.01425
+G1 X50.489 Y48.682 E15.01737
+G1 X50.502 Y49.189 E15.02055
+G1 X50.505 Y49.704 E15.02378
+G1 X50.498 Y50.231 E15.02709
+G1 X50.497 Y50.823 E15.0308
+G1 X50.503 Y51.25 E15.03348
+G1 X50.032 Y52.061 E15.03936
+G1 X50.045 Y52.614 E15.04283
+G0 F7200 X49.926 Y51.331
+G1 F600 X50.318 Y50.939 E15.0463
+G0 F7200 X50.317 Y50.374
+G1 F600 X49.682 Y51.009 E15.05193
+G0 F7200 X49.681 Y50.444
+G1 F600 X50.323 Y49.802 E15.05763
+G0 F7200 X50.321 Y49.239
+G1 F600 X49.678 Y49.882 E15.06333
+G0 F7200 X49.675 Y49.319
+G1 F600 X50.307 Y48.687 E15.06893
+G0 F7200 X50.115 Y48.313
+G1 F600 X49.689 Y48.739 E15.07271
+;MESH:NONMESH
+G0 X49.689 Y48.739 Z1.3
+G0 F7200 X49.18 Y51.816
+G0 X49.109 Y52.055
+;TIME_ELAPSED:66.964188
+;LAYER:10
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.153 Y51.457 E15.07647
+G1 X49.146 Y50.917 E15.07986
+G1 X49.132 Y50.409 E15.08304
+G1 X49.122 Y49.942 E15.08597
+G1 X49.168 Y49.394 E15.08942
+G1 X49.198 Y48.857 E15.09279
+G1 X49.205 Y48.338 E15.09605
+G1 X49.218 Y48.267 E15.0965
+G1 X49.466 Y48.17 E15.09817
+G1 X49.859 Y48.14 E15.10064
+G1 X50.316 Y48.151 E15.10351
+G1 X50.626 Y48.194 E15.10547
+G1 X50.78 Y48.263 E15.10653
+G1 X50.804 Y48.532 E15.10822
+G1 X50.807 Y49.034 E15.11137
+G1 X50.846 Y49.571 E15.11474
+G1 X50.876 Y50.095 E15.11803
+G1 X50.865 Y50.603 E15.12122
+G1 X50.849 Y51.157 E15.1247
+G1 X50.855 Y51.721 E15.12823
+G1 X50.935 Y52.284 E15.1318
+G1 X50.998 Y52.559 E15.13357
+G1 X50.93 Y52.857 E15.13548
+G1 X50.903 Y52.913 E15.13587
+G1 X50.622 Y52.978 E15.13768
+G1 X50.201 Y53.017 E15.14033
+G1 X49.755 Y53.015 E15.14313
+G1 X49.32 Y52.969 E15.14587
+G1 X49.093 Y52.909 E15.14734
+G1 X49.016 Y52.601 E15.14933
+G1 X49.001 Y52.487 E15.15006
+G1 X49.109 Y52.055 E15.15285
+G0 F7200 X48.713 Y51.991
+;TYPE:WALL-OUTER
+G1 F600 X48.753 Y51.445 E15.15628
+G1 X48.746 Y50.925 E15.15954
+G1 X48.732 Y50.42 E15.16271
+G1 X48.721 Y49.926 E15.16581
+G1 X48.769 Y49.366 E15.16933
+G1 X48.798 Y48.843 E15.17262
+G1 X48.805 Y48.304 E15.176
+G1 X48.858 Y48.005 E15.1779
+G1 X48.954 Y47.941 E15.17862
+G1 X49.378 Y47.775 E15.18148
+G1 X49.848 Y47.739 E15.18443
+G1 X50.346 Y47.751 E15.18756
+G1 X50.741 Y47.806 E15.19006
+G1 X51.124 Y47.979 E15.19269
+G1 X51.16 Y48.032 E15.19309
+G1 X51.204 Y48.517 E15.19615
+G1 X51.207 Y49.018 E15.19929
+G1 X51.245 Y49.542 E15.20258
+G1 X51.276 Y50.095 E15.20606
+G1 X51.265 Y50.615 E15.20932
+G1 X51.249 Y51.161 E15.21274
+G1 X51.255 Y51.69 E15.21606
+G1 X51.329 Y52.211 E15.21936
+G1 X51.409 Y52.559 E15.2216
+G1 X51.31 Y52.99 E15.22437
+G1 X51.22 Y53.178 E15.22568
+G1 X51.117 Y53.274 E15.22656
+G1 X50.692 Y53.373 E15.2293
+G1 X50.216 Y53.417 E15.23229
+G1 X49.731 Y53.415 E15.23534
+G1 X49.247 Y53.364 E15.23839
+G1 X48.873 Y53.265 E15.24081
+G1 X48.73 Y53.105 E15.24216
+G1 X48.622 Y52.676 E15.24493
+G1 X48.595 Y52.463 E15.24628
+G1 X48.713 Y51.991 E15.24933
+G0 F7200 X48.727 Y51.792
+G0 X49.495 Y52.117
+;TYPE:SKIN
+G1 F600 X49.543 Y51.469 E15.2534
+G1 X49.536 Y50.909 E15.25691
+G1 X49.522 Y50.398 E15.26012
+G1 X49.512 Y49.942 E15.26298
+G1 X49.558 Y49.421 E15.26626
+G1 X49.588 Y48.87 E15.26972
+G1 X49.592 Y48.551 E15.27172
+G1 X49.859 Y48.53 E15.2734
+G1 X50.289 Y48.541 E15.2761
+G1 X50.414 Y48.558 E15.27689
+G1 X50.417 Y49.05 E15.27997
+G1 X50.452 Y49.517 E15.28291
+G1 X50.486 Y50.117 E15.28668
+G1 X50.475 Y50.592 E15.28966
+G1 X50.459 Y51.153 E15.29317
+G1 X50.465 Y51.75 E15.29692
+G1 X50.551 Y52.355 E15.30075
+G1 X50.598 Y52.559 E15.30206
+G1 X50.592 Y52.585 E15.30223
+G1 X50.556 Y52.593 E15.30246
+G1 X50.188 Y52.627 E15.30478
+G1 X49.778 Y52.625 E15.30735
+G1 X49.414 Y52.586 E15.30964
+G1 X49.399 Y52.524 E15.31004
+G1 X49.397 Y52.51 E15.31013
+G1 X49.495 Y52.117 E15.31267
+G0 F7200 X49.686 Y51.949
+G1 F600 X50.182 Y52.445 E15.31707
+G0 F7200 X50.321 Y52.018
+G1 F600 X49.722 Y51.419 E15.32238
+G0 F7200 X50.281 Y51.413
+G1 F600 X49.713 Y50.845 E15.32742
+G0 F7200 X50.288 Y50.853
+G1 F600 X49.699 Y50.264 E15.33264
+G0 F7200 X49.712 Y49.712
+G1 F600 X50.301 Y50.301 E15.33786
+G0 F7200 X50.282 Y49.716
+G1 F600 X49.75 Y49.184 E15.34258
+G0 F7200 X49.843 Y48.711
+G1 F600 X50.24 Y49.109 E15.34611
+;MESH:NONMESH
+G0 X50.24 Y49.109 Z1.4
+G0 F7200 X49.252 Y51.46
+G0 X49.2 Y51.457
+;TIME_ELAPSED:70.973893
+;LAYER:11
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.177 Y50.968 E15.34918
+G1 X49.229 Y50.421 E15.35262
+G1 X49.262 Y49.889 E15.35596
+G1 X49.278 Y49.379 E15.35916
+G1 X49.32 Y48.975 E15.36171
+G1 X49.499 Y48.778 E15.36338
+G1 X49.54 Y48.758 E15.36367
+G1 X49.852 Y48.745 E15.36562
+G1 X50.311 Y48.736 E15.3685
+G1 X50.442 Y48.75 E15.36933
+G1 X50.53 Y48.801 E15.36997
+G1 X50.679 Y48.97 E15.37138
+G1 X50.721 Y49.378 E15.37395
+G1 X50.742 Y49.968 E15.37765
+G1 X50.823 Y50.977 E15.384
+G1 X50.799 Y51.514 E15.38737
+G1 X50.802 Y52.035 E15.39064
+G1 X50.814 Y52.517 E15.39366
+G1 X50.75 Y52.932 E15.39629
+G1 X50.604 Y52.968 E15.39724
+G1 X50.169 Y53.004 E15.39997
+G1 X49.717 Y53 E15.40281
+G1 X49.307 Y52.953 E15.40539
+G1 X49.255 Y52.936 E15.40574
+G1 X49.25 Y52.917 E15.40586
+G1 X49.182 Y52.487 E15.40859
+G1 X49.198 Y52.006 E15.41161
+G1 X49.2 Y51.457 E15.41505
+G0 F7200 X48.8 Y51.466
+;TYPE:WALL-OUTER
+G1 F600 X48.776 Y50.963 E15.41821
+G1 X48.83 Y50.39 E15.42182
+G1 X48.862 Y49.871 E15.42508
+G1 X48.878 Y49.352 E15.42833
+G1 X48.931 Y48.845 E15.43153
+G1 X48.962 Y48.774 E15.43201
+G1 X49.252 Y48.455 E15.43472
+G1 X49.438 Y48.361 E15.43602
+G1 X49.836 Y48.345 E15.43852
+G1 X50.329 Y48.336 E15.44161
+G1 X50.569 Y48.361 E15.44313
+G1 X50.788 Y48.489 E15.44472
+G1 X51.064 Y48.801 E15.44733
+G1 X51.121 Y49.352 E15.4508
+G1 X51.141 Y49.945 E15.45452
+G1 X51.224 Y50.971 E15.46098
+G1 X51.199 Y51.522 E15.46443
+G1 X51.202 Y52.029 E15.46761
+G1 X51.215 Y52.54 E15.47082
+G1 X51.14 Y53.024 E15.47389
+G1 X51.094 Y53.217 E15.47513
+G1 X51.062 Y53.267 E15.47551
+G1 X50.664 Y53.365 E15.47808
+G1 X50.188 Y53.404 E15.48107
+G1 X49.696 Y53.4 E15.48416
+G1 X49.222 Y53.345 E15.48715
+G1 X48.926 Y53.253 E15.48909
+G1 X48.858 Y53 E15.49073
+G1 X48.781 Y52.51 E15.49384
+G1 X48.798 Y51.999 E15.49705
+G1 X48.8 Y51.466 E15.50039
+G0 F7200 X48.791 Y51.266
+G0 X49.59 Y51.449
+;TYPE:SKIN
+G1 F600 X49.568 Y50.973 E15.50338
+G1 X49.617 Y50.452 E15.50666
+G1 X49.652 Y49.907 E15.51009
+G1 X49.668 Y49.399 E15.51327
+G1 X49.695 Y49.143 E15.51489
+G1 X49.868 Y49.135 E15.51597
+G1 X50.291 Y49.126 E15.51863
+G1 X50.304 Y49.134 E15.51872
+G1 X50.331 Y49.392 E15.52035
+G1 X50.352 Y49.991 E15.52411
+G1 X50.433 Y50.975 E15.5303
+G1 X50.409 Y51.506 E15.53363
+G1 X50.412 Y52.041 E15.53698
+G1 X50.424 Y52.489 E15.53979
+G1 X50.407 Y52.593 E15.54045
+G1 X50.162 Y52.614 E15.542
+G1 X49.746 Y52.61 E15.54461
+G1 X49.595 Y52.593 E15.54556
+G1 X49.574 Y52.46 E15.5464
+G1 X49.588 Y52.013 E15.54921
+G1 X49.59 Y51.449 E15.55274
+G0 F7200 X50.234 Y52.154
+G1 F600 X49.957 Y52.431 E15.5552
+G0 F7200 X49.767 Y52.055
+G1 F600 X50.229 Y51.594 E15.55929
+G0 F7200 X49.77 Y51.487
+G1 F600 X50.25 Y51.007 E15.56355
+G0 F7200 X49.752 Y50.939
+G1 F600 X50.21 Y50.481 E15.56761
+G0 F7200 X49.805 Y50.32
+G1 F600 X50.169 Y49.957 E15.57083
+G0 F7200 X49.838 Y49.722
+G1 F600 X50.15 Y49.409 E15.5736
+;MESH:NONMESH
+G0 X50.15 Y49.409 Z1.5
+G0 F7200 X50.087 Y49.075
+;TIME_ELAPSED:74.291174
+;LAYER:12
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X50.417 Y49.075 E15.57567
+G1 X50.502 Y49.107 E15.57624
+G1 X50.597 Y49.198 E15.57707
+G1 X50.607 Y49.533 E15.57917
+G1 X50.596 Y50.013 E15.58218
+G1 X50.576 Y50.423 E15.58475
+G1 X49.424 Y50.423 E15.59198
+G1 X49.403 Y49.956 E15.59491
+G1 X49.393 Y49.419 E15.59827
+G1 X49.41 Y49.189 E15.59972
+G1 X49.519 Y49.099 E15.60061
+G1 X49.656 Y49.066 E15.60149
+G1 X50.087 Y49.075 E15.60419
+G0 F7200 X50.091 Y48.675
+;TYPE:WALL-OUTER
+G1 F600 X50.49 Y48.675 E15.6067
+G1 X50.72 Y48.762 E15.60824
+G1 X50.992 Y49.021 E15.61059
+G1 X51.007 Y49.521 E15.61373
+G1 X50.996 Y50.032 E15.61693
+G1 X50.958 Y50.823 E15.6219
+G1 X49.042 Y50.823 E15.63391
+G1 X49.003 Y49.974 E15.63924
+G1 X48.993 Y49.407 E15.6428
+G1 X49.024 Y48.99 E15.64542
+G1 X49.336 Y48.732 E15.64796
+G1 X49.612 Y48.665 E15.64974
+G1 X50.091 Y48.675 E15.65274
+G0 F7200 X50.291 Y48.675
+G0 X50.215 Y49.465
+;TYPE:SKIN
+G1 F600 X50.217 Y49.524 E15.65311
+G1 X50.206 Y49.994 E15.65606
+G1 X50.204 Y50.033 E15.65631
+G1 X49.797 Y50.033 E15.65886
+G1 X49.793 Y49.939 E15.65945
+G1 X49.784 Y49.458 E15.66246
+G1 X50.083 Y49.465 E15.66434
+G1 X50.215 Y49.465 E15.66517
+G0 F7200 X50.204 Y49.475
+;MESH:NONMESH
+G0 F600 X50.204 Y49.475 Z1.6
+G0 F7200 X49.922 Y51.085
+;TIME_ELAPSED:75.643550
+;LAYER:13
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.672 Y51.136 E15.66677
+G1 X49.569 Y51.111 E15.66743
+G1 X49.552 Y51.099 E15.66756
+G1 X49.542 Y51.075 E15.66772
+G1 X49.512 Y50.641 E15.67045
+G1 X49.485 Y50.035 E15.67426
+G1 X49.481 Y49.626 E15.67682
+G1 X49.481 Y49.555 E15.67727
+G1 X49.486 Y49.466 E15.67782
+G1 X49.535 Y49.432 E15.6782
+G1 X49.687 Y49.399 E15.67917
+G1 X49.758 Y49.399 E15.67962
+G1 X50.141 Y49.399 E15.68202
+G1 X50.42 Y49.418 E15.68377
+G1 X50.518 Y49.466 E15.68446
+G1 X50.52 Y49.75 E15.68624
+G1 X50.505 Y50.28 E15.68956
+G1 X50.484 Y50.791 E15.69277
+G1 X50.458 Y50.989 E15.69402
+G1 X50.444 Y51.103 E15.69474
+G1 X50.415 Y51.121 E15.69496
+G1 X50.272 Y51.142 E15.69586
+G1 X50.159 Y51.124 E15.69658
+G1 X49.922 Y51.085 E15.69809
+G0 F7200 X49.93 Y51.492
+;TYPE:WALL-OUTER
+G1 F600 X49.665 Y51.546 E15.69978
+G1 X49.4 Y51.482 E15.70149
+G1 X49.227 Y51.358 E15.70283
+G1 X49.148 Y51.168 E15.70412
+G1 X49.112 Y50.659 E15.70732
+G1 X49.085 Y50.053 E15.71112
+G1 X49.081 Y49.558 E15.71422
+G1 X49.097 Y49.248 E15.71617
+G1 X49.374 Y49.058 E15.71828
+G1 X49.642 Y48.999 E15.72
+G1 X50.153 Y48.999 E15.7232
+G1 X50.527 Y49.024 E15.72555
+G1 X50.805 Y49.161 E15.72749
+G1 X50.896 Y49.23 E15.72821
+G1 X50.916 Y49.264 E15.72846
+G1 X50.92 Y49.761 E15.73157
+G1 X50.905 Y50.297 E15.73494
+G1 X50.883 Y50.822 E15.73823
+G1 X50.828 Y51.26 E15.741
+G1 X50.744 Y51.39 E15.74197
+G1 X50.551 Y51.504 E15.74337
+G1 X50.268 Y51.547 E15.74517
+G1 X49.93 Y51.492 E15.74732
+G0 F7200 X49.734 Y51.532
+G0 X49.907 Y50.69
+;TYPE:SKIN
+G1 F600 X49.902 Y50.614 E15.74779
+G1 X49.875 Y50.017 E15.75154
+G1 X49.873 Y49.789 E15.75297
+G1 X50.129 Y49.79 E15.75458
+G1 X50.115 Y50.264 E15.75755
+G1 X50.096 Y50.718 E15.7604
+G1 X49.914 Y50.689 E15.76155
+G1 X49.907 Y50.69 E15.7616
+G0 F7200 X49.915 Y50.686
+;MESH:NONMESH
+G0 F600 X49.915 Y50.686 Z1.7
+G0 F7200 X50.017 Y50.439
+;TIME_ELAPSED:77.031506
+;LAYER:14
+;TYPE:WALL-INNER
+;MESH:C:\Users\might\3D Objects\zw3cr0p8z3sw-PeugeotOnyx\3D models\PeugeotOnyxConcept.stl
+G1 F1200 X49.762 Y50.597 E15.76348
+G1 X49.598 Y50.699 E15.76469
+G1 X49.587 Y50.683 E15.76481
+G1 X49.576 Y50.299 E15.76636
+G1 X49.565 Y49.827 E15.76932
+G1 X49.689 Y49.776 E15.77016
+G1 X50.075 Y49.773 E15.77258
+G1 X50.321 Y49.782 E15.77413
+G1 X50.435 Y49.831 E15.77491
+G1 X50.436 Y50.044 E15.77624
+G1 X50.417 Y50.546 E15.77939
+G1 X50.403 Y50.687 E15.78028
+G1 X50.394 Y50.698 E15.78037
+G0 F7200 X50.339 Y50.66
+G1 F1200 X50.017 Y50.439 E15.78282
+G0 F7200 X50.006 Y50.917
+;TYPE:WALL-OUTER
+G1 F600 X49.623 Y51.155 E15.78564
+G1 X49.528 Y51.146 E15.78624
+G1 X49.314 Y50.992 E15.7879
+G1 X49.19 Y50.815 E15.78925
+G1 X49.176 Y50.31 E15.79242
+G1 X49.163 Y49.766 E15.79583
+G1 X49.165 Y49.62 E15.79675
+G1 X49.227 Y49.532 E15.79742
+G1 X49.609 Y49.377 E15.80001
+G1 X50.087 Y49.373 E15.803
+G1 X50.408 Y49.385 E15.80502
+G1 X50.788 Y49.546 E15.80761
+G1 X50.835 Y49.617 E15.80814
+G1 X50.836 Y50.059 E15.81091
+G1 X50.817 Y50.569 E15.81411
+G1 X50.788 Y50.858 E15.81593
+G1 X50.578 Y51.09 E15.81789
+G1 X50.437 Y51.153 E15.81886
+G1 X50.332 Y51.141 E15.81953
+G1 X50.006 Y50.917 E15.82201
+G0 F7200 X49.836 Y51.022
+G0 X49.862 Y50.144
+;TYPE:SKIN
+G1 F600 X50.101 Y50.101 E15.82406
+G0 F7200 X50.229 Y50.234
+;TIME_ELAPSED:77.931948
+G1 F1500 E9.32406
+M107
+M104 S0
+M140 S0
+;Retract the filament
+G92 E1
+G1 E-1 F300
+G28 X0 Y0
+M84
+M82 ;absolute extrusion mode
+M104 S0
+;End of Gcode
